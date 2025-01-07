@@ -8,6 +8,9 @@
 <body>
     <h1>Now playing</h1>
     <p>{{file_path}}</p>
+    {% if file_path == no_hash %}
+    <a href="/">or click here to re-crawl the connected drive(s)</a>
+    {% endif %}
     <p>Size : <strong>{{file_size}} GB</strong></p>
     <video preload="auto" controls width="800">
         <source src="{{file_path}}" type="video/x-matroska" />

@@ -23,17 +23,26 @@ def library():
 @app.route("/library/<hash>", methods=["GET"])
 def play(hash):
     localhost = "http://192.168.1.86"
+    no_hash = "No such hash found. Please load a different file."
     # Lookup the hash in the hashes dictionary
-    file_path = hashes.get(hash, "No such hash found")
-    if file_path is not "No such hash found":
+    file_path = hashes.get(hash, no_hash)
+    if file_path is not no_hash:
         file_size = os.path.getsize(file_path)
         file_size = file_size / 1e+9  # Convert from bytes to gigabytes
         file_size = round(file_size, 2)
     else:
+        file_path = no_hash
         file_size = 0
 
     # Render the play.html template with the file path
-    return render_template("play.html", file_path=f"{localhost}{file_path}", file_size=file_size)
+    return render_template(
+        "play.html", 
+        file_path=f"{localhost}{file_path}" 
+        if file_path != no_hash 
+        else file_path, 
+        file_size=file_size,
+        no_hash=no_hash,
+    )
 
 
 app.config['MEDIA_FOLDER'] = '/'
