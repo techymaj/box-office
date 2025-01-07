@@ -2,7 +2,6 @@ import os
 import json
 from flask import Flask, redirect, render_template, send_from_directory, abort # type: ignore
 from crawler import crawl, hashes
-from data import movies, series as series_library
 
 
 app = Flask(__name__)
