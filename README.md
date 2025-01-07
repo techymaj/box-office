@@ -22,7 +22,6 @@ This Flask application serves a media library where users can browse, stream, an
 .
 ├── app.py                 # Main Flask application
 ├── crawler.py             # Contains the `crawl()` function to generate file tree and hashes
-├── data.py                # Contains movie and series metadata
 ├── templates/             # HTML templates
 │   ├── index.html         # Displays the media library
 │   └── play.html          # Plays a selected media file
