@@ -28,6 +28,8 @@ def play(hash):
     file_path = hashes.get(hash, "No such hash found")
     if file_path is not "No such hash found":
         file_size = os.path.getsize(file_path)
+        file_size = file_size / 1e+9  # Convert from bytes to gigabytes
+        file_size = round(file_size, 2)
     else:
         file_size = 0
 
