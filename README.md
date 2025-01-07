@@ -39,8 +39,8 @@ This Flask application serves a media library where users can browse, stream, an
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone https://github.com/techymaj/box-office.git
+   cd box-office
    ```
 
 2. Install dependencies:
