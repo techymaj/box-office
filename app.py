@@ -9,6 +9,12 @@ app = Flask(__name__)
 with open("tree.json", "r") as tree:
     content = json.load(tree)
 
+
+@app.route("/crawl")
+def re_crawl():
+    crawl()
+    return redirect("/library")
+
 @app.route("/")
 @app.route("/home")
 def index():
