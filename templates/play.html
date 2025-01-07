@@ -9,10 +9,10 @@
     <h1>Now playing</h1>
     <p>{{file_path}}</p>
     <p>Size : {{file_size}} bytes</p>
-    <video controls width="1200">
+    <video preload="auto" controls width="800">
         <source src="{{file_path}}" type="video/x-matroska" />
         <source src="{{file_path}}" type="video/mp4" />
-        Download here
+        Your browser does not support the video tag. Download here
         <a href="{{file_path}}">Click to download</a>
       </video>
 </body>

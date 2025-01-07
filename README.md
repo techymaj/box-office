@@ -159,4 +159,4 @@ If `tree.json` is missing, the app automatically calls `crawl()` to generate the
 
 This application provides a foundation for serving a media library and can be extended with additional features as needed.
 
-Feel free to contribute
+Feel free to contribute.
