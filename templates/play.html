@@ -9,5 +9,11 @@
     <h1>Now playing</h1>
     <p>{{file_path}}</p>
     <p>Size : {{file_size}} bytes</p>
+    <video controls width="1200">
+        <source src="{{file_path}}" type="video/x-matroska" />
+        <source src="{{file_path}}" type="video/mp4" />
+        Download here
+        <a href="{{file_path}}">Click to download</a>
+      </video>
 </body>
 </html>

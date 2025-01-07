@@ -1,6 +1,6 @@
 import os
 import json
-from flask import Flask, redirect, render_template # type: ignore
+from flask import Flask, redirect, render_template, send_from_directory, abort # type: ignore
 from crawler import crawl, hashes
 from data import movies, series as series_library
 
@@ -23,6 +23,7 @@ def library():
 
 @app.route("/library/<hash>", methods=["GET"])
 def play(hash):
+    localhost = "http://192.168.1.86"
     # Lookup the hash in the hashes dictionary
     file_path = hashes.get(hash, "No such hash found")
     if file_path is not "No such hash found":
@@ -31,7 +32,17 @@ def play(hash):
         file_size = 0
 
     # Render the play.html template with the file path
-    return render_template("play.html", file_path=file_path, file_size=file_size)
+    return render_template("play.html", file_path=f"{localhost}{file_path}", file_size=file_size)
+
+
+app.config['MEDIA_FOLDER'] = '/'
+
+@app.route('/<path:filename>')
+def serve_media(filename):
+    safe_path = os.path.join(app.config['MEDIA_FOLDER'], filename)
+    if not os.path.exists(safe_path):
+        abort(404)
+    return send_from_directory(app.config['MEDIA_FOLDER'], filename)
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8080, debug=True)
