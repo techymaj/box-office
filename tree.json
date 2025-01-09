@@ -315,7 +315,8 @@
             "2TB": {
                 "_files": [
                     "lil-monster-test-interview.MOV.mov",
-                    "._lil-monster-test-interview.MOV.mov"
+                    "._lil-monster-test-interview.MOV.mov",
+                    "me.txt"
                 ],
                 ".Spotlight-V100": {
                     "_files": [
@@ -332,30 +333,32 @@
                                 "Cab.created",
                                 "tmp.Star",
                                 "indexState",
-                                "0.indexDirectory",
-                                "0.indexCompactDirectory",
-                                "0.indexArrays",
                                 "0.indexHead",
-                                "0.shadowIndexHead",
                                 "0.indexIds",
                                 "0.indexBigDates",
                                 "0.indexGroups",
-                                "0.directoryStoreFile",
-                                "0.directoryStoreFile.shadow",
-                                "0.shadowIndexGroups",
-                                "0.indexUpdates",
                                 "0.indexPostings",
+                                "0.indexTermIds",
                                 "0.indexPositions",
-                                "store.updates",
-                                "live.0.shadowIndexHead",
+                                "0.indexPositionTable",
+                                "0.indexDirectory",
+                                "0.indexCompactDirectory",
+                                "0.indexArrays",
+                                "journalAttr.3",
+                                "0.directoryStoreFile",
+                                "live.0.indexHead",
+                                "live.0.indexIds",
+                                "live.0.indexBigDates",
                                 "live.0.indexGroups",
-                                "live.0.directoryStoreFile",
+                                "live.0.indexPostings",
+                                "live.0.indexTermIds",
                                 "live.0.indexPositions",
                                 "live.0.indexPositionTable",
-                                "live.0.indexTermIds",
-                                "live.0.shadowIndexTermIds",
+                                "live.0.indexDirectory",
                                 "live.0.indexCompactDirectory",
                                 "live.0.indexArrays",
+                                "live.0.indexUpdates",
+                                "live.0.directoryStoreFile",
                                 "store.db",
                                 ".store.db",
                                 "dbStr-1.map.header",
@@ -382,24 +385,28 @@
                                 "tmp.spotlight.state",
                                 "store_generation",
                                 "journalExclusion",
+                                "0.indexUpdates",
                                 "shutdown_time",
+                                "store.updates",
                                 "reverseDirectoryStore.shadow",
-                                "live.0.indexIds",
-                                "live.0.indexUpdates",
-                                "journalAttr.32",
-                                "Cab.modified",
-                                "live.0.indexPostings",
-                                "live.0.shadowIndexGroups",
-                                "live.0.indexBigDates",
-                                "reverseStore.updates",
-                                "tmp.spotlight.loc",
-                                "live.0.indexHead",
-                                "live.0.directoryStoreFile.shadow",
-                                "live.0.shadowIndexDirectory",
-                                "live.0.indexDirectory",
-                                "live.0.shadowIndexArrays",
+                                "0.shadowIndexHead",
+                                "0.shadowIndexTermIds",
+                                "0.shadowIndexPositionTable",
+                                "0.shadowIndexCompactDirectory",
+                                "0.shadowIndexDirectory",
+                                "0.shadowIndexArrays",
+                                "0.directoryStoreFile.shadow",
+                                "0.shadowIndexGroups",
+                                "live.0.shadowIndexHead",
+                                "live.0.shadowIndexTermIds",
+                                "live.0.shadowIndexPositionTable",
                                 "live.0.shadowIndexCompactDirectory",
-                                "live.0.shadowIndexPositionTable"
+                                "live.0.shadowIndexDirectory",
+                                "live.0.shadowIndexArrays",
+                                "live.0.directoryStoreFile.shadow",
+                                "live.0.shadowIndexGroups",
+                                "reverseStore.updates",
+                                "tmp.spotlight.loc"
                             ],
                             "journals.corespotlight": {
                                 "_files": []
@@ -412,9 +419,9 @@
                             },
                             "journals.live_user": {
                                 "_files": [
-                                    "journal.1886",
-                                    "retire.1909",
-                                    "journal.1921"
+                                    "journal.1",
+                                    "journal.68",
+                                    "retire.50"
                                 ]
                             },
                             "journals.live_priority": {
@@ -436,19 +443,134 @@
                                 "_files": []
                             },
                             "journals.scan": {
-                                "_files": []
-                            },
-                            "journals.repair": {
-                                "_files": []
+                                "_files": [
+                                    "journal.1",
+                                    "retire.169"
+                                ]
                             }
                         }
                     }
                 },
-                ".fseventsd": {
+                "hls": {
                     "_files": [
-                        "fseventsd-uuid",
-                        "0000000002915a5a",
-                        "0000000002915a5b"
+                        "playlist0.ts",
+                        "playlist2.ts",
+                        "playlist1.ts",
+                        "playlist3.ts",
+                        "playlist4.ts",
+                        "playlist5.ts",
+                        "playlist6.ts",
+                        "playlist7.ts",
+                        "playlist8.ts",
+                        "playlist9.ts",
+                        "playlist10.ts",
+                        "playlist11.ts",
+                        "playlist12.ts",
+                        "playlist13.ts",
+                        "playlist14.ts",
+                        "playlist15.ts",
+                        "playlist16.ts",
+                        "playlist17.ts",
+                        "playlist18.ts",
+                        "playlist19.ts",
+                        "playlist20.ts",
+                        "playlist21.ts",
+                        "playlist22.ts",
+                        "playlist23.ts",
+                        "playlist24.ts",
+                        "playlist25.ts",
+                        "playlist26.ts",
+                        "playlist27.ts",
+                        "playlist28.ts",
+                        "playlist29.ts",
+                        "playlist30.ts",
+                        "playlist31.ts",
+                        "playlist32.ts",
+                        "playlist33.ts",
+                        "playlist34.ts",
+                        "playlist35.ts",
+                        "playlist36.ts",
+                        "playlist37.ts",
+                        "playlist38.ts",
+                        "playlist39.ts",
+                        "playlist40.ts",
+                        "playlist41.ts",
+                        "playlist42.ts",
+                        "playlist43.ts",
+                        "playlist44.ts",
+                        "playlist45.ts",
+                        "playlist46.ts",
+                        "playlist47.ts",
+                        "playlist48.ts",
+                        "playlist49.ts",
+                        "playlist50.ts",
+                        "playlist51.ts",
+                        "playlist52.ts",
+                        "playlist53.ts",
+                        "playlist54.ts",
+                        "playlist55.ts",
+                        "playlist56.ts",
+                        "playlist57.ts",
+                        "playlist58.ts",
+                        "playlist59.ts",
+                        "playlist60.ts",
+                        "playlist61.ts",
+                        "playlist62.ts",
+                        "playlist63.ts",
+                        "playlist64.ts",
+                        "playlist65.ts",
+                        "playlist66.ts",
+                        "playlist67.ts",
+                        "playlist68.ts",
+                        "playlist69.ts",
+                        "playlist70.ts",
+                        "playlist71.ts",
+                        "playlist72.ts",
+                        "playlist73.ts",
+                        "playlist74.ts",
+                        "playlist75.ts",
+                        "playlist76.ts",
+                        "playlist77.ts",
+                        "playlist78.ts",
+                        "playlist79.ts",
+                        "playlist80.ts",
+                        "playlist81.ts",
+                        "playlist82.ts",
+                        "playlist83.ts",
+                        "playlist84.ts",
+                        "playlist85.ts",
+                        "playlist86.ts",
+                        "playlist87.ts",
+                        "playlist88.ts",
+                        "playlist89.ts",
+                        "playlist90.ts",
+                        "playlist91.ts",
+                        "playlist92.ts",
+                        "playlist93.ts",
+                        "playlist94.ts",
+                        "playlist95.ts",
+                        "playlist96.ts",
+                        "playlist97.ts",
+                        "playlist98.ts",
+                        "playlist99.ts",
+                        "playlist100.ts",
+                        "playlist101.ts",
+                        "playlist103.ts",
+                        "playlist102.ts",
+                        "playlist104.ts",
+                        "playlist105.ts",
+                        "playlist107.ts",
+                        "playlist106.ts",
+                        "playlist109.ts",
+                        "playlist108.ts",
+                        "playlist111.ts",
+                        "playlist110.ts",
+                        "playlist113.ts",
+                        "playlist112.ts",
+                        "playlist114.ts",
+                        "playlist115.ts",
+                        "playlist116.ts",
+                        "playlist.m3u8"
                     ]
                 },
                 "torrents": {
@@ -1063,6 +1185,12 @@
                             ]
                         }
                     },
+                    "American Sniper (2014) [1080p]": {
+                        "_files": [
+                            "American.Sniper.2014.1080p.BluRay.x264.YIFY.mp4",
+                            "WWW.YTS.TO.jpg"
+                        ]
+                    },
                     "The Incredibles (2004) [1080p] [YTS.AG]": {
                         "_files": [
                             "WWW.YTS.AG.jpg",
@@ -1189,6 +1317,12 @@
                             "Hitch.2005.1080p.BrRip.x264.YIFY.srt"
                         ]
                     },
+                    "Lucy (2014) [1080p]": {
+                        "_files": [
+                            "Lucy.2014.1080p.BluRay.x264.YIFY.mp4",
+                            "WWW.YTS.RE.jpg"
+                        ]
+                    },
                     "Oblivion (2013) [1080p]": {
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
@@ -1200,6 +1334,13 @@
                         "_files": [
                             "Tag.2018.1080p.BluRay.x264-[YTS.AM].mp4",
                             "www.YTS.AM.jpg"
+                        ]
+                    },
+                    "Beautiful Creatures (2013) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Beautiful.Creatures.2013.1080p.BluRay.x264.YIFY.srt",
+                            "Beautiful.Creatures.2013.1080p.BluRay.x264.YIFY.mp4"
                         ]
                     },
                     "The Founder (2016) [1080p] [YTS.AG]": {
@@ -1226,6 +1367,137 @@
                             "YTSYifyUP... (TOR).txt",
                             "Furiosa.A.Mad.Max.Saga.2024.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
                             "www.YTS.MX.jpg"
+                        ]
+                    },
+                    "Dune Part Two (2024) [1080p] [BluRay] [5.1] [YTS.MX]": {
+                        "_files": [
+                            "Dune.Part.Two.2024.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
+                            "YTSProxies.com.txt",
+                            "www.YTS.MX.jpg"
+                        ]
+                    },
+                    "Joker (2019) [BluRay] [1080p] [YTS.LT]": {
+                        "_files": [
+                            "www.YTS.LT.jpg",
+                            "Joker.2019.1080p.BluRay.x264-[YTS.LT].srt",
+                            "Joker.2019.1080p.BluRay.x264-[YTS.LT].mp4"
+                        ],
+                        "Subs": {
+                            "_files": [
+                                "English SDH.eng.srt"
+                            ]
+                        }
+                    },
+                    "Snowden (2016) [1080p] [YTS.AG]": {
+                        "_files": [
+                            "WWW.YTS.AG.jpg",
+                            "Snowden.2016.1080p.BluRay.x264-[YTS.AG].mp4"
+                        ]
+                    },
+                    "Tenet (2020) [1080p] [BluRay] [5.1] [YTS.MX]": {
+                        "_files": [
+                            "Tenet.2020.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
+                            "www.YTS.MX.jpg"
+                        ]
+                    },
+                    "The Host (2013) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "The.Host.2013.1080p.BluRay.x264.YIFY.srt",
+                            "The.Host.2013.1080p.BluRay.x264.YIFY.mp4"
+                        ]
+                    },
+                    "The Matrix (1999) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "The.Matrix.1999.1080p.BrRip.x264.YIFY.srt",
+                            "The.Matrix.1999.1080p.BrRip.x264.YIFY.mp4"
+                        ],
+                        "Other": {
+                            "_files": [
+                                "Torrent downloaded from Demonoid.com - Copy.txt",
+                                "Torrent Downloaded From ExtraTorrent.com.txt",
+                                "AhaShare.com.txt"
+                            ]
+                        }
+                    },
+                    "The Prestige (2006) [BluRay] [1080p] [YTS.AM]": {
+                        "_files": [
+                            "The.Prestige.2006.1080p.BluRay.x264-[YTS.AM].mp4",
+                            "www.YTS.AM.jpg"
+                        ]
+                    },
+                    "The Tomorrow War (2021) [1080p] [WEBRip] [5.1] [YTS.MX]": {
+                        "_files": [
+                            "The.Tomorrow.War.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].srt",
+                            "The.Tomorrow.War.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4",
+                            "www.YTS.MX.jpg"
+                        ],
+                        "Subs": {
+                            "_files": [
+                                "Norwegian (Bokm\u00e5l).nob.srt",
+                                "English.eng.srt",
+                                "English [SDH].eng.srt",
+                                "Czech.cze.srt",
+                                "Romanian.rum.srt",
+                                "Chinese (Simplified).chi.srt",
+                                "German.ger.srt",
+                                "Swedish.swe.srt",
+                                "Korean.kor.srt",
+                                "Tamil.tam.srt",
+                                "Thai.tha.srt",
+                                "French (Canada).fre.srt",
+                                "Filipino.fil.srt",
+                                "Brazilian Portuguese.por.srt",
+                                "Danish.dan.srt",
+                                "Chinese (Traditional).chi.srt",
+                                "Indonesian.ind.srt",
+                                "French.fre.srt",
+                                "Hebrew.heb.srt",
+                                "Telugu.tel.srt",
+                                "Japanese.jpn.srt",
+                                "Arabic.ara.srt",
+                                "Castilian.spa.srt",
+                                "Finnish.fin.srt",
+                                "Russian.rus.srt",
+                                "Dutch.dut.srt",
+                                "Hindi.hin.srt",
+                                "Portuguese.por.srt",
+                                "Italian.ita.srt",
+                                "Turkish.tur.srt",
+                                "Malay.may.srt",
+                                "Polish.pol.srt",
+                                "Spanish.spa.srt",
+                                "Hungarian.hun.srt"
+                            ]
+                        }
+                    },
+                    "This Means War (2012) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "This.Means.War.2012.UNRATED.1080p.Bluray.x264.YIFY.mp4",
+                            "This.Means.War.2012.UNRATED.1080p.Bluray.x264.YIFY.FULL.srt",
+                            "This.Means.War.2012.UNRATED.1080p.Bluray.x264.YIFY.srt"
+                        ],
+                        "Other": {
+                            "_files": [
+                                "Torrent downloaded from Demonoid.com - Copy.txt",
+                                "Torrent Downloaded From ExtraTorrent.com.txt",
+                                "AhaShare.com.txt"
+                            ]
+                        }
+                    },
+                    "War Dogs (2016) [1080p] [YTS.AG]": {
+                        "_files": [
+                            "WWW.YTS.AG.jpg",
+                            "War.Dogs.2016.1080p.BluRay.x264-[YTS.AG].mp4"
+                        ]
+                    },
+                    "Warm Bodies (2013) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Warm.Bodies.2013.1080p.BluRay.x264.YIFY.srt",
+                            "Warm.Bodies.2013.1080p.BluRay.x264.YIFY.mp4"
                         ]
                     }
                 },
@@ -2351,76 +2623,11 @@
                     }
                 },
                 ".Trashes": {
-                    "_files": [],
+                    "_files": [
+                        "._501"
+                    ],
                     "501": {
-                        "_files": [
-                            ".DS_Store",
-                            "._.DS_Store",
-                            "._Halt And Catch Fire Season 1 to 4 Mp4 1080p"
-                        ],
-                        "Halt And Catch Fire Season 1 to 4 Mp4 1080p": {
-                            "_files": [],
-                            "Season 1": {
-                                "_files": [
-                                    "Halt And Catch Fire S01E01.mp4.fdmdownload",
-                                    "Halt And Catch Fire S01E02.mp4.fdmdownload",
-                                    "Halt And Catch Fire S01E03.mp4.fdmdownload",
-                                    "Halt And Catch Fire S01E04.mp4.fdmdownload",
-                                    "Halt And Catch Fire S01E05.mp4.fdmdownload",
-                                    "Halt And Catch Fire S01E06.mp4.fdmdownload",
-                                    "Halt And Catch Fire S01E07.mp4.fdmdownload",
-                                    "Halt And Catch Fire S01E08.mp4.fdmdownload",
-                                    "Halt And Catch Fire S01E09.mp4.fdmdownload",
-                                    "Halt And Catch Fire S01E10.mp4.fdmdownload",
-                                    "Read Me.txt.fdmdownload"
-                                ]
-                            },
-                            "Season 2": {
-                                "_files": [
-                                    "Halt And Catch Fire S02E01.mp4.fdmdownload",
-                                    "Halt And Catch Fire S02E02.mp4.fdmdownload",
-                                    "Halt And Catch Fire S02E03.mp4.fdmdownload",
-                                    "Halt And Catch Fire S02E04.mp4.fdmdownload",
-                                    "Halt And Catch Fire S02E05.mp4.fdmdownload",
-                                    "Halt And Catch Fire S02E06.mp4.fdmdownload",
-                                    "Halt And Catch Fire S02E07.mp4.fdmdownload",
-                                    "Halt And Catch Fire S02E08.mp4.fdmdownload",
-                                    "Halt And Catch Fire S02E09.mp4.fdmdownload",
-                                    "Halt And Catch Fire S02E10.mp4.fdmdownload",
-                                    "Read Me.txt.fdmdownload"
-                                ]
-                            },
-                            "Season 3": {
-                                "_files": [
-                                    "Halt And Catch Fire S03E01.mp4.fdmdownload",
-                                    "Halt And Catch Fire S03E02.mp4.fdmdownload",
-                                    "Halt And Catch Fire S03E03.mp4.fdmdownload",
-                                    "Halt And Catch Fire S03E04.mp4.fdmdownload",
-                                    "Halt And Catch Fire S03E05.mp4.fdmdownload",
-                                    "Halt And Catch Fire S03E06.mp4.fdmdownload",
-                                    "Halt And Catch Fire S03E07.mp4.fdmdownload",
-                                    "Halt And Catch Fire S03E08.mp4.fdmdownload",
-                                    "Halt And Catch Fire S03E09.mp4.fdmdownload",
-                                    "Halt And Catch Fire S03E10.mp4.fdmdownload",
-                                    "Read Me.txt.fdmdownload"
-                                ]
-                            },
-                            "Season 4": {
-                                "_files": [
-                                    "Halt And Catch Fire S04E01.mp4.fdmdownload",
-                                    "Halt And Catch Fire S04E02.mp4.fdmdownload",
-                                    "Halt And Catch Fire S04E03.mp4.fdmdownload",
-                                    "Halt And Catch Fire S04E04.mp4.fdmdownload",
-                                    "Halt And Catch Fire S04E05.mp4.fdmdownload",
-                                    "Halt And Catch Fire S04E06.mp4.fdmdownload",
-                                    "Halt And Catch Fire S04E07.mp4.fdmdownload",
-                                    "Halt And Catch Fire S04E08.mp4.fdmdownload",
-                                    "Halt And Catch Fire S04E09.mp4.fdmdownload",
-                                    "Halt And Catch Fire S04E10.mp4.fdmdownload",
-                                    "Read Me.txt"
-                                ]
-                            }
-                        }
+                        "_files": []
                     }
                 },
                 "wordpress-backups": {

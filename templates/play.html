@@ -25,8 +25,9 @@
         {% endif %}
         <p>Size : <strong>{{file_size}} GB</strong></p>
         <video preload="auto" controls width="800">
-            <source src="{{file_path}}" type="video/x-matroska" />
-            <source src="{{file_path}}" type="video/mp4" />
+            <!-- <source src="{{file_path}}" type="video/x-matroska" />
+            <source src="{{file_path}}" type="video/mp4" /> -->
+            <source src="{{file_path}}" type="application/x-mpegURL">
             Your browser does not support the video tag. Download here
             <a href="{{file_path}}">Click to download</a>
         </video>

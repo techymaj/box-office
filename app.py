@@ -1,8 +1,9 @@
 import os
 import json
 from flask import Flask, redirect, render_template, send_from_directory, abort, request # type: ignore
-from crawler import crawl, hashes
 from werkzeug.middleware.proxy_fix import ProxyFix # type: ignore
+from crawler import crawl, hashes
+from convert_to_hls import generate_hls
 
 app = Flask(__name__)
 
@@ -39,28 +40,44 @@ def search():
             found_hashes.update({hash: abs_path})
     return render_template("search.html", found_titles=found_hashes)
 
+
+# Update with your local server's IP and port
+localhost = "http://192.168.1.86:8080"
+
+# Base directory for HLS files
+hls_base_directory = "/media/kali/2TB/hls"
+
 @app.route("/library/<hash>", methods=["GET"])
 def play(hash):
-    localhost = "http://192.168.1.86"
     no_hash = "No such hash found. Please load a different file."
-    # Lookup the hash in the hashes dictionary
-    file_path = hashes.get(hash, no_hash)
-    if file_path is not no_hash:
-        file_size = os.path.getsize(file_path)
-        file_size = file_size / 1e+9  # Convert from bytes to gigabytes
-        file_size = round(file_size, 2)
+    
+    # Construct the HLS directory path
+    hls_directory = os.path.join(hls_base_directory, hash)
+
+    # Check if the HLS directory exists
+    if os.path.exists(hls_directory) and os.path.isdir(hls_directory):
+        # Path to the playlist.m3u8 file
+        playlist_path = os.path.join(hls_directory, "playlist.m3u8")
+        if os.path.exists(playlist_path):
+            # Construct the URL to serve the playlist
+            file_path = f"{localhost}/hls/{hash}/playlist.m3u8"
+            file_size = sum(
+                os.path.getsize(os.path.join(hls_directory, f)) for f in os.listdir(hls_directory) if os.path.isfile(os.path.join(hls_directory, f))
+            ) / 1e+9  # Calculate total directory size in gigabytes
+            file_size = round(file_size, 2)
+        else:
+            file_path = no_hash
+            file_size = 0
     else:
         file_path = no_hash
         file_size = 0
 
-    # Render the play.html template with the file path
+    # Render the play.html template with the file path and file size
     return render_template(
         "play.html", 
-        file_path=f"{localhost}{file_path}" 
-        if file_path != no_hash 
-        else file_path, 
+        file_path=file_path, 
         file_size=file_size,
-        no_hash=no_hash,
+        no_hash=no_hash if file_path == no_hash else None,
     )
 
 
@@ -72,6 +89,3 @@ def serve_media(filename):
     if not os.path.exists(safe_path):
         abort(404)
     return send_from_directory(app.config['MEDIA_FOLDER'], filename)
-
-# if __name__ == "__main__":
-#     app.run(host="0.0.0.0", port=80, debug=True)
