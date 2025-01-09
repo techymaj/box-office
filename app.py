@@ -1,6 +1,6 @@
 import os
 import json
-from flask import Flask, redirect, render_template, send_from_directory, abort # type: ignore
+from flask import Flask, redirect, render_template, send_from_directory, abort, request # type: ignore
 from crawler import crawl, hashes
 from werkzeug.middleware.proxy_fix import ProxyFix # type: ignore
 
@@ -29,6 +29,15 @@ def index():
 @app.route("/library")
 def library():
     return render_template("index.html", content=hashes)
+
+@app.route("/library/search", methods=["GET"])
+def search():
+    found_hashes = {}
+    searchword = request.args.get('search', '').casefold()
+    for hash, abs_path in hashes.items():
+        if searchword in abs_path.casefold():
+            found_hashes.update({hash: abs_path})
+    return render_template("search.html", found_titles=found_hashes)
 
 @app.route("/library/<hash>", methods=["GET"])
 def play(hash):
