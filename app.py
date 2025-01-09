@@ -2,9 +2,13 @@ import os
 import json
 from flask import Flask, redirect, render_template, send_from_directory, abort # type: ignore
 from crawler import crawl, hashes
-
+from werkzeug.middleware.proxy_fix import ProxyFix # type: ignore
 
 app = Flask(__name__)
+
+app.wsgi_app = ProxyFix(
+    app.wsgi_app, x_for=1, x_proto=1, x_host=1, x_prefix=1
+)
 
 with open("tree.json", "r") as tree:
     content = json.load(tree)
@@ -60,5 +64,5 @@ def serve_media(filename):
         abort(404)
     return send_from_directory(app.config['MEDIA_FOLDER'], filename)
 
-if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=8080, debug=True)
+# if __name__ == "__main__":
+#     app.run(host="0.0.0.0", port=80, debug=True)

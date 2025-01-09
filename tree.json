@@ -311,6 +311,2184 @@
                         ]
                     }
                 }
+            },
+            "2TB": {
+                "_files": [
+                    "lil-monster-test-interview.MOV.mov",
+                    "._lil-monster-test-interview.MOV.mov"
+                ],
+                ".Spotlight-V100": {
+                    "_files": [
+                        "VolumeConfiguration.plist"
+                    ],
+                    "Store-V2": {
+                        "_files": [],
+                        "D50A9CDA-690E-492E-B71B-41FEEAEEC721": {
+                            "_files": [
+                                "psid.db",
+                                "tmp.Lion",
+                                "Lion.created",
+                                "tmp.Cab",
+                                "Cab.created",
+                                "tmp.Star",
+                                "indexState",
+                                "0.indexDirectory",
+                                "0.indexCompactDirectory",
+                                "0.indexArrays",
+                                "0.indexHead",
+                                "0.shadowIndexHead",
+                                "0.indexIds",
+                                "0.indexBigDates",
+                                "0.indexGroups",
+                                "0.directoryStoreFile",
+                                "0.directoryStoreFile.shadow",
+                                "0.shadowIndexGroups",
+                                "0.indexUpdates",
+                                "0.indexPostings",
+                                "0.indexPositions",
+                                "store.updates",
+                                "live.0.shadowIndexHead",
+                                "live.0.indexGroups",
+                                "live.0.directoryStoreFile",
+                                "live.0.indexPositions",
+                                "live.0.indexPositionTable",
+                                "live.0.indexTermIds",
+                                "live.0.shadowIndexTermIds",
+                                "live.0.indexCompactDirectory",
+                                "live.0.indexArrays",
+                                "store.db",
+                                ".store.db",
+                                "dbStr-1.map.header",
+                                "dbStr-1.map.data",
+                                "dbStr-1.map.offsets",
+                                "dbStr-1.map.buckets",
+                                "dbStr-2.map.header",
+                                "dbStr-2.map.data",
+                                "dbStr-2.map.offsets",
+                                "dbStr-2.map.buckets",
+                                "dbStr-3.map.header",
+                                "dbStr-3.map.data",
+                                "dbStr-3.map.offsets",
+                                "dbStr-3.map.buckets",
+                                "dbStr-4.map.header",
+                                "dbStr-4.map.data",
+                                "dbStr-4.map.offsets",
+                                "dbStr-4.map.buckets",
+                                "dbStr-5.map.header",
+                                "dbStr-5.map.data",
+                                "dbStr-5.map.offsets",
+                                "dbStr-5.map.buckets",
+                                "reverseDirectoryStore",
+                                "tmp.spotlight.state",
+                                "store_generation",
+                                "journalExclusion",
+                                "shutdown_time",
+                                "reverseDirectoryStore.shadow",
+                                "live.0.indexIds",
+                                "live.0.indexUpdates",
+                                "journalAttr.32",
+                                "Cab.modified",
+                                "live.0.indexPostings",
+                                "live.0.shadowIndexGroups",
+                                "live.0.indexBigDates",
+                                "reverseStore.updates",
+                                "tmp.spotlight.loc",
+                                "live.0.indexHead",
+                                "live.0.directoryStoreFile.shadow",
+                                "live.0.shadowIndexDirectory",
+                                "live.0.indexDirectory",
+                                "live.0.shadowIndexArrays",
+                                "live.0.shadowIndexCompactDirectory",
+                                "live.0.shadowIndexPositionTable"
+                            ],
+                            "journals.corespotlight": {
+                                "_files": []
+                            },
+                            "journals.live": {
+                                "_files": []
+                            },
+                            "journals.live_system": {
+                                "_files": []
+                            },
+                            "journals.live_user": {
+                                "_files": [
+                                    "journal.1886",
+                                    "retire.1909",
+                                    "journal.1921"
+                                ]
+                            },
+                            "journals.live_priority": {
+                                "_files": []
+                            },
+                            "journals.assisted_import_pre": {
+                                "_files": []
+                            },
+                            "journals.assisted_import_post": {
+                                "_files": []
+                            },
+                            "journals.health_check": {
+                                "_files": []
+                            },
+                            "journals.migration": {
+                                "_files": []
+                            },
+                            "journals.migration_secondchance": {
+                                "_files": []
+                            },
+                            "journals.scan": {
+                                "_files": []
+                            },
+                            "journals.repair": {
+                                "_files": []
+                            }
+                        }
+                    }
+                },
+                ".fseventsd": {
+                    "_files": [
+                        "fseventsd-uuid",
+                        "0000000002915a5a",
+                        "0000000002915a5b"
+                    ]
+                },
+                "torrents": {
+                    "_files": [],
+                    "Commando (1985) [1080p]": {
+                        "_files": [
+                            "Commando.1985.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Commando.1985.1080p.BrRip.x264.BOKUTOX.YIFY.srt"
+                        ]
+                    },
+                    "Man of Steel (2013) [1080p]": {
+                        "_files": [
+                            "Man.of.Steel.2013.1080p.BluRay.x264.YIFY.mp4",
+                            "WWW.YIFY-TORRENTS.COM.jpg"
+                        ]
+                    },
+                    "Rush (2013) [1080p]": {
+                        "_files": [
+                            "Rush.2013.1080p.BluRay.x264.YIFY.mp4",
+                            "WWW.YIFY-TORRENTS.COM.jpg"
+                        ]
+                    },
+                    "Captain Phillips (2013) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Captain.Phillips.2013.1080p.BluRay.x264.YIFY.mp4"
+                        ]
+                    },
+                    "The Wolf of Wall Street (2013) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "The.Wolf.of.Wall.Street.2013.1080p.BluRay.x264.YIFY.mp4"
+                        ]
+                    }
+                },
+                "series": {
+                    "_files": [],
+                    "silo": {
+                        "_files": [],
+                        "s02": {
+                            "_files": [],
+                            "Silo.S02E01.1080p.x265-ELiTE": {
+                                "_files": [
+                                    "Silo.S02E01.1080p.x265-ELiTE.nfo",
+                                    "Silo.S02E01.1080p.x265-ELiTE.mkv",
+                                    "._Silo.S02E01.1080p.x265-ELiTE.mkv"
+                                ],
+                                "Screens": {
+                                    "_files": [
+                                        "Silo.S02E01.1080p.x265-ELiTE.Screen0001.png",
+                                        "Silo.S02E01.1080p.x265-ELiTE.Screen0002.png",
+                                        "Silo.S02E01.1080p.x265-ELiTE.Screen0003.png",
+                                        "Silo.S02E01.1080p.x265-ELiTE.Screen0004.png"
+                                    ]
+                                }
+                            },
+                            "Silo.S02E02.1080p.x265-ELiTE": {
+                                "_files": [
+                                    "Silo.S02E02.1080p.x265-ELiTE.mkv",
+                                    "._Silo.S02E02.1080p.x265-ELiTE.mkv",
+                                    "Silo.S02E02.1080p.x265-ELiTE.nfo"
+                                ],
+                                "Screens": {
+                                    "_files": [
+                                        "Silo.S02E02.1080p.x265-ELiTE.Screen0004.png",
+                                        "Silo.S02E02.1080p.x265-ELiTE.Screen0001.png",
+                                        "Silo.S02E02.1080p.x265-ELiTE.Screen0002.png",
+                                        "Silo.S02E02.1080p.x265-ELiTE.Screen0003.png"
+                                    ]
+                                }
+                            },
+                            "Silo.S02E03.Solo.1080p.HEVC.x265-MeGusta[TGx]": {
+                                "_files": [
+                                    "Silo.S02E03.Solo.1080p.HEVC.x265-MeGusta.nfo",
+                                    "Silo.S02E03.Solo.1080p.HEVC.x265-MeGusta.mkv",
+                                    "._Silo.S02E03.Solo.1080p.HEVC.x265-MeGusta.mkv",
+                                    "[TGx]Downloaded from torrentgalaxy.to .txt"
+                                ]
+                            },
+                            "Silo.S02E04.1080p.x265-ELiTE": {
+                                "_files": [
+                                    "Silo.S02E04.1080p.x265-ELiTE.nfo",
+                                    "Silo.S02E04.1080p.x265-ELiTE.mkv",
+                                    "._Silo.S02E04.1080p.x265-ELiTE.mkv"
+                                ],
+                                "Screens": {
+                                    "_files": [
+                                        "Silo.S02E04.1080p.x265-ELiTE.Screen0002.png",
+                                        "Silo.S02E04.1080p.x265-ELiTE.Screen0003.png",
+                                        "Silo.S02E04.1080p.x265-ELiTE.Screen0001.png",
+                                        "Silo.S02E04.1080p.x265-ELiTE.Screen0004.png"
+                                    ]
+                                }
+                            },
+                            "Silo.S02E05.1080p.x265-ELiTE": {
+                                "_files": [
+                                    "Silo.S02E05.1080p.x265-ELiTE.nfo",
+                                    "Silo.S02E05.1080p.x265-ELiTE.mkv",
+                                    "._Silo.S02E05.1080p.x265-ELiTE.mkv"
+                                ],
+                                "Screens": {
+                                    "_files": [
+                                        "Silo.S02E05.1080p.x265-ELiTE.Screen0001.png",
+                                        "Silo.S02E05.1080p.x265-ELiTE.Screen0003.png",
+                                        "Silo.S02E05.1080p.x265-ELiTE.Screen0002.png",
+                                        "Silo.S02E05.1080p.x265-ELiTE.Screen0004.png"
+                                    ]
+                                }
+                            },
+                            "Silo.S02E06.1080p.x265-ELiTE": {
+                                "_files": [
+                                    "Silo.S02E06.1080p.x265-ELiTE.mkv",
+                                    "._Silo.S02E06.1080p.x265-ELiTE.mkv",
+                                    "Silo.S02E06.1080p.x265-ELiTE.nfo"
+                                ],
+                                "Screens": {
+                                    "_files": [
+                                        "Silo.S02E06.1080p.x265-ELiTE.Screen0004.png",
+                                        "Silo.S02E06.1080p.x265-ELiTE.Screen0001.png",
+                                        "Silo.S02E06.1080p.x265-ELiTE.Screen0003.png",
+                                        "Silo.S02E06.1080p.x265-ELiTE.Screen0002.png"
+                                    ]
+                                }
+                            },
+                            "Silo.S02E07.1080p.x265-ELiTE": {
+                                "_files": [
+                                    "Silo.S02E07.1080p.x265-ELiTE.mkv",
+                                    "._Silo.S02E07.1080p.x265-ELiTE.mkv",
+                                    "Silo.S02E07.1080p.x265-ELiTE.nfo"
+                                ],
+                                "Screens": {
+                                    "_files": [
+                                        "Silo.S02E07.1080p.x265-ELiTE.Screen0004.png",
+                                        "Silo.S02E07.1080p.x265-ELiTE.Screen0002.png",
+                                        "Silo.S02E07.1080p.x265-ELiTE.Screen0003.png",
+                                        "Silo.S02E07.1080p.x265-ELiTE.Screen0001.png"
+                                    ]
+                                }
+                            },
+                            "Silo.S02E08.1080p.x265-ELiTE": {
+                                "_files": [
+                                    "Silo.S02E08.1080p.x265-ELiTE.mkv",
+                                    "._Silo.S02E08.1080p.x265-ELiTE.mkv",
+                                    "Silo.S02E08.1080p.x265-ELiTE.nfo"
+                                ],
+                                "Screens": {
+                                    "_files": [
+                                        "Silo.S02E08.1080p.x265-ELiTE.Screen0004.png",
+                                        "Silo.S02E08.1080p.x265-ELiTE.Screen0003.png",
+                                        "Silo.S02E08.1080p.x265-ELiTE.Screen0002.png",
+                                        "Silo.S02E08.1080p.x265-ELiTE.Screen0001.png"
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                },
+                "kassese": {
+                    "_files": [
+                        "DSC04826.JPG",
+                        "DSC04832.JPG",
+                        "DSC04775.JPG",
+                        "DSC04952.JPG",
+                        "DSC04946.JPG",
+                        "._DSC04946.JPG",
+                        "DSC04947.JPG",
+                        "DSC04953.JPG",
+                        "DSC04984.JPG",
+                        "DSC04833.JPG",
+                        "DSC04827.JPG",
+                        "DSC04831.JPG",
+                        "DSC04825.JPG",
+                        "DSC04819.JPG",
+                        "DSC04986.JPG",
+                        "DSC04992.JPG",
+                        "DSC04776.JPG",
+                        "DSC04945.JPG",
+                        "DSC04789.JPG",
+                        "DSC04951.JPG",
+                        "DSC04979.JPG",
+                        "DSC04978.JPG",
+                        "DSC04950.JPG",
+                        "DSC04788.JPG",
+                        "DSC04944.JPG",
+                        "DSC04777.JPG",
+                        "DSC04993.JPG",
+                        "._DSC04993.JPG",
+                        "DSC04987.JPG",
+                        "DSC04818.JPG",
+                        "DSC04824.JPG",
+                        "DSC04830.JPG",
+                        "DSC04808.JPG",
+                        "DSC04834.JPG",
+                        "DSC04820.JPG",
+                        "DSC04983.JPG",
+                        "DSC04997.JPG",
+                        "._DSC04997.JPG",
+                        "DSC04968.JPG",
+                        "DSC04798.JPG",
+                        "DSC04940.JPG",
+                        "DSC04954.JPG",
+                        "DSC04955.JPG",
+                        "DSC04941.JPG",
+                        "DSC04799.JPG",
+                        "DSC04969.JPG",
+                        "DSC04996.JPG",
+                        "._DSC04996.JPG",
+                        "DSC04982.JPG",
+                        "DSC04821.JPG",
+                        "DSC04835.JPG",
+                        "DSC04809.JPG",
+                        "DSC04823.JPG",
+                        "DSC04837.JPG",
+                        "DSC04994.JPG",
+                        "._DSC04994.JPG",
+                        "DSC04980.JPG",
+                        "DSC04957.JPG",
+                        "DSC04943.JPG",
+                        "DSC04942.JPG",
+                        "DSC04956.JPG",
+                        "DSC04981.JPG",
+                        "DSC04995.JPG",
+                        "DSC04771.JPG",
+                        "DSC04836.JPG",
+                        "DSC04822.JPG",
+                        "DSC04886.JPG",
+                        "DSC04892.JPG",
+                        "DSC04845.JPG",
+                        "DSC04851.JPG",
+                        "DSC04879.JPG",
+                        "DSC_0090.JPG",
+                        "DSC_0084.JPG",
+                        "DSC04931.JPG",
+                        "DSC04925.JPG",
+                        "DSC04919.JPG",
+                        "DSC04918.JPG",
+                        "DSC04924.JPG",
+                        "DSC04930.JPG",
+                        "DSC_0085.JPG",
+                        "DSC_0091.JPG",
+                        "DSC04878.JPG",
+                        "DSC04850.JPG",
+                        "DSC04844.JPG",
+                        "DSC04893.JPG",
+                        "DSC04887.JPG",
+                        "DSC04891.JPG",
+                        "DSC04852.JPG",
+                        "DSC04846.JPG",
+                        "DSC_0087.JPG",
+                        "DSC_0093.JPG",
+                        "DSC_0078.JPG",
+                        "DSC04926.JPG",
+                        "DSC04932.JPG",
+                        "DSC04933.JPG",
+                        "DSC04927.JPG",
+                        "DSC_0079.JPG",
+                        "DSC_0092.JPG",
+                        "DSC_0086.JPG",
+                        "DSC04847.JPG",
+                        "DSC04853.JPG",
+                        "DSC04884.JPG",
+                        "DSC04890.JPG",
+                        "DSC04894.JPG",
+                        "DSC04880.JPG",
+                        "DSC04857.JPG",
+                        "DSC04843.JPG",
+                        "DSC_0082.JPG",
+                        "DSC_0096.JPG",
+                        "DSC04923.JPG",
+                        "DSC04937.JPG",
+                        "DSC04936.JPG",
+                        "DSC04922.JPG",
+                        "DSC_0097.JPG",
+                        "DSC_0083.JPG",
+                        "DSC04842.JPG",
+                        "DSC04856.JPG",
+                        "DSC04881.JPG",
+                        "DSC04895.JPG",
+                        "DSC04883.JPG",
+                        "DSC04897.JPG",
+                        "DSC04868.JPG",
+                        "DSC04840.JPG",
+                        "DSC04854.JPG",
+                        "DSC_0095.JPG",
+                        "DSC_0081.JPG",
+                        "DSC04908.JPG",
+                        "DSC04934.JPG",
+                        "DSC04920.JPG",
+                        "DSC04921.JPG",
+                        "DSC04935.JPG",
+                        "DSC04909.JPG",
+                        "DSC_0080.JPG",
+                        "DSC_0094.JPG",
+                        "DSC04855.JPG",
+                        "DSC04841.JPG",
+                        "DSC04869.JPG",
+                        "DSC04896.JPG",
+                        "DSC04882.JPG",
+                        "DSC04864.JPG",
+                        "DSC04870.JPG",
+                        "DSC04858.JPG",
+                        "DSC_0099.JPG",
+                        "DSC_0072.JPG",
+                        "DSC04910.JPG",
+                        "DSC04904.JPG",
+                        "DSC04938.JPG",
+                        "DSC04939.JPG",
+                        "DSC04905.JPG",
+                        "DSC04911.JPG",
+                        "DSC_0073.JPG",
+                        "DSC_0098.JPG",
+                        "DSC04859.JPG",
+                        "DSC04871.JPG",
+                        "DSC04865.JPG",
+                        "DSC04898.JPG",
+                        "DSC04873.JPG",
+                        "DSC04867.JPG",
+                        "DSC_0105.JPG",
+                        "DSC_0071.JPG",
+                        "DSC04907.JPG",
+                        "DSC04913.JPG",
+                        "DSC04912.JPG",
+                        "DSC04906.JPG",
+                        "DSC_0070.JPG",
+                        "._DSC_0070.JPG",
+                        "DSC_0104.JPG",
+                        "DSC04866.JPG",
+                        "DSC04872.JPG",
+                        "DSC04899.JPG",
+                        "DSC04889.JPG",
+                        "DSC04876.JPG",
+                        "DSC04862.JPG",
+                        "DSC_0100.JPG",
+                        "DSC_0074.JPG",
+                        "DSC04902.JPG",
+                        "DSC04916.JPG",
+                        "DSC04917.JPG",
+                        "DSC04903.JPG",
+                        "DSC_0075.JPG",
+                        "DSC_0101.JPG",
+                        "DSC04863.JPG",
+                        "DSC04877.JPG",
+                        "DSC04888.JPG",
+                        "DSC04849.JPG",
+                        "DSC04861.JPG",
+                        "DSC04875.JPG",
+                        "DSC_0103.JPG",
+                        "DSC_0077.JPG",
+                        "._DSC_0077.JPG",
+                        "DSC04929.JPG",
+                        "DSC04915.JPG",
+                        "DSC04901.JPG",
+                        "DSC04900.JPG",
+                        "DSC04914.JPG",
+                        "DSC04928.JPG",
+                        "DSC_0076.JPG",
+                        "DSC_0089.JPG",
+                        "DSC_0102.JPG",
+                        "DSC04874.JPG",
+                        "DSC04860.JPG",
+                        "DSC04848.JPG",
+                        "DSC04807.JPG",
+                        "DSC04813.JPG",
+                        "DSC04998.JPG",
+                        "DSC04973.JPG",
+                        "DSC04967.JPG",
+                        "DSC04797.JPG",
+                        "DSC04782.JPG",
+                        "DSC04796.JPG",
+                        "DSC04966.JPG",
+                        "DSC04972.JPG",
+                        "DSC04999.JPG",
+                        "._DSC04999.JPG",
+                        "DSC04812.JPG",
+                        "DSC04806.JPG",
+                        "DSC04810.JPG",
+                        "DSC04804.JPG",
+                        "DSC04838.JPG",
+                        "DSC04964.JPG",
+                        "DSC04970.JPG",
+                        "DSC04780.JPG",
+                        "DSC04958.JPG",
+                        "DSC04794.JPG",
+                        "DSC04795.JPG",
+                        "DSC04959.JPG",
+                        "DSC04781.JPG",
+                        "DSC04971.JPG",
+                        "DSC04965.JPG",
+                        "DSC04839.JPG",
+                        "DSC04805.JPG",
+                        "DSC04811.JPG",
+                        "DSC04829.JPG",
+                        "DSC04815.JPG",
+                        "DSC04801.JPG",
+                        "DSC04791.JPG",
+                        "DSC04949.JPG",
+                        "DSC04961.JPG",
+                        "DSC04975.JPG",
+                        "DSC04974.JPG",
+                        "DSC04960.JPG",
+                        "DSC04948.JPG",
+                        "DSC04790.JPG",
+                        "DSC04784.JPG",
+                        "DSC04800.JPG",
+                        "DSC04814.JPG",
+                        "DSC04828.JPG",
+                        "DSC04802.JPG",
+                        "DSC04816.JPG",
+                        "DSC04989.JPG",
+                        "DSC04779.JPG",
+                        "DSC04792.JPG",
+                        "DSC04786.JPG",
+                        "DSC04976.JPG",
+                        "DSC04962.JPG",
+                        "DSC04963.JPG",
+                        "DSC04977.JPG",
+                        "DSC04787.JPG",
+                        "DSC04793.JPG",
+                        "DSC04988.JPG",
+                        "DSC04817.JPG",
+                        "DSC04803.JPG"
+                    ]
+                },
+                "movies": {
+                    "_files": [],
+                    "300 (2006) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "300.2006.BluRay.1080p.x264.YIFY.srt",
+                            "300.2006.BluRay.1080p.x264.YIFY.mp4"
+                        ],
+                        "Other": {
+                            "_files": [
+                                "Torrent downloaded from Demonoid.com - Copy.txt",
+                                "Torrent Downloaded From ExtraTorrent.com.txt",
+                                "AhaShare.com.txt"
+                            ]
+                        }
+                    },
+                    "Memento (2000) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Memento.2000.1080p.BluRay.x264.YIFY.mp4",
+                            "Memento.2000.1080p.BluRay.x264.YIFY.srt"
+                        ]
+                    },
+                    "300 Rise of an Empire (2014) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "300.Rise.of.an.Empire.2014.1080p.BluRay.x264.YIFY.mp4"
+                        ]
+                    },
+                    "21 Jump Street (2012) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "21.Jump.Street.2012.1080p.BluRay.x264.YIFY.srt",
+                            "21.Jump.Street.2012.1080p.BluRay.x264.YIFY.mp4"
+                        ],
+                        "Other": {
+                            "_files": [
+                                "Torrent downloaded from Demonoid.com - Copy.txt",
+                                "Torrent Downloaded From ExtraTorrent.com.txt",
+                                "AhaShare.com.txt"
+                            ]
+                        }
+                    },
+                    "Batman V Superman Dawn Of Justice (2016) [1080p] [YTS.AG]": {
+                        "_files": [
+                            "WWW.YTS.AG.jpg",
+                            "Batman.V.Superman.Dawn.Of.Justice.2016.1080p.BluRay.x264-[YTS.AG].mp4"
+                        ]
+                    },
+                    "Moana (2016) [1080p] [YTS.AG]": {
+                        "_files": [
+                            "WWW.YTS.AG.jpg",
+                            "Moana.2016.1080p.BluRay.x264-[YTS.AG].mp4"
+                        ]
+                    },
+                    "Brave (2012) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Brave.2012.1080p.BRrip.x264.YIFY.mp4",
+                            "Brave.2012.1080p.BRrip.x264.YIFY.srt"
+                        ]
+                    },
+                    "Predestination (2014) [1080p]": {
+                        "_files": [
+                            "WWW.YTS.RE.jpg",
+                            "Predestination.2014.1080p.BluRay.x264.YIFY.mp4"
+                        ]
+                    },
+                    "Deadpool (2016) [1080p] [YTS.AG]": {
+                        "_files": [
+                            "WWW.YTS.AG.jpg",
+                            "Deadpool.2016.1080p.BluRay.x264-[YTS.AG].mp4"
+                        ]
+                    },
+                    "22 Jump Street (2014) [1080p]": {
+                        "_files": [
+                            "WWW.YTS.RE.jpg",
+                            "22.Jump.Street.2014.1080p.BluRay.x264.YIFY.mp4"
+                        ]
+                    },
+                    "Deadpool 2 (2018) [BluRay] [1080p] [YTS.AM]": {
+                        "_files": [
+                            "Deadpool.2.2018.1080p.BluRay.x264-[YTS.AM].mp4",
+                            "www.YTS.AM.jpg"
+                        ]
+                    },
+                    "Shutter Island (2010) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Shutter.Island.2010.1080p.BluRay.x264.YIFY.srt",
+                            "Shutter.Island.2010.1080p.BluRay.x264.YIFY.mp4"
+                        ]
+                    },
+                    "Hansel and Gretel Witch Hunters (2013) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Hansel.and.Gretel.2013.1080p.BluRay.x264.YIFY.mp4"
+                        ]
+                    },
+                    "Ready Player One (2018) [BluRay] [1080p] [YTS.AM]": {
+                        "_files": [
+                            "Ready.Player.One.2018.1080p.BluRay.x264-[YTS.AM].mp4",
+                            "www.YTS.AM.jpg"
+                        ]
+                    },
+                    "Incredibles 2 (2018) [BluRay] [1080p] [YTS.AM]": {
+                        "_files": [
+                            "Incredibles.2.2018.1080p.BluRay.x264-[YTS.AM].mp4",
+                            "www.YTS.AM.jpg"
+                        ]
+                    },
+                    "Jojo Rabbit (2019) [1080p] [BluRay] [5.1] [YTS.MX]": {
+                        "_files": [
+                            "Jojo.Rabbit.2019.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
+                            "Jojo.Rabbit.2019.1080p.BluRay.x264.AAC5.1-[YTS.MX].srt",
+                            "www.YTS.MX.jpg"
+                        ]
+                    },
+                    "Monsters Inc (2001) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Monsters.Inc.2001.1080p.BrRip.x264.YIFY.srt",
+                            "Monsters.Inc.2001.1080p.BrRip.x264.YIFY.mp4"
+                        ]
+                    },
+                    "This Is the End (2013) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "This.Is.the.End.2013.1080p.BluRay.x264.YIFY.mp4"
+                        ]
+                    },
+                    "Monsters University (2013) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Monsters.University.2013.1080p.BluRay.x264.YIFY.mp4"
+                        ]
+                    },
+                    "The Big Short (2015) [1080p] [YTS.AG]": {
+                        "_files": [
+                            "WWW.YTS.AG.jpg",
+                            "The.Big.Short.2015.1080p.BluRay.x264-[YTS.AG].mp4"
+                        ]
+                    },
+                    "Room (2015) [1080p] [YTS.AG]": {
+                        "_files": [
+                            "WWW.YTS.AG.jpg",
+                            "Room.2015.1080p.BluRay.x264-[YTS.AG].mp4"
+                        ]
+                    },
+                    "Up (2009) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Up.2009.1080p.BluRay.x264.YIFY.mp4"
+                        ]
+                    },
+                    "Sherlock Holmes (2009) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Sherlock Holmes 2009.1080p.BrRip.x264.YIFY.srt",
+                            "Sherlock.Holms.2009.1080p.BrRip.x264.YIFY.mp4"
+                        ]
+                    },
+                    "G.I. Joe Rise of Cobra (2009) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "G.I. Joe Rise of Cobra.2009.1080p.BrRip.x264.YIFY.srt",
+                            "G.I. Joe Rise of Cobra.2009.1080p.BrRip.x264.YIFY.mp4"
+                        ],
+                        "Other": {
+                            "_files": [
+                                "Torrent downloaded from Demonoid.com - Copy.txt",
+                                "Torrent Downloaded From ExtraTorrent.com.txt",
+                                "AhaShare.com.txt"
+                            ]
+                        }
+                    },
+                    "Sherlock Holmes A Game Of Shadows (2011) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Sherlock.Holmes.A.Game.Of.Shadows.2011.1080p.BrRip.x264.YIFY.srt",
+                            "Sherlock.Holmes.A.Game.Of.Shadows.2011.1080p.BrRip.x264.YIFY.mp4"
+                        ],
+                        "Other": {
+                            "_files": [
+                                "Torrent Downloaded From ExtraTorrent.com.txt",
+                                "AhaShare.com.txt",
+                                "Torrent downloaded from Demonoid.com.txt"
+                            ]
+                        }
+                    },
+                    "The Incredibles (2004) [1080p] [YTS.AG]": {
+                        "_files": [
+                            "WWW.YTS.AG.jpg",
+                            "The.Incredibles.2004.1080p.BluRay.x264-[YTS.AG].mp4"
+                        ]
+                    },
+                    "G.I. Joe\uf022 Retaliation (2013) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "G.I..Joe\uf022.Retaliation.2013.1080p.BluRay.x264.YIFY.mp4",
+                            "G.I..Joe\uf022.Retaliation.2013.1080p.BluRay.x264.YIFY.srt"
+                        ]
+                    },
+                    "The Spectacular Now (2013) [1080p] [YTS.AG]": {
+                        "_files": [
+                            "WWW.YTS.AG.jpg",
+                            "The.Spectacular.Now.2013.1080p.BluRay.x264-[YTS.AG].mp4"
+                        ]
+                    },
+                    "We're the Millers (2013) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "We're.the.Millers.2013.1080p.BluRay.x264.YIFY.mp4"
+                        ]
+                    },
+                    "This Is Where I Leave You (2014) [1080p]": {
+                        "_files": [
+                            "WWW.YTS.RE.jpg",
+                            "This.Is.Where.I.Leave.You.2014.1080p.BluRay.x264.YIFY.mp4"
+                        ]
+                    },
+                    "Hidden Figures (2016) [1080p] [YTS.AG]": {
+                        "_files": [
+                            "WWW.YTS.AG.jpg",
+                            "Hidden.Figures.2016.1080p.BluRay.x264-[YTS.AG].mp4"
+                        ]
+                    },
+                    "Whiplash (2014) [1080p]": {
+                        "_files": [
+                            "WWW.YTS.RE.jpg",
+                            "Whiplash.2014.1080p.BluRay.x264.YIFY.mp4"
+                        ]
+                    },
+                    "Zack Snyders Justice League (2021) [1080p] [BluRay] [5.1] [YTS.MX]": {
+                        "_files": [
+                            "Zack.Snyders.Justice.League.2021.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
+                            "www.YTS.MX.jpg"
+                        ]
+                    },
+                    "Sucker Punch (2011) [EXTENDED CUT] [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]": {
+                        "_files": [
+                            "YTSProxies.com.txt",
+                            "Sucker.Punch.2011.EXTENDED.CUT.REPACK.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
+                            "www.YTS.MX.jpg"
+                        ]
+                    },
+                    "Kingdom Of The Planet Of The Apes (2024) [1080p] [WEBRip] [5.1] [YTS.MX]": {
+                        "_files": [
+                            "YIFYStatus.com.txt",
+                            "Kingdom.Of.The.Planet.Of.The.Apes.2024.1080p.WEBRip.x264.AAC5.1-[YTS.MX].srt",
+                            "www.YTS.MX.jpg",
+                            "Kingdom.Of.The.Planet.Of.The.Apes.2024.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4"
+                        ],
+                        "Subs": {
+                            "_files": [
+                                "English.eng.srt",
+                                "English (forced).eng.srt"
+                            ]
+                        }
+                    },
+                    "The Intern (2015) [UHD BLURAY] [1080p] [BluRay] [5.1] [YTS.MX]": {
+                        "_files": [
+                            "The.Intern.2015.UHD.BLURAY.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
+                            "YTSYifyUP... (TOR).txt",
+                            "www.YTS.MX.jpg"
+                        ]
+                    },
+                    "Game Night (2018) [BluRay] [1080p] [YTS.AM]": {
+                        "_files": [
+                            "Game.Night.2018.1080p.BluRay.x264-[YTS.AM].mp4",
+                            "www.YTS.AM.jpg"
+                        ]
+                    },
+                    "Wonder Woman (2017) [1080p] [YTS.AG]": {
+                        "_files": [
+                            "WWW.YTS.AG.jpg",
+                            "Wonder.Woman.2017.1080p.BluRay.x264-[YTS.AG].mp4"
+                        ]
+                    },
+                    "In The Heart Of The Sea (2015) [1080p] [YTS.AG]": {
+                        "_files": [
+                            "WWW.YTS.AG.jpg",
+                            "In.The.Heart.Of.The.Sea.2015.1080p.BluRay.x264-[YTS.AG].mp4"
+                        ]
+                    },
+                    "Gravity (2013) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Gravity.2013.1080p.BluRay.x264.YIFY.mp4"
+                        ]
+                    },
+                    "CHIPS (2017) [1080p] [YTS.AG]": {
+                        "_files": [
+                            "WWW.YTS.AG.jpg",
+                            "CHIPS.2017.1080p.BluRay.x264-[YTS.AG].mp4"
+                        ]
+                    },
+                    "Greenland (2020) [1080p] [BluRay] [5.1] [YTS.MX]": {
+                        "_files": [
+                            "Greenland.2020.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
+                            "www.YTS.MX.jpg"
+                        ]
+                    },
+                    "Green Book (2018) [BluRay] [1080p] [YTS.AM]": {
+                        "_files": [
+                            "Green.Book.2018.1080p.BluRay.x264-[YTS.AM].mp4",
+                            "www.YTS.AM.jpg"
+                        ]
+                    },
+                    "Hitch (2005) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Hitch.2005.1080p.BrRip.x264.YIFY.mp4",
+                            "Hitch.2005.1080p.BrRip.x264.YIFY.srt"
+                        ]
+                    },
+                    "Oblivion (2013) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Oblivion.2013.1080p.BluRay.x264.YIFY.srt",
+                            "Oblivion.2013.1080p.BluRay.x264.YIFY.mp4"
+                        ]
+                    },
+                    "Tag (2018) [BluRay] [1080p] [YTS.AM]": {
+                        "_files": [
+                            "Tag.2018.1080p.BluRay.x264-[YTS.AM].mp4",
+                            "www.YTS.AM.jpg"
+                        ]
+                    },
+                    "The Founder (2016) [1080p] [YTS.AG]": {
+                        "_files": [
+                            "WWW.YTS.AG.jpg",
+                            "The.Founder.2016.1080p.BluRay.x264-[YTS.AG].mp4"
+                        ]
+                    },
+                    "Geostorm (2017) [1080p] [YTS.AG]": {
+                        "_files": [
+                            "WWW.YTS.AG.jpg",
+                            "Geostorm.2017.1080p.BluRay.x264-[YTS.AG].mp4"
+                        ]
+                    },
+                    "The Pursuit of Happyness (2006) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "The.Pursuit.Of.Happyness.2006.1080p.BrRip.x264.YIFY.srt",
+                            "The.Pursuit.Of.Happyness.2006.1080p.BrRip.x264.YIFY.mp4"
+                        ]
+                    },
+                    "Furiosa A Mad Max Saga (2024) [1080p] [BluRay] [5.1] [YTS.MX]": {
+                        "_files": [
+                            "YTSYifyUP... (TOR).txt",
+                            "Furiosa.A.Mad.Max.Saga.2024.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
+                            "www.YTS.MX.jpg"
+                        ]
+                    }
+                },
+                "music": {
+                    "_files": [
+                        "._Dido - Discography [FLAC Songs] [PMEDIA] \u2b50\ufe0f",
+                        "._Fun - Some Nights [2012-Album] - [HP]",
+                        "._Tegan And Sara - Heartthrob (2013 Alternativa e indie) [Flac 16-44]",
+                        "._AURORA - Discography 2015-2024 [FLAC] 88"
+                    ],
+                    "Dido - Discography [FLAC Songs] [PMEDIA] \u2b50\ufe0f": {
+                        "_files": [
+                            ".DS_Store",
+                            "._.DS_Store"
+                        ],
+                        "(2003) Dido - Life For Rent [16Bit-44.1kHz]": {
+                            "_files": [
+                                "01. White Flag.flac",
+                                "12. Closer.flac",
+                                "07. Who Makes You Feel.flac",
+                                "02. Stoned.flac",
+                                "08. Sand in My Shoes.flac",
+                                "04. Mary's In India.flac",
+                                "11. See the Sun.flac",
+                                "05. See You When You're 40.flac",
+                                "cover.jpg",
+                                "02. White Flag.flac",
+                                "09. Do You Have a Little Time.flac",
+                                "10. This Land Is Mine.flac",
+                                "01. Life for Rent.flac",
+                                "03. Life for Rent.flac",
+                                "06. Don't Leave Home.flac"
+                            ]
+                        },
+                        "(2013) Dido - Girl Who Got Away  (Expanded Edition) [16Bit-44.1kHz]": {
+                            "_files": [
+                                "01. No Freedom.flac",
+                                "09. Happy New Year.flac",
+                                "16. Everything To Lose.flac",
+                                "17. Lost.flac",
+                                "07. Love to Blame.flac",
+                                "18. Thank You  ).flac",
+                                "13. All I See.flac",
+                                "04. Blackbird.flac",
+                                "15. Let's Runaway.flac",
+                                "03. Let Us Move On.flac",
+                                "11. Day Before We Went to War.flac",
+                                "10. Loveless Hearts.flac",
+                                "02. Girl Who Got Away.flac",
+                                "cover.jpg",
+                                "12. Let Us Move On.flac",
+                                "05. End of Night.flac",
+                                "06. Sitting On The Roof Of The World.flac",
+                                "08. Go Dreaming.flac",
+                                "14. Just Say Yes.flac"
+                            ]
+                        },
+                        "(2013) Dido - Greatest Hits (Deluxe) [16Bit-44.1kHz]": {
+                            "_files": [
+                                ".DS_Store",
+                                "._.DS_Store",
+                                "cover.jpg"
+                            ],
+                            "Disc 2": {
+                                "_files": [
+                                    "02. Thank You.flac",
+                                    "03. Hunter.flac",
+                                    "13. Northern Skies.flac",
+                                    "04. White Flag.flac",
+                                    "06. Sand in My Shoes.flac",
+                                    "12. Blackbird.flac",
+                                    "07. Don't Leave Home.flac",
+                                    "10. End of Night.flac",
+                                    "01. Here With Me.flac",
+                                    "08. Don't Believe in Love.flac",
+                                    "05. Life for Rent.flac",
+                                    "09. No Freedom.flac",
+                                    "11. Go Dreaming.flac"
+                                ]
+                            },
+                            "Disc 1": {
+                                "_files": [
+                                    "07. Sand in My Shoes.flac",
+                                    "14. End of Night.flac",
+                                    "02. Thank You.flac",
+                                    "03. Hunter.flac",
+                                    "04. White Flag.flac",
+                                    "10. Grafton Street.flac",
+                                    "18. NYC.flac",
+                                    "11. Everything to Lose.flac",
+                                    "01. Here With Me.flac",
+                                    "._01. Here With Me.flac",
+                                    "09. Quiet Times.flac",
+                                    "08. Don't Believe in Love.flac",
+                                    "13. No Freedom.flac",
+                                    "12. Let Us Move On.flac",
+                                    "05. Life for Rent.flac",
+                                    "15. One Step Too Far.flac",
+                                    "06. Don't Leave Home.flac"
+                                ]
+                            }
+                        },
+                        ".unwanted": {
+                            "_files": [
+                                ".DS_Store",
+                                "._.DS_Store",
+                                "Album-List.nfo.fdmdownload",
+                                "Cover.jpg.fdmdownload",
+                                "Credits.nfo.fdmdownload"
+                            ],
+                            "(2017) Dido - Keplero [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "09. Ho imparato ad aspettare.flac.fdmdownload",
+                                    "06. Nei miei occhi.flac.fdmdownload",
+                                    "07. Senza far rumore.flac.fdmdownload",
+                                    "10. Il filo (Vai Vai Vittoria!).flac.fdmdownload",
+                                    "05. Il mio pezzo di cielo.flac.fdmdownload",
+                                    "04. La casa degli eroi.flac.fdmdownload",
+                                    "03. Keplero.flac.fdmdownload",
+                                    "08. Principessa luna.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload",
+                                    "01. Sweet Years Today.flac.fdmdownload",
+                                    "02. LiberaFantasia.flac.fdmdownload"
+                                ]
+                            },
+                            "(2021) Dido - Tiki Taka [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Tiki Taka.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2013) Dido - Girl Who Got Away (Deluxe) [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "cover.jpg"
+                                ],
+                                "Disc 2": {
+                                    "_files": [
+                                        "06. Lost.flac.fdmdownload",
+                                        "05. Everything To Lose.flac.fdmdownload",
+                                        "03. Just Say Yes.flac.fdmdownload",
+                                        "01. Let Us Move On.flac.fdmdownload",
+                                        "02. All I See.flac.fdmdownload",
+                                        "04. Let's Runaway.flac.fdmdownload"
+                                    ]
+                                },
+                                "Disc 1": {
+                                    "_files": [
+                                        "11. Day Before We Went to War.flac.fdmdownload",
+                                        "10. Loveless Hearts.flac.fdmdownload",
+                                        "04. Blackbird.flac.fdmdownload",
+                                        "07. Love to Blame.flac.fdmdownload",
+                                        "01. No Freedom.flac.fdmdownload",
+                                        "09. Happy New Year.flac.fdmdownload",
+                                        "08. Go Dreaming.flac.fdmdownload",
+                                        "03. Let Us Move On.flac.fdmdownload",
+                                        "02. Girl Who Got Away.flac.fdmdownload",
+                                        "05. End of Night.flac.fdmdownload",
+                                        "06. Sitting On The Roof Of The World.flac.fdmdownload"
+                                    ]
+                                }
+                            },
+                            "(1999) Dido - No Angel [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "08. Slide.flac.fdmdownload",
+                                    "13. Worthless.flac.fdmdownload",
+                                    "02. Hunter.flac.fdmdownload",
+                                    "04. My Lover's Gone.flac.fdmdownload",
+                                    "10. I'm No Angel.flac.fdmdownload",
+                                    "05. All You Want.flac.fdmdownload",
+                                    "09. Isobel.flac.fdmdownload",
+                                    "14. Thank You.flac.fdmdownload",
+                                    "12. Take My Hand.flac.fdmdownload",
+                                    "01. Here With Me.flac.fdmdownload",
+                                    "07. Honestly Ok.flac.fdmdownload",
+                                    "06. Thank You.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload",
+                                    "11. My Life.flac.fdmdownload",
+                                    "03. Don't Think of Me.flac.fdmdownload"
+                                ]
+                            },
+                            "(2019) Dido - Give You Up  (Laibert Remix) [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "02. Give You Up.flac.fdmdownload",
+                                    "01. Give You Up.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2003) Dido - White Flag (Radio Edit) [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "cover.jpg.fdmdownload",
+                                    "01. White Flag.flac.fdmdownload"
+                                ]
+                            },
+                            "(2019) Dido - Give You Up (Mark Knight Remix)  (Edit) [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "02. Give You Up.flac.fdmdownload",
+                                    "01. Give You Up (Mark Knight Remix).flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2008) Dido - Safe Trip Home [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "booklet.pdf.fdmdownload",
+                                    "06. Look No Further.flac.fdmdownload",
+                                    "12. For One Day.flac.fdmdownload",
+                                    "12. The Day Before The Day (54).flac.fdmdownload",
+                                    "10. Burnin Love.flac.fdmdownload",
+                                    "11. Northern Skies.flac.fdmdownload",
+                                    "05. It Comes and It Goes.flac.fdmdownload",
+                                    "09. Let's Do the Things We Normally Do.flac.fdmdownload",
+                                    "13. Summer.flac.fdmdownload",
+                                    "08. The Day Before the Day.flac.fdmdownload",
+                                    "01. Don't Believe in Love.flac.fdmdownload",
+                                    "04. Grafton Street.flac.fdmdownload",
+                                    "07. Us 2 Little Gods.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload",
+                                    "14. Northern Skies.flac.fdmdownload",
+                                    "02. Quiet Times.flac.fdmdownload",
+                                    "03. Never Want to Say It's Love.flac.fdmdownload"
+                                ]
+                            },
+                            "(2004) Dido - Don't Leave Home [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Don't Leave Home.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload",
+                                    "02. Stoned.flac.fdmdownload"
+                                ]
+                            },
+                            "(2013) Dido - No Freedom [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. No Freedom.flac.fdmdownload",
+                                    "02. No Freedom.flac.fdmdownload",
+                                    "03. No Freedom.flac.fdmdownload",
+                                    "04. Quiet Times.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2022) Dido - Colossus [24Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Colossus.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2022) Dido - Col\u00edrio [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Col\u00edrio.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2019) Dido - Take You Home  (Joe Stone Remix) [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "05. Give You Up.flac.fdmdownload",
+                                    "04. Give You Up.flac.fdmdownload",
+                                    "03. Give You Up (Mark Knight Remix).flac.fdmdownload",
+                                    "01. Take You Home.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload",
+                                    "06. Give You Up.flac.fdmdownload",
+                                    "02. Take You Home.flac.fdmdownload"
+                                ]
+                            },
+                            "(2019) Dido - Just Because [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Just Because.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2021) Dido - Deuses [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Deuses.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2013) Dido - Girl Who Got Away [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "11. Day Before We Went to War.flac.fdmdownload",
+                                    "10. Loveless Hearts.flac.fdmdownload",
+                                    "04. Blackbird.flac.fdmdownload",
+                                    "07. Love to Blame.flac.fdmdownload",
+                                    "01. No Freedom.flac.fdmdownload",
+                                    "09. Happy New Year.flac.fdmdownload",
+                                    "cover.jpg",
+                                    "08. Go Dreaming.flac.fdmdownload",
+                                    "03. Let Us Move On.flac.fdmdownload",
+                                    "02. Girl Who Got Away.flac.fdmdownload",
+                                    "05. End of Night.flac.fdmdownload",
+                                    "06. Sitting On The Roof Of The World.flac.fdmdownload"
+                                ]
+                            },
+                            "(2019) Dido - Friends  (Younotus Remix) [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "cover.jpg.fdmdownload",
+                                    "01. Friends.flac.fdmdownload"
+                                ]
+                            },
+                            "(1999) Dido - Life For RentNo Angel [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "05. See You When You're 40.flac.fdmdownload",
+                                    "11. See the Sun.flac.fdmdownload",
+                                    "17. All You Want.flac.fdmdownload",
+                                    "07. Who Makes You Feel.flac.fdmdownload",
+                                    "23. My Life.flac.fdmdownload",
+                                    "14. Hunter.flac.fdmdownload",
+                                    "21. Isobel.flac.fdmdownload",
+                                    "18. Thank You.flac.fdmdownload",
+                                    "12. Closer.flac.fdmdownload",
+                                    "16. My Lover's Gone.flac.fdmdownload",
+                                    "08. Sand in My Shoes.flac.fdmdownload",
+                                    "04. Mary's In India.flac.fdmdownload",
+                                    "10. This Land Is Mine.flac.fdmdownload",
+                                    "15. Don't Think of Me.flac.fdmdownload",
+                                    "20. Slide.flac.fdmdownload",
+                                    "06. Don't Leave Home.flac.fdmdownload",
+                                    "22. I'm No Angel.flac.fdmdownload",
+                                    "09. Do You Have a Little Time.flac.fdmdownload",
+                                    "19. Honestly Ok.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload",
+                                    "02. Stoned.flac.fdmdownload",
+                                    "13. Here With Me.flac.fdmdownload",
+                                    "03. Life for Rent.flac.fdmdownload",
+                                    "24. Take My Hand.flac.fdmdownload",
+                                    "01. White Flag.flac.fdmdownload"
+                                ]
+                            },
+                            "(2021) Dido - Projeto 1 - Arclds [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Projeto 1 - Arclds.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2003) Dido - White Flag  (The Scumfrog Remix) [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "cover.jpg.fdmdownload",
+                                    "01. White Flag.flac.fdmdownload"
+                                ]
+                            },
+                            "(2022) Dido - Love et Loves [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Love et Loves.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2013) Dido - NYC [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "cover.jpg.fdmdownload",
+                                    "01. NYC.flac.fdmdownload"
+                                ]
+                            },
+                            "(2019) Dido - Take You Home  (Edit) [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Take You Home.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2022) Dido - MATBAKH (feat. Sweillam) [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. MATBAKH.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2005) Dido - Live at Brixton Academy EP [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "02. See You When You're 40.flac.fdmdownload",
+                                    "01. Here With Me.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload",
+                                    "03. See The Sun.flac.fdmdownload"
+                                ]
+                            },
+                            "(2022) Dido - Roda-Gigante [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "cover.jpg.fdmdownload",
+                                    "01. Roda-Gigante.flac.fdmdownload"
+                                ]
+                            },
+                            "(2022) Dido - Care They [24Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Care They.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2013) Dido - Rocketman [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Rocketman.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2019) Dido - No Angel (20th Anniversary Remix EP) [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "03. Here With Me.flac.fdmdownload",
+                                    "04. Here With Me.flac.fdmdownload",
+                                    "01. Thank You.flac.fdmdownload",
+                                    "02. Thank You.flac.fdmdownload",
+                                    "05. Hunter.flac.fdmdownload",
+                                    "06. Take My Hand.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2022) Dido - Blissful Noon [24Bit-44.1kHz]": {
+                                "_files": [
+                                    "cover.jpg.fdmdownload",
+                                    "01. Blissful Noon.flac.fdmdownload"
+                                ]
+                            },
+                            "(2021) Dido - Deixa [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Deixa.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2020) Dido - Friends  (Psychemagik Remix) [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "02. Friends.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload",
+                                    "01. Friends.flac.fdmdownload"
+                                ]
+                            },
+                            "(2019) Dido - Friends  (Ash Howes Edit) [24Bit-44.1kHz]": {
+                                "_files": [
+                                    "cover.jpg.fdmdownload",
+                                    "01. Friends.flac.fdmdownload"
+                                ]
+                            },
+                            "(2022) Dido - My moment [24Bit-48kHz]": {
+                                "_files": [
+                                    "cover.jpg.fdmdownload",
+                                    "01. My moment.flac.fdmdownload"
+                                ]
+                            },
+                            "(2004) Dido - Sand In My Shoes [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "04. Sand In My Shoes.flac.fdmdownload",
+                                    "02. Sand In My Shoes.flac.fdmdownload",
+                                    "05. Sand In My Shoes.flac.fdmdownload",
+                                    "03. Sand In My Shoes.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload",
+                                    "01. Sand in My Shoes.flac.fdmdownload"
+                                ]
+                            },
+                            "(2022) Dido - Dia Ap\u00f3s Dia [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Dia Ap\u00f3s Dia.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2003) Dido - Sand In My Shoes  (Radio Edit) [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "cover.jpg.fdmdownload",
+                                    "01. Sand In My Shoes.flac.fdmdownload"
+                                ]
+                            },
+                            "(2003) Dido - Edgar Card Sampler [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "06. This Land Is Mine.flac.fdmdownload",
+                                    "05. Don't Leave Home.flac.fdmdownload",
+                                    "cover.jpg",
+                                    "03. See You When You're 40.flac.fdmdownload",
+                                    "02. Stoned.flac.fdmdownload",
+                                    "01. White Flag.flac.fdmdownload",
+                                    "04. Who Makes You Feel.flac.fdmdownload"
+                                ]
+                            },
+                            "(2010) Dido - Everything To Lose [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "05. Everything To Lose.flac.fdmdownload",
+                                    "02. Everything To Lose.flac.fdmdownload",
+                                    "04. Everything To Lose.flac.fdmdownload",
+                                    "03. Everything to Lose.flac.fdmdownload",
+                                    "cover.jpg",
+                                    "01. Everything To Lose.flac.fdmdownload"
+                                ]
+                            },
+                            "(2022) Dido - Ouro [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Ouro.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2019) Dido - Still on My Mind [24Bit-44.1kHz]": {
+                                "_files": [
+                                    "09. Walking By.flac.fdmdownload",
+                                    "02. Give You Up.flac.fdmdownload",
+                                    "05. Take You Home.flac.fdmdownload",
+                                    "10. Friends.flac.fdmdownload",
+                                    "07. Still on My Mind.flac.fdmdownload",
+                                    "08. Mad Love.flac.fdmdownload",
+                                    "11. Chances.flac.fdmdownload",
+                                    "03. Hell After This.flac.fdmdownload",
+                                    "01. Hurricanes.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload",
+                                    "06. Some Kind of Love.flac.fdmdownload",
+                                    "12. Have to Stay.flac.fdmdownload",
+                                    "04. You Don't Need a God.flac.fdmdownload"
+                                ]
+                            },
+                            "(2019) Dido - Take You Home  (Undercatt Remix) [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Take You Home.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2021) Dido - \u041c\u043e\u044f \u043c\u0443\u0437\u044b\u043a\u0430 [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. \u041c\u043e\u044f \u043c\u0443\u0437\u044b\u043a\u0430.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2019) Dido - Still on My Mind  (Deluxe Edition) [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "13. Just Because.flac.fdmdownload",
+                                    "16. Hurricanes.flac.fdmdownload",
+                                    "09. Walking By.flac.fdmdownload",
+                                    "18. White Flag.flac.fdmdownload",
+                                    "02. Give You Up.flac.fdmdownload",
+                                    "05. Take You Home.flac.fdmdownload",
+                                    "15. What Am I Doing Here.flac.fdmdownload",
+                                    "17. Thank You.flac.fdmdownload",
+                                    "10. Friends.flac.fdmdownload",
+                                    "07. Still on My Mind.flac.fdmdownload",
+                                    "20. Take You Home.flac.fdmdownload",
+                                    "08. Mad Love.flac.fdmdownload",
+                                    "11. Chances.flac.fdmdownload",
+                                    "19. Give You Up.flac.fdmdownload",
+                                    "03. Hell After This.flac.fdmdownload",
+                                    "01. Hurricanes.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload",
+                                    "14. This Is Love.flac.fdmdownload",
+                                    "06. Some Kind of Love.flac.fdmdownload",
+                                    "12. Have to Stay.flac.fdmdownload",
+                                    "04. You Don't Need a God.flac.fdmdownload"
+                                ]
+                            },
+                            "(2019) Dido - Hurricanes  (After the Storm Mix) [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Hurricanes.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2013) Dido - Greatest Hits [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "09. Quiet Times.flac.fdmdownload",
+                                    "18. NYC.flac.fdmdownload",
+                                    "12. Let Us Move On.flac.fdmdownload",
+                                    "03. Hunter.flac.fdmdownload",
+                                    "14. End of Night.flac.fdmdownload",
+                                    "05. Life for Rent.flac.fdmdownload",
+                                    "02. Thank You.flac.fdmdownload",
+                                    "10. Grafton Street.flac.fdmdownload",
+                                    "15. One Step Too Far.flac.fdmdownload",
+                                    "04. White Flag.flac.fdmdownload",
+                                    "01. Here With Me.flac.fdmdownload",
+                                    "06. Don't Leave Home.flac.fdmdownload",
+                                    "07. Sand in My Shoes.flac.fdmdownload",
+                                    "11. Everything to Lose.flac.fdmdownload",
+                                    "13. No Freedom.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload",
+                                    "08. Don't Believe in Love.flac.fdmdownload"
+                                ]
+                            },
+                            "(2008) Dido - Grafton Street [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Grafton Street.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2021) Dido - Livre [24Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Lofi.flac.fdmdownload",
+                                    "02. 26 de Junho.flac.fdmdownload",
+                                    "06. Livre.flac.fdmdownload",
+                                    "05. Porta do C\u00e9u.flac.fdmdownload",
+                                    "04. A Ponte.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload",
+                                    "03. Passos.flac.fdmdownload"
+                                ]
+                            },
+                            "(2022) Dido - Soda Cancelled [24Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Soda Cancelled.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2020) Dido - Carolina [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Carolina.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2022) Dido - Bandidona [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Bandidona.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2021) Dido - Greatest Hits [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "14. Don't Think of Me.flac.fdmdownload",
+                                    "34. The Day Before the Day.flac.fdmdownload",
+                                    "22. This Land Is Mine.flac.fdmdownload",
+                                    "10. Don't Believe in Love.flac.fdmdownload",
+                                    "09. Sand in My Shoes.flac.fdmdownload",
+                                    "24. Do You Have a Little Time.flac.fdmdownload",
+                                    "32. Slide.flac.fdmdownload",
+                                    "18. My Lover's Gone.flac.fdmdownload",
+                                    "07. No Freedom.flac.fdmdownload",
+                                    "03. Here With Me.flac.fdmdownload",
+                                    "27. Who Makes You Feel.flac.fdmdownload",
+                                    "28. Isobel.flac.fdmdownload",
+                                    "35. Northern Skies.flac.fdmdownload",
+                                    "23. Mary's In India.flac.fdmdownload",
+                                    "04. Life for Rent.flac.fdmdownload",
+                                    "16. All You Want.flac.fdmdownload",
+                                    "36. Sitting On The Roof Of The World.flac.fdmdownload",
+                                    "08. Christmas Day.flac.fdmdownload",
+                                    "29. My Life.flac.fdmdownload",
+                                    "01. Thank You.flac.fdmdownload",
+                                    "17. Stoned.flac.fdmdownload",
+                                    "19. I'm No Angel.flac.fdmdownload",
+                                    "21. See You When You're 40.flac.fdmdownload",
+                                    "12. Quiet Times.flac.fdmdownload",
+                                    "20. See the Sun.flac.fdmdownload",
+                                    "30. Grafton Street.flac.fdmdownload",
+                                    "11. End of Night.flac.fdmdownload",
+                                    "05. Hunter.flac.fdmdownload",
+                                    "06. Don't Leave Home.flac.fdmdownload",
+                                    "38. Look No Further.flac.fdmdownload",
+                                    "33. Blackbird.flac.fdmdownload",
+                                    "39. NYC.flac.fdmdownload",
+                                    "02. White Flag.flac.fdmdownload",
+                                    "15. Take My Hand.flac.fdmdownload",
+                                    "26. Girl Who Got Away.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload",
+                                    "31. Everything to Lose.flac.fdmdownload",
+                                    "37. Never Want to Say It's Love.flac.fdmdownload",
+                                    "25. Honestly Ok.flac.fdmdownload",
+                                    "13. Let Us Move On.flac.fdmdownload"
+                                ]
+                            },
+                            "(2019) Dido - Give You Up  (Edit) [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Give You Up.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2019) Dido - Di foglie, ombre e paure [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "08. Il tuo sorriso qui.flac.fdmdownload",
+                                    "01. Un indiano senza trib\u00f9.flac.fdmdownload",
+                                    "05. Di foglie, ombre e paure.flac.fdmdownload",
+                                    "02. Al confine.flac.fdmdownload",
+                                    "04. Noemi.flac.fdmdownload",
+                                    "03. Chiedimi di restare.flac.fdmdownload",
+                                    "07. Contemplando a riva.flac.fdmdownload",
+                                    "09. Il mio film.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload",
+                                    "06. M.I.L.F.flac.fdmdownload"
+                                ]
+                            },
+                            "(2021) Dido - Piedade [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Piedade.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2019) Dido - White Flag  (Live Acoustic) [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "cover.jpg.fdmdownload",
+                                    "01. White Flag.flac.fdmdownload"
+                                ]
+                            },
+                            "(2021) Dido - Remember [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Remember.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2021) Dido - On the road [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "cover.jpg.fdmdownload",
+                                    "01. On the road.flac.fdmdownload"
+                                ]
+                            },
+                            "(2022) Dido - Oceanic Zephyr [24Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Oceanic Zephyr.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2022) Dido - \u0669\u0660 [24Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. \u0669\u0660.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2022) Dido - Lack Honey [24Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Lack Honey.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2006) Dido - Dance Vault Mixes - Sand In My ShoesDon't Leave Home [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "10. Don't Leave Home.flac.fdmdownload",
+                                    "09. Don't Leave Home.flac.fdmdownload",
+                                    "04. Sand In My Shoes.flac.fdmdownload",
+                                    "02. Sand in My Shoes.flac.fdmdownload",
+                                    "05. Sand In My Shoes.flac.fdmdownload",
+                                    "08. Sand In My Shoes.flac.fdmdownload",
+                                    "03. Sand In My Shoes.flac.fdmdownload",
+                                    "06. Sand In My Shoes.flac.fdmdownload",
+                                    "07. Sand In My Shoes.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload",
+                                    "01. Sand In My Shoes.flac.fdmdownload"
+                                ]
+                            },
+                            "(2022) Dido - MEBALEM [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. MEBALEM.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2022) Dido - Hopefully [24Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. Hopefully.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            },
+                            "(2021) Dido - 3asfoora Dahaby [16Bit-44.1kHz]": {
+                                "_files": [
+                                    "01. 3asfoora Dahaby.flac.fdmdownload",
+                                    "cover.jpg.fdmdownload"
+                                ]
+                            }
+                        }
+                    },
+                    "Fun - Some Nights [2012-Album] - [HP]": {
+                        "_files": [
+                            "02 Some Nights.mp3",
+                            "08 All Alright.mp3",
+                            "01 Some Nights (Intro).mp3",
+                            "07 All Alone.mp3",
+                            "11 Out On the Town (Bonus Track).mp3",
+                            "06 Why Am I the One.mp3",
+                            "09 One Foot.mp3",
+                            "10 Stars.mp3",
+                            "05 It Gets Better.mp3",
+                            "04 Carry On.mp3",
+                            "03 We Are Young (feat. Janelle Mona_.mp3"
+                        ]
+                    },
+                    "Tegan And Sara - Heartthrob (2013 Alternativa e indie) [Flac 16-44]": {
+                        "_files": [
+                            "10. Tegan And Sara - Shock to Your System.flac",
+                            "02. Tegan And Sara - Goodbye, Goodbye.flac",
+                            "05. Tegan And Sara - Drove Me Wild.flac",
+                            "08. Tegan And Sara - Love They Say.flac",
+                            "03. Tegan And Sara - I Was a Fool.flac",
+                            "07. Tegan And Sara - I Couldn't Be Your Friend.flac",
+                            "Cover.jpg",
+                            "09. Tegan And Sara - Now I'm All Messed Up.flac",
+                            "01. Tegan And Sara - Closer.flac",
+                            "04. Tegan And Sara - I'm Not Your Hero.flac",
+                            "06. Tegan And Sara - How Come You Don't Want Me.flac"
+                        ],
+                        ".unwanted": {
+                            "_files": [
+                                "Free Premium Accounts at OfficialMrB.com.txt",
+                                "00.info.m3u",
+                                "00.info.nfo"
+                            ]
+                        }
+                    },
+                    "AURORA - Discography 2015-2024 [FLAC] 88": {
+                        "_files": [
+                            ".DS_Store",
+                            "._.DS_Store",
+                            "Jolly Roger.png"
+                        ],
+                        "2022 - Sky Concert In The Light (Original Game Soundtrack)": {
+                            "_files": [
+                                "DR9.txt",
+                                "11. The Seed Intro.flac",
+                                "12. The Seed.flac",
+                                "02. Exhale Inhale.flac",
+                                "09. Warrior Intro.flac",
+                                "08. All Is Soft Inside Outro.flac",
+                                "06. All Is Soft Inside Intro.flac",
+                                "18. Sound Bath.flac",
+                                "13. The Seed Outro.flac",
+                                "04. Runaway Intro.flac",
+                                "14. Through The Eyes Of A Child.flac",
+                                "folder.jpg",
+                                "auCDtect.txt",
+                                "AURORA - Sky Concert In The Light.m3u",
+                                "01. Concert Intro.flac",
+                                "07. All Is Soft Inside.flac",
+                                "16. Queendom.flac",
+                                "05. Runaway.flac",
+                                "15. The Light Beyond.flac",
+                                "10. Warrior.flac",
+                                "03. Exhale Inhale Outro.flac",
+                                "17. Constellation.flac"
+                            ]
+                        },
+                        "2022 - The Gods We Can Touch (Deluxe Edition)": {
+                            "_files": [
+                                ".DS_Store",
+                                "._.DS_Store"
+                            ],
+                            "CD 1": {
+                                "_files": [
+                                    "07. Exhale Inhale.flac",
+                                    "11. Blood In The Wine.flac",
+                                    "04. Exist For Love.flac",
+                                    "AURORA - The Gods We Can Touch (1).log",
+                                    "08. A Temporary High.flac",
+                                    "12. This Could Be A Dream.flac",
+                                    "03. Cure For Me.flac",
+                                    "05. Heathens.flac",
+                                    "AURORA - The Gods We Can Touch (1).accurip",
+                                    "10. Artemis.flac",
+                                    "folder.jpg",
+                                    "auCDtect.txt",
+                                    "AURORA - The Gods We Can Touch (1).cue",
+                                    "01. The Forbidden Fruits Of Eden.flac",
+                                    "AURORA - The Gods We Can Touch (1).m3u",
+                                    "14. Cure For Me (Acoustic).flac",
+                                    "02. Giving In To The Love.flac",
+                                    "09. A Dangerous Thing.flac",
+                                    "13. A Little Place Called The Moon.flac",
+                                    "06. The Innocent.flac",
+                                    "DR5.txt"
+                                ]
+                            },
+                            "CD 2": {
+                                "_files": [
+                                    "02. The Devil Is Human.flac",
+                                    "03. A Potion For Love.flac",
+                                    "AURORA - The Gods We Can Touch (2).m3u",
+                                    "AURORA - The Gods We Can Touch (2).cue",
+                                    "01. The Woman I Am.flac",
+                                    "04. Hunting Shadows (Assassin's Creed).flac",
+                                    "09. Exist For Love (Live From Supersonic 2021).flac",
+                                    "folder.jpg",
+                                    "auCDtect.txt",
+                                    "08. Exhale Inhale (Vevo Session).flac",
+                                    "06. A Temporary High (Acoustic).flac",
+                                    "AURORA - The Gods We Can Touch (2).log",
+                                    "AURORA - The Gods We Can Touch (2).accurip",
+                                    "DR7.txt",
+                                    "05. Runaway (Piano Version).flac",
+                                    "07. A Potion For Love (Vevo Session).flac"
+                                ]
+                            }
+                        },
+                        "2019 - A Different Kind Of Human Step 2": {
+                            "_files": [
+                                "08. A Different Kind Of Human.flac",
+                                "AURORA - A Different Kind Of Human_ Step 2.accurip",
+                                "11. Mothership.flac",
+                                "07. In Bottles.flac",
+                                "06. Soulless Creatures.flac",
+                                "AURORA - A Different Kind Of Human_ Step 2.cue",
+                                "09. Apple Tree.flac",
+                                "AURORA - A Different Kind Of Human_ Step 2.m3u",
+                                "10. The Seed.flac",
+                                "02. Animal.flac",
+                                "folder.jpg",
+                                "auCDtect.txt",
+                                "03. Dance On The Moon.flac",
+                                "05. Hunger.flac",
+                                "01. The River.flac",
+                                "AURORA - A Different Kind Of Human_ Step 2.log",
+                                "DR6.txt",
+                                "04. Daydreamer.flac"
+                            ]
+                        },
+                        "2015 - All My Demons Greeting Me As A Friend (Deluxe Edition)": {
+                            "_files": [
+                                "AURORA - All My Demons Greeting Me As A Friend (Deluxe Edition).accurip",
+                                "12. Black Water Lilies.flac",
+                                "06. I Went Too Far.flac",
+                                "AURORA - All My Demons Greeting Me As A Friend (Deluxe Edition).cue",
+                                "14. Murder Song (Acoustic).flac",
+                                "07. Through The Eyes Of A Child.flac",
+                                "17. Running With The Wolves (Pablo Nouvelle Remix).flac",
+                                "AURORA - All My Demons Greeting Me As A Friend (Deluxe Edition).m3u",
+                                "08. Warrior.flac",
+                                "10. Home.flac",
+                                "05. Winter Bird.flac",
+                                "02. Conqueror.flac",
+                                "09. Murder Song.flac",
+                                "folder.jpg",
+                                "auCDtect.txt",
+                                "11. Under The Water.flac",
+                                "01. Runaway.flac",
+                                "03. Running With The Wolves.flac",
+                                "AURORA - All My Demons Greeting Me As A Friend (Deluxe Edition).log",
+                                "04. Lucky.flac",
+                                "13. Half The World Away.flac",
+                                "15. Nature Boy.flac",
+                                "DR7.txt",
+                                "16. Wisdom Cries.flac"
+                            ]
+                        },
+                        "2020 - Infections Of A Different Kind Of Human": {
+                            "_files": [
+                                "08. Infections Of A Different Kind.flac",
+                                "04. All Is Soft Inside.flac",
+                                "17. Apple Tree.flac",
+                                "07. Soft Universe.flac",
+                                "14. Soulless Creatures.flac",
+                                "11. Dance On The Moon.flac",
+                                "02. Forgotten Love.flac",
+                                "18. The Seed.flac",
+                                "20. Exist For Love.flac",
+                                "13. Hunger.flac",
+                                "AURORA - Infections Of A Different Kind Of Human.m3u",
+                                "AURORA - Infections Of A Different Kind Of Human.cue",
+                                "10. Animal.flac",
+                                "12. Daydreamer.flac",
+                                "15. In Bottles.flac",
+                                "folder.jpg",
+                                "auCDtect.txt",
+                                "21. The River (Live At J-Wave 81.3 Fm).flac",
+                                "09. The River.flac",
+                                "05. It Happened Quiet.flac",
+                                "01. Queendom.flac",
+                                "AURORA - Infections Of A Different Kind Of Human.accurip",
+                                "DR6.txt",
+                                "06. Churchyard.flac",
+                                "AURORA - Infections Of A Different Kind Of Human.log",
+                                "03. Gentle Earthquakes.flac",
+                                "16. A Different Kind Of Human.flac",
+                                "19. Mothership.flac"
+                            ]
+                        },
+                        "2015 - Running With The Wolves (EP)": {
+                            "_files": [
+                                "folder.jpg",
+                                "auCDtect.txt",
+                                "01. Runaway.flac",
+                                "03. In Boxes.flac",
+                                "AURORA - Running With The Wolves (EP).m3u",
+                                "02. Running With The Wolves.flac",
+                                "DR7.txt",
+                                "04. Little Boy In The Grass.flac"
+                            ]
+                        },
+                        "2024 - What Happened To The Heart": {
+                            "_files": [
+                                "01. Echo Of My Shadow.flac",
+                                "07. Earthly Delights.flac",
+                                "15. My Body Is Not Mine.flac",
+                                "AURORA - What Happened To The Heart.cue",
+                                "09. A Soul With No King.flac",
+                                "AURORA - What Happened To The Heart.m3u",
+                                "14. The Blade.flac",
+                                "13. Starvation.flac",
+                                "08. When The Dark Dresses Lightly.flac",
+                                "10. Dreams.flac",
+                                "12. Do You Feel_.flac",
+                                "06. The Essence.flac",
+                                "11. My Name.flac",
+                                "03. Your Blood.flac",
+                                "16. Invisible Wounds.flac",
+                                "04. The Conflict Of The Mind.flac",
+                                "05. Some Type Of Skin.flac",
+                                "folder.jpg",
+                                "auCDtect.txt",
+                                "AURORA - What Happened To The Heart.log",
+                                "AURORA - What Happened To The Heart.accurip",
+                                "02. To Be Alright.flac",
+                                "DR5.txt"
+                            ]
+                        },
+                        "2018 - Infections Of A Different Kind Step 1": {
+                            "_files": [
+                                "08. Infections Of A Different Kind.flac",
+                                "04. All Is Soft Inside.flac",
+                                "07. Soft Universe.flac",
+                                "02. Forgotten Love.flac",
+                                "AURORA - Infections Of A Different Kind_ Step 1.m3u",
+                                "folder.jpg",
+                                "auCDtect.txt",
+                                "05. It Happened Quiet.flac",
+                                "01. Queendom.flac",
+                                "06. Churchyard.flac",
+                                "03. Gentle Earthquakes.flac",
+                                "DR7.txt"
+                            ]
+                        },
+                        "2020 - WolfWalkers (Original Motion Picture Soundtrack)": {
+                            "_files": [
+                                "12. Bruno Coulais - My Little Wolf.flac",
+                                "07. K\u00edla - Howls The Wolf (Moll's Song - Wolf Run Free).flac",
+                                "11. Bruno Coulais - Please Mammy.flac",
+                                "06. Bruno Coulais - I'm A Wolfwalker.flac",
+                                "03. AURORA - Running With The Wolves (Wolfwalkers Version).flac",
+                                "DR10.txt",
+                                "08. Bruno Coulais - Our Forest.flac",
+                                "folder.jpg",
+                                "05. Bruno Coulais - Wolf Or Girl.flac",
+                                "15. K\u00edla - M\u00e9bh's Tune.flac",
+                                "auCDtect.txt",
+                                "WolfWalkers (Original Motion Picture Soundtrack).m3u",
+                                "16. K\u00edla - Robyn's Tune.flac",
+                                "13. Bruno Coulais - Our Victory.flac",
+                                "04. Bruno Coulais - Mechanical.flac",
+                                "09. Bruno Coulais - What Are You Doing Here.flac",
+                                "14. Bruno Coulais - Follow Me.flac",
+                                "10. Bruno Coulais - This Is Intolerable.flac",
+                                "02. Bruno Coulais - Wolves.flac",
+                                "01. Bruno Coulais - Wolfwalkers Theme.flac"
+                            ]
+                        },
+                        "2022 - Cure For Me (EP)": {
+                            "_files": [
+                                "01. Cure For Me.flac",
+                                "03. Cure For Me (Vintage Culture Remix).flac",
+                                "04. Cure For Me (Vintage Culture Remix Extended).flac",
+                                "folder.jpg",
+                                "auCDtect.txt",
+                                "AURORA - Cure For Me (EP).m3u",
+                                "DR5.txt",
+                                "02. Cure For Me (Acoustic).flac"
+                            ]
+                        }
+                    }
+                },
+                "hacking-books": {
+                    "_files": [
+                        "rtfm-red-team-field-manual.pdf",
+                        "README.md",
+                        "github-git-cheat-sheet.pdf",
+                        "Jon Erickson - Hacking Art of Exploitation.pdf",
+                        "._Jon Erickson - Hacking Art of Exploitation.pdf",
+                        "RTFM - Red Team Field Manual v3.pdf",
+                        "Hash Crack \u2013 Password Cracking Manual (v2.0).pdf"
+                    ],
+                    ".git": {
+                        "_files": [
+                            "config",
+                            "HEAD",
+                            "description",
+                            "index",
+                            "packed-refs"
+                        ],
+                        "objects": {
+                            "_files": [],
+                            "pack": {
+                                "_files": [
+                                    "pack-ead8f93b26b14d051817e447150e83cc5205739e.pack",
+                                    "pack-ead8f93b26b14d051817e447150e83cc5205739e.idx",
+                                    "pack-ead8f93b26b14d051817e447150e83cc5205739e.rev"
+                                ]
+                            },
+                            "info": {
+                                "_files": []
+                            }
+                        },
+                        "info": {
+                            "_files": [
+                                "exclude"
+                            ]
+                        },
+                        "logs": {
+                            "_files": [
+                                "HEAD"
+                            ],
+                            "refs": {
+                                "_files": [],
+                                "heads": {
+                                    "_files": [
+                                        "master"
+                                    ]
+                                },
+                                "remotes": {
+                                    "_files": [],
+                                    "origin": {
+                                        "_files": [
+                                            "HEAD"
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        "hooks": {
+                            "_files": [
+                                "commit-msg.sample",
+                                "pre-rebase.sample",
+                                "sendemail-validate.sample",
+                                "pre-commit.sample",
+                                "applypatch-msg.sample",
+                                "fsmonitor-watchman.sample",
+                                "pre-receive.sample",
+                                "prepare-commit-msg.sample",
+                                "post-update.sample",
+                                "pre-merge-commit.sample",
+                                "pre-applypatch.sample",
+                                "pre-push.sample",
+                                "update.sample",
+                                "push-to-checkout.sample"
+                            ]
+                        },
+                        "refs": {
+                            "_files": [],
+                            "heads": {
+                                "_files": [
+                                    "master"
+                                ]
+                            },
+                            "tags": {
+                                "_files": []
+                            },
+                            "remotes": {
+                                "_files": [],
+                                "origin": {
+                                    "_files": [
+                                        "HEAD"
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                },
+                ".Trashes": {
+                    "_files": [],
+                    "501": {
+                        "_files": [
+                            ".DS_Store",
+                            "._.DS_Store",
+                            "._Halt And Catch Fire Season 1 to 4 Mp4 1080p"
+                        ],
+                        "Halt And Catch Fire Season 1 to 4 Mp4 1080p": {
+                            "_files": [],
+                            "Season 1": {
+                                "_files": [
+                                    "Halt And Catch Fire S01E01.mp4.fdmdownload",
+                                    "Halt And Catch Fire S01E02.mp4.fdmdownload",
+                                    "Halt And Catch Fire S01E03.mp4.fdmdownload",
+                                    "Halt And Catch Fire S01E04.mp4.fdmdownload",
+                                    "Halt And Catch Fire S01E05.mp4.fdmdownload",
+                                    "Halt And Catch Fire S01E06.mp4.fdmdownload",
+                                    "Halt And Catch Fire S01E07.mp4.fdmdownload",
+                                    "Halt And Catch Fire S01E08.mp4.fdmdownload",
+                                    "Halt And Catch Fire S01E09.mp4.fdmdownload",
+                                    "Halt And Catch Fire S01E10.mp4.fdmdownload",
+                                    "Read Me.txt.fdmdownload"
+                                ]
+                            },
+                            "Season 2": {
+                                "_files": [
+                                    "Halt And Catch Fire S02E01.mp4.fdmdownload",
+                                    "Halt And Catch Fire S02E02.mp4.fdmdownload",
+                                    "Halt And Catch Fire S02E03.mp4.fdmdownload",
+                                    "Halt And Catch Fire S02E04.mp4.fdmdownload",
+                                    "Halt And Catch Fire S02E05.mp4.fdmdownload",
+                                    "Halt And Catch Fire S02E06.mp4.fdmdownload",
+                                    "Halt And Catch Fire S02E07.mp4.fdmdownload",
+                                    "Halt And Catch Fire S02E08.mp4.fdmdownload",
+                                    "Halt And Catch Fire S02E09.mp4.fdmdownload",
+                                    "Halt And Catch Fire S02E10.mp4.fdmdownload",
+                                    "Read Me.txt.fdmdownload"
+                                ]
+                            },
+                            "Season 3": {
+                                "_files": [
+                                    "Halt And Catch Fire S03E01.mp4.fdmdownload",
+                                    "Halt And Catch Fire S03E02.mp4.fdmdownload",
+                                    "Halt And Catch Fire S03E03.mp4.fdmdownload",
+                                    "Halt And Catch Fire S03E04.mp4.fdmdownload",
+                                    "Halt And Catch Fire S03E05.mp4.fdmdownload",
+                                    "Halt And Catch Fire S03E06.mp4.fdmdownload",
+                                    "Halt And Catch Fire S03E07.mp4.fdmdownload",
+                                    "Halt And Catch Fire S03E08.mp4.fdmdownload",
+                                    "Halt And Catch Fire S03E09.mp4.fdmdownload",
+                                    "Halt And Catch Fire S03E10.mp4.fdmdownload",
+                                    "Read Me.txt.fdmdownload"
+                                ]
+                            },
+                            "Season 4": {
+                                "_files": [
+                                    "Halt And Catch Fire S04E01.mp4.fdmdownload",
+                                    "Halt And Catch Fire S04E02.mp4.fdmdownload",
+                                    "Halt And Catch Fire S04E03.mp4.fdmdownload",
+                                    "Halt And Catch Fire S04E04.mp4.fdmdownload",
+                                    "Halt And Catch Fire S04E05.mp4.fdmdownload",
+                                    "Halt And Catch Fire S04E06.mp4.fdmdownload",
+                                    "Halt And Catch Fire S04E07.mp4.fdmdownload",
+                                    "Halt And Catch Fire S04E08.mp4.fdmdownload",
+                                    "Halt And Catch Fire S04E09.mp4.fdmdownload",
+                                    "Halt And Catch Fire S04E10.mp4.fdmdownload",
+                                    "Read Me.txt"
+                                ]
+                            }
+                        }
+                    }
+                },
+                "wordpress-backups": {
+                    "_files": [
+                        "balungiug.com-2024-12-19_09-47-59.zip",
+                        "._balungiug.com-2024-12-19_09-47-59.zip",
+                        "sienr.org-2024-12-19_10-55-40.zip",
+                        "._sienr.org-2024-12-19_10-55-40.zip",
+                        "afrifood.org.ug-2024-12-19_10-07-30.zip",
+                        "._afrifood.org.ug-2024-12-19_10-07-30.zip",
+                        "ecoenergyliberia.org-2024-12-19_22-55-09.zip",
+                        "._ecoenergyliberia.org-2024-12-19_22-55-09.zip",
+                        "nous-ngo.org-2024-12-19_10-19-00.zip",
+                        "._nous-ngo.org-2024-12-19_10-19-00.zip"
+                    ]
+                },
+                "java-muk-recordings": {
+                    "_files": [
+                        "2024-10-10 18-42-20.mp4",
+                        "._2024-10-10 18-42-20.mp4",
+                        "2024-10-10 18-40-02.mp4",
+                        "._2024-10-10 18-40-02.mp4",
+                        "2024-10-10 18-36-35.mp4",
+                        "._2024-05-02 14-49-04.mp4",
+                        "2024-05-02 14-49-04.mp4",
+                        "._question_three_2019_2020.mp4",
+                        "question_three_2019_2020.mp4",
+                        "._question_two_2019_2020.mp4",
+                        "question_two_2019_2020.mp4",
+                        "._question_one_2019_2020.mp4",
+                        "question_one_2019_2020.mp4",
+                        "._section_a_2019_2020.mp4",
+                        "section_a_2019_2020.mp4"
+                    ],
+                    "2022\uf0222023": {
+                        "_files": [
+                            "section_a_2022_2023.mp4",
+                            "._section_a_2022_2023.mp4",
+                            "question_four_2022_2023.mp4",
+                            "._question_four_2022_2023.mp4",
+                            "question_one_2022_2023.mp4",
+                            "._question_one_2022_2023.mp4",
+                            "correction_modifiers.mp4",
+                            "question_three_2022_2023.mp4",
+                            "._question_three_2022_2023.mp4",
+                            "property_correction_2022_2023.mp4",
+                            "._property_correction_2022_2023.mp4",
+                            "question_tw0_2022_2023.mp4",
+                            "._question_tw0_2022_2023.mp4",
+                            "utilise_guest_2022_2023.mp4",
+                            "._utilise_guest_2022_2023.mp4",
+                            "question_five_2022_2023.mp4",
+                            "._question_five_2022_2023.mp4",
+                            "numOfDays_Correction_2022_2023.mp4",
+                            "._numOfDays_Correction_2022_2023.mp4"
+                        ]
+                    },
+                    "2021\uf0222022": {
+                        "_files": [
+                            "question_two.mp4",
+                            "._question_two.mp4",
+                            "question_one.mp4",
+                            "._question_one.mp4",
+                            "section_a.mp4",
+                            "._section_a.mp4"
+                        ]
+                    }
+                }
             }
         }
     }

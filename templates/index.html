@@ -3,9 +3,11 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script src="../htmx.min.js"></script>
 	<title>Box Office</title>
 </head>
 <body>
+	<input type="search" name="search" id="search">
 	{% for hash, filename in content.items() %}
 	<a href="/library/{{hash}}">{{filename}}</a>
 	<br>
