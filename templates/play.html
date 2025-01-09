@@ -3,20 +3,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="{{ url_for('static', filename='js/htmx.min.js') }}"></script>
     <title>Box Office | Now Playing</title>
 </head>
 <body>
-    <h1>Now playing</h1>
-    <p>{{file_path}}</p>
-    {% if file_path == no_hash %}
-    <a href="/crawl">or click here to re-crawl the connected drive(s)</a>
-    {% endif %}
-    <p>Size : <strong>{{file_size}} GB</strong></p>
-    <video preload="auto" controls width="800">
-        <source src="{{file_path}}" type="video/x-matroska" />
-        <source src="{{file_path}}" type="video/mp4" />
-        Your browser does not support the video tag. Download here
-        <a href="{{file_path}}">Click to download</a>
-      </video>
+    <input 
+	type="search" 
+	name="search" 
+	id="search"
+	placeholder="Search by title..."
+	hx-get="/library/search"
+	hx-trigger="keyup changed delay:300ms"
+	hx-target=".now-playing"
+	>
+	<hr>
+    <div class="now-playing">
+        <h1>Now playing</h1>
+        <p>{{file_path}}</p>
+        {% if file_path == no_hash %}
+        <a href="/crawl">or click here to re-crawl the connected drive(s)</a>
+        {% endif %}
+        <p>Size : <strong>{{file_size}} GB</strong></p>
+        <video preload="auto" controls width="800">
+            <source src="{{file_path}}" type="video/x-matroska" />
+            <source src="{{file_path}}" type="video/mp4" />
+            Your browser does not support the video tag. Download here
+            <a href="{{file_path}}">Click to download</a>
+        </video>
+    </div>
 </body>
 </html>
