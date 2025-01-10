@@ -2,6 +2,7 @@ import os
 import json
 from flask import Flask, redirect, render_template, send_from_directory, abort, request # type: ignore
 from crawler import crawl, hashes
+from file_metadata import extract_info
 from werkzeug.middleware.proxy_fix import ProxyFix # type: ignore
 
 app = Flask(__name__)
@@ -41,7 +42,7 @@ def search():
 
 @app.route("/library/<hash>", methods=["GET"])
 def play(hash):
-    localhost = "http://192.168.1.86"
+    localhost = "http://192.168.1.86:8080"
     no_hash = "No such hash found. Please load a different file."
     # Lookup the hash in the hashes dictionary
     file_path = hashes.get(hash, no_hash)
@@ -53,6 +54,8 @@ def play(hash):
         file_path = no_hash
         file_size = 0
 
+    # Extract metadata
+    metadata = extract_info(file_path)
     # Render the play.html template with the file path
     return render_template(
         "play.html", 
@@ -61,6 +64,7 @@ def play(hash):
         else file_path, 
         file_size=file_size,
         no_hash=no_hash,
+        metadata=metadata,
     )
 
 

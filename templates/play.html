@@ -19,7 +19,10 @@
 	<hr>
     <div class="now-playing">
         <h1>Now playing</h1>
-        <p>{{file_path}}</p>
+        <p>Title: {{metadata["title"]}}</p>
+        <p>Year: {{metadata["year"]}}</p>
+        <p>Resolution: {{metadata["resolution"]}}</p>
+        <p>Type: {{metadata["extension"].upper()}}</p>
         {% if file_path == no_hash %}
         <a href="/crawl">or click here to re-crawl the connected drive(s)</a>
         {% endif %}
