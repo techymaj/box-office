@@ -3,10 +3,10 @@ html {
     overflow-x: hidden;
 }
 body {
-    background-color: black;
+    background-color: #121010;
 }
 body p {
-    color: white;
+    color: #ffffffe0;
 }
 .library {
     display: grid;
@@ -18,16 +18,18 @@ body p {
 .search {
     position: sticky;
     top: 0;
-    background-color: white;
+    background-color: #ffffffe0;
     height: 4rem;
     align-content: center;
-    box-shadow: 0px 2px 5px white;
+    box-shadow: 0px 2px 2px #ffffffe0;
 }
 .search input {
     width: 20rem;
     height: 2.5rem;
     border-radius: 2rem;
-    border-color: grey;
+    border-color: #121010;
+    border-width: 1px;
+    background-color: transparent;
 }
 .loader {
     position: fixed;
@@ -54,11 +56,12 @@ body p {
 .title a {
     text-align: center;
     text-decoration: none;
-    color: white;
+    color: #ffffffe0;
     cursor: pointer;
     font-weight: bold;
     font-family:Arial, Helvetica, sans-serif;
     padding: 0 18px;
+    font-size: 12px;
 }
 .title img {
     height: 15rem;
@@ -81,6 +84,7 @@ body p {
     column-gap: 1rem;
     max-width: 86rem;
     margin: auto;
+    color: #ffffffe0;
 }
 .now-playing > * {
     grid-column: 1 / 2
