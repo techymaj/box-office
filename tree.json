@@ -84,7 +84,9 @@
                                     "Legend of the Seeker S02E19 Extinction.mkv",
                                     "Legend of the Seeker S02E20 Eternity.mkv",
                                     "Legend of the Seeker S02E21 Unbroken.mkv",
-                                    "Legend of the Seeker S02E22 Tears.mkv"
+                                    "Legend of the Seeker S02E22 Tears.mkv",
+                                    "synopsis.txt",
+                                    "poster.jpg"
                                 ]
                             }
                         }
@@ -108,6 +110,7 @@
                         "s03": {
                             "_files": [
                                 "What.If.2021.S03E08.What.If.What.If.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+                                "synopsis.txt",
                                 "What If 2021 S03E07 1080p x265-ELiTE[EZTVx.to].mkv",
                                 "what.if.2021.s03e06.1080p.web.h264-successfulcrab[EZTVx.to].mkv",
                                 "What.If.2021.S03E05.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
@@ -135,14 +138,18 @@
                         "Ant-Man And The Wasp (2018) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
                                 "Ant-Man.And.The.Wasp.2018.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv",
-                                "www.YTS.MX.jpg"
+                                "www.YTS.MX.jpg",
+                                "synopsis.txt",
+                                "poster.jpg"
                             ]
                         },
                         "Avengers Age Of Ultron (2015) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
                                 "Avengers.Age.Of.Ultron.2015.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv",
                                 "www.YTS.MX.jpg",
-                                "YTSProxies.com.txt"
+                                "YTSProxies.com.txt",
+                                "synopsis.txt",
+                                "poster.jpg"
                             ]
                         },
                         "Avengers Endgame (2019) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
@@ -166,13 +173,17 @@
                         "Black Panther (2018) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
                                 "Black.Panther.2018.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv",
-                                "www.YTS.MX.jpg"
+                                "www.YTS.MX.jpg",
+                                "synopsis.txt",
+                                "poster.jpg"
                             ]
                         },
                         "Captain America Civil War (2016) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
                                 "Captain.America.Civil.War.2016.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv",
-                                "www.YTS.MX.jpg"
+                                "www.YTS.MX.jpg",
+                                "synopsis.txt",
+                                "poster.jpg"
                             ]
                         },
                         "Captain America The First Avenger (2011) [REPACK] [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
@@ -187,31 +198,39 @@
                         "Captain America The Winter Soldier (2014) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
                                 "Captain.America.The.Winter.Soldier.2014.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv",
-                                "www.YTS.MX.jpg"
+                                "www.YTS.MX.jpg",
+                                "synopsis.txt",
+                                "poster.jpg"
                             ]
                         },
                         "doctor_strange": {
                             "_files": [
                                 "doctor_strange.mkv",
-                                "www.YTS.MX.jpg"
+                                "synopsis.txt",
+                                "www.YTS.MX.jpg",
+                                "poster.jpg"
                             ]
                         },
                         "Guardians Of The Galaxy (2014) [IMAX] [2160p] [4K] [WEB] [5.1] [YTS.MX]": {
                             "_files": [
                                 "Guardians.Of.The.Galaxy.2014.IMAX.2160p.4K.WEB.x265.10bit.AAC5.1-[YTS.MX].mkv",
                                 "www.YTS.MX.jpg",
-                                "YTSProxies.com.txt"
+                                "YTSProxies.com.txt",
+                                "synopsis.txt",
+                                "poster.jpg"
                             ]
                         },
                         "Guardians Of The Galaxy Vol. 2 (2017) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
                                 "Guardians.Of.The.Galaxy.Vol..2.2017.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv",
-                                "www.YTS.MX.jpg"
+                                "www.YTS.MX.jpg",
+                                "synopsis.txt",
+                                "poster.jpg"
                             ]
                         },
-                        "Hulk (2003) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
+                        "Hulk 2003 2160p": {
                             "_files": [
-                                "Hulk.2003.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv",
+                                "Hulk 2003 2160p.mkv",
                                 "www.YTS.MX.jpg",
                                 "YTSYifyUP... (TOR).txt",
                                 "synopsis.txt"
@@ -228,7 +247,9 @@
                             "_files": [
                                 "Iron.Man.2.2010.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv",
                                 "www.YTS.MX.jpg",
-                                "YTSProxies.com.txt"
+                                "YTSProxies.com.txt",
+                                "synopsis.txt",
+                                "poster.jpg"
                             ]
                         },
                         "Iron Man Three (2013) [REPACK] [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
@@ -251,7 +272,9 @@
                         "Spider-Man Homecoming (2017) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
                                 "Spider-Man.Homecoming.2017.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv",
-                                "www.YTS.MX.jpg"
+                                "www.YTS.MX.jpg",
+                                "synopsis.txt",
+                                "poster.jpg"
                             ]
                         },
                         "The Avengers (2012) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
@@ -302,7 +325,9 @@
                     "Nightcrawler (2014) [1080p]": {
                         "_files": [
                             "Nightcrawler.2014.1080p.BluRay.x264.YIFY.mp4",
-                            "WWW.YTS.RE.jpg"
+                            "WWW.YTS.RE.jpg",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "puss_in_boots": {
@@ -2127,7 +2152,9 @@
                     "Her (2013) [1080p]": {
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
-                            "Her.2013.1080p.BluRay.x264.YIFY.mp4"
+                            "Her.2013.1080p.BluRay.x264.YIFY.mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Gladiator (2000)": {
@@ -2183,7 +2210,9 @@
                     "Better Living Through Chemistry (2014) [BluRay] [1080p] [YTS.AM]": {
                         "_files": [
                             "Better.Living.Through.Chemistry.2014.1080p.BluRay.x264-[YTS.AM].mp4",
-                            "www.YTS.AM.jpg"
+                            "www.YTS.AM.jpg",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Begin Again (2013) [1080p]": {

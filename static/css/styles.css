@@ -24,6 +24,7 @@
 }
 .title {
     display: grid;
+    grid-template-columns: 14rem;
 }
 .title a {
     text-align: center;
