@@ -53,7 +53,9 @@ def search():
     searchword = request.args.get('search', '').casefold()
     for hash, abs_path in hashes.items():
         if searchword in abs_path.casefold():
-            found_hashes.update({hash: abs_path})
+            # Extract metadata
+            metadata = extract_info(abs_path)
+            found_hashes.update({hash: metadata})
 
     return render_template(
         "search.html", 
