@@ -19,8 +19,11 @@
 	>
 	<hr>
 	<div class="library">
-		{% for hash, filename in content.items() %}
-			<a hx-target="body" href="/library/{{hash}}">{{filename}}</a>
+		{% for hash, metadata in content.items() %}
+			<div class="title">
+				<a hx-target="body" href="/library/{{hash}}">{{metadata["title"]}}</a>
+				<img src="{{metadata['poster']}}" alt="Poster">
+			</div>
 			<br>
 		{% endfor %}
 	</div>

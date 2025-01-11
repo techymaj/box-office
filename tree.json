@@ -53,7 +53,8 @@
                                     "Legend of the Seeker S01E20 Sanctuary.mkv",
                                     "Legend of the Seeker S01E21 Fever.mkv",
                                     "Legend of the Seeker S01E22 Reckoning.mkv",
-                                    "poster.jpg"
+                                    "poster.jpg",
+                                    "synopsis.txt"
                                 ]
                             }
                         },
@@ -147,7 +148,9 @@
                             "_files": [
                                 "Avengers.Endgame.2019.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv",
                                 "Avengers.Endgame.2019.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].srt",
-                                "www.YTS.MX.jpg"
+                                "www.YTS.MX.jpg",
+                                "synopsis.txt",
+                                "poster.jpg"
                             ]
                         },
                         "Avengers Infinity War (2018) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
@@ -215,7 +218,9 @@
                         },
                         "Iron_Man": {
                             "_files": [
-                                "Iron_Man_2008_4k.mkv"
+                                "Iron_Man_2008_4k.mkv",
+                                "synopsis.txt",
+                                "poster.jpg"
                             ]
                         },
                         "Iron Man 2 (2010) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
@@ -284,7 +289,9 @@
                     "jupiter_ascending": {
                         "_files": [
                             "jupiter_ascending.mp4",
-                            "WWW.YTS.TO.jpg"
+                            "WWW.YTS.TO.jpg",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Nightcrawler (2014) [1080p]": {
@@ -990,7 +997,9 @@
                     "22 Jump Street (2014) [1080p]": {
                         "_files": [
                             "WWW.YTS.RE.jpg",
-                            "22.Jump.Street.2014.1080p.BluRay.x264.YIFY.mp4"
+                            "22.Jump.Street.2014.1080p.BluRay.x264.YIFY.mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Deadpool 2 (2018) [BluRay] [1080p] [YTS.AM]": {
@@ -1015,7 +1024,9 @@
                     "Ready Player One (2018) [BluRay] [1080p] [YTS.AM]": {
                         "_files": [
                             "Ready.Player.One.2018.1080p.BluRay.x264-[YTS.AM].mp4",
-                            "www.YTS.AM.jpg"
+                            "www.YTS.AM.jpg",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Incredibles 2 (2018) [BluRay] [1080p] [YTS.AM]": {

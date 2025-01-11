@@ -18,6 +18,7 @@ with open("tree.json", "r") as tree:
 
 
 no_hash = "No such hash found. Please load a different file."
+localhost = "http://192.168.1.86:8080"
 
 @app.route("/crawl")
 def re_crawl():
@@ -33,15 +34,17 @@ def index():
 
 @app.route("/library")
 def library():
-    # Lookup the hash in the hashes dictionary
-    file_path = hashes.get(hash, no_hash)
+    meta = {}
+    for hash, file_path in hashes.items():
 
-    # Extract metadata
-    metadata = extract_info(file_path)
+        # Extract metadata
+        metadata = extract_info(file_path)
+
+        meta.update({hash: metadata})
 
     return render_template(
         "index.html", 
-        content=hashes,
+        content=meta,
     )
 
 @app.route("/library/search", methods=["GET"])
@@ -59,7 +62,6 @@ def search():
 
 @app.route("/library/<hash>", methods=["GET"])
 def play(hash):
-    localhost = "http://192.168.1.86:8080"
     # Lookup the hash in the hashes dictionary
     file_path = hashes.get(hash, no_hash)
     if file_path is not no_hash:

@@ -1,10 +1,16 @@
 import re
+from get_poster_path import get_poster_path
 
-string = "/media/kali/256/series/shogun/Shogun.[2024].S01E08.The.Abyss.of.Life.1080p.DSNP.WEB-DL.DDP5.1.H.264-FLUX.mkv"
+localhost = "http://192.168.1.86:8080"
+
 def extract_info(file_name):
     # Extract file name without path
     title = file_name.split('/')[-1]
     title_splits = title.split(".")
+
+    # Get poster
+    poster_path = get_poster_path(file_name)
+    poster_url = f"{localhost}{poster_path}"
 
     # Get extension
     extension = title_splits[-1]
@@ -47,4 +53,5 @@ def extract_info(file_name):
         'year': year.strip('[]()') if year else "N/A",
         'extension': extension,
         'resolution': resolution.strip('[]()') if resolution else "N/A",
+        "poster": poster_url
     }

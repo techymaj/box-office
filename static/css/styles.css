@@ -16,6 +16,13 @@
 .loader.htmx-request {
     opacity: .75;
 }
+.title {
+    display: grid;
+}
+.title img {
+    height: 15rem;
+    width: auto;
+}
 
 /* play.html */
 #search {
