@@ -3,6 +3,8 @@ import json
 from flask import Flask, redirect, render_template, send_from_directory, abort, request # type: ignore
 from crawler import crawl, hashes
 from file_metadata import extract_info
+from get_poster_path import get_poster_path
+from download_poster import download_poster
 from werkzeug.middleware.proxy_fix import ProxyFix # type: ignore
 
 app = Flask(__name__)
@@ -56,6 +58,14 @@ def play(hash):
 
     # Extract metadata
     metadata = extract_info(file_path)
+
+    # Download poster
+    download_poster(file_path, metadata["title"])
+
+    # Get poster
+    poster_path = get_poster_path(file_path)
+    poster_url = f"{localhost}{poster_path}"
+
     # Render the play.html template with the file path
     return render_template(
         "play.html", 
@@ -65,6 +75,7 @@ def play(hash):
         file_size=file_size,
         no_hash=no_hash,
         metadata=metadata,
+        poster=poster_url
     )
 
 

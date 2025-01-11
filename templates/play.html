@@ -5,6 +5,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="{{ url_for('static', filename='js/htmx.min.js') }}"></script>
     <title>Box Office | Now Playing</title>
+    <style>
+        .now-playing {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            column-gap: 4rem;
+        }
+        .now-playing > * {
+            grid-column: 1 / 2
+        }
+        .poster {
+            width: 90%;
+            height: auto;
+            grid-row: 1 / span 10;
+            grid-column: 2 / -1;
+        }
+
+        .poster img {
+            width: inherit;
+            height: inherit;
+            object-fit: contain;
+        }
+    </style>
 </head>
 <body>
     <input 
@@ -33,6 +55,9 @@
             Your browser does not support the video tag. Download here
             <a href="{{file_path}}">Click to download</a>
         </video>
+        <div class="poster">
+            <img src="{{poster}}" alt="Poster">
+        </div>
     </div>
 </body>
 </html>
