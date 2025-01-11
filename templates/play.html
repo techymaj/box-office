@@ -8,14 +8,18 @@
     <style>
         .now-playing {
             display: grid;
-            grid-template-columns: 1fr 1fr;
-            column-gap: 4rem;
+            grid-template-columns: 3fr 1fr;
+            justify-items: center;
+            column-gap: 1rem;
         }
         .now-playing > * {
             grid-column: 1 / 2
         }
+        .synopsis {
+            font-size: 20px;
+        }
         .poster {
-            width: 90%;
+            width: 29rem;
             height: auto;
             grid-row: 1 / span 10;
             grid-column: 2 / -1;
@@ -40,21 +44,26 @@
 	>
 	<hr>
     <div class="now-playing">
-        <h1>Now playing</h1>
-        <p>Title: {{metadata["title"]}}</p>
-        <p>Year: {{metadata["year"]}}</p>
-        <p>Resolution: {{metadata["resolution"]}}</p>
-        <p>Type: {{metadata["extension"].upper()}}</p>
-        {% if file_path == no_hash %}
-        <a href="/crawl">or click here to re-crawl the connected drive(s)</a>
-        {% endif %}
-        <p>Size : <strong>{{file_size}} GB</strong></p>
-        <video preload="auto" controls width="800">
-            <source src="{{file_path}}" type="video/x-matroska" />
-            <source src="{{file_path}}" type="video/mp4" />
-            Your browser does not support the video tag. Download here
-            <a href="{{file_path}}">Click to download</a>
-        </video>
+        <div class="content">
+            <h1>Now playing</h1>
+            <div class="metadata">
+                <p>Title: {{metadata["title"]}}</p>
+                <p>Year: {{metadata["year"]}}</p>
+                <p>Resolution: {{metadata["resolution"]}}</p>
+                <p>Type: {{metadata["extension"].upper()}}</p>
+                {% if file_path == no_hash %}
+                <a href="/crawl">or click here to re-crawl the connected drive(s)</a>
+                {% endif %}
+                <p>Size : <strong>{{file_size}} GB</strong></p>
+                <p class="synopsis">{{synopsis}}</p>
+            </div>
+            <video preload="auto" controls width="890">
+                <source src="{{file_path}}" type="video/x-matroska" />
+                <source src="{{file_path}}" type="video/mp4" />
+                Your browser does not support the video tag. Download here
+                <a href="{{file_path}}">Click to download</a>
+            </video>
+        </div>
         <div class="poster">
             <img src="{{poster}}" alt="Poster">
         </div>

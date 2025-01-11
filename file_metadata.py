@@ -25,7 +25,7 @@ def extract_info(file_name):
         "YTS", "x265-ELiTE", "BrRip", "MX]", "AM]", "AG]", "LT]", "WEBRip",
         "x265", "10bit", "HEVC", "x265-MeGusta[EZTVx", "to]", "h264-ETHEL[EZTVx",
         "h264-successfulcrab[EZTVx", "BOKUTOX", "HEVC", "x265-MeGusta", "x264-tbs[eztv]",
-        "webrip", "AAC-[YTS", "UNRATED", "Bluray",
+        "webrip", "AAC-[YTS", "UNRATED", "Bluray", "BRrip",
         ]
 
     seen = {*""}

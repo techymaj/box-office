@@ -52,7 +52,8 @@
                                     "Legend of the Seeker S01E19 Cursed.mkv",
                                     "Legend of the Seeker S01E20 Sanctuary.mkv",
                                     "Legend of the Seeker S01E21 Fever.mkv",
-                                    "Legend of the Seeker S01E22 Reckoning.mkv"
+                                    "Legend of the Seeker S01E22 Reckoning.mkv",
+                                    "poster.jpg"
                                 ]
                             }
                         },
@@ -458,6 +459,7 @@
                     },
                     "Man of Steel (2013) [1080p]": {
                         "_files": [
+                            "poster.jpg",
                             "Man.of.Steel.2013.1080p.BluRay.x264.YIFY.mp4",
                             "WWW.YIFY-TORRENTS.COM.jpg"
                         ]
@@ -923,14 +925,16 @@
                     "Moana (2016) [1080p] [YTS.AG]": {
                         "_files": [
                             "WWW.YTS.AG.jpg",
-                            "Moana.2016.1080p.BluRay.x264-[YTS.AG].mp4"
+                            "Moana.2016.1080p.BluRay.x264-[YTS.AG].mp4",
+                            "poster.jpg"
                         ]
                     },
                     "Brave (2012) [1080p]": {
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
                             "Brave.2012.1080p.BRrip.x264.YIFY.mp4",
-                            "Brave.2012.1080p.BRrip.x264.YIFY.srt"
+                            "Brave.2012.1080p.BRrip.x264.YIFY.srt",
+                            "poster.jpg"
                         ]
                     },
                     "Predestination (2014) [1080p]": {
@@ -986,7 +990,8 @@
                         "_files": [
                             "Jojo.Rabbit.2019.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
                             "Jojo.Rabbit.2019.1080p.BluRay.x264.AAC5.1-[YTS.MX].srt",
-                            "www.YTS.MX.jpg"
+                            "www.YTS.MX.jpg",
+                            "poster.jpg"
                         ]
                     },
                     "Monsters Inc (2001) [1080p]": {
@@ -1752,13 +1757,15 @@
                     "Dragon The Bruce Lee Story (1993) [1080p]": {
                         "_files": [
                             "WWW.YTS.RE.jpg",
-                            "Dragon.The.Bruce.Lee.Story.1993.1080p.BluRay.x264.YIFY.mp4"
+                            "Dragon.The.Bruce.Lee.Story.1993.1080p.BluRay.x264.YIFY.mp4",
+                            "poster.jpg"
                         ]
                     },
                     "Coco (2017) [1080p] [YTS.AG]": {
                         "_files": [
                             "WWW.YTS.AG.jpg",
-                            "Coco.2017.1080p.BluRay.x264-[YTS.AG].mp4"
+                            "Coco.2017.1080p.BluRay.x264-[YTS.AG].mp4",
+                            "poster.jpg"
                         ]
                     },
                     "Black Adam (2022) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]": {
@@ -1766,13 +1773,16 @@
                             "YIFYStatus.com.txt",
                             "Black.Adam.2022.REPACK.1080p.BluRay.x264.AAC5.1-[YTS.MX].srt",
                             "Black.Adam.2022.REPACK.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
-                            "www.YTS.MX.jpg"
+                            "www.YTS.MX.jpg",
+                            "poster.jpg",
+                            "synopsis.txt"
                         ]
                     },
                     "Alita Battle Angel (2019) [BluRay] [1080p] [YTS.LT]": {
                         "_files": [
                             "www.YTS.LT.jpg",
-                            "Alita.Battle.Angel.2019.1080p.BluRay.x264-[YTS.LT].mp4"
+                            "Alita.Battle.Angel.2019.1080p.BluRay.x264-[YTS.LT].mp4",
+                            "poster.jpg"
                         ]
                     },
                     "Gran Turismo (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]": {

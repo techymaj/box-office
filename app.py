@@ -4,7 +4,7 @@ from flask import Flask, redirect, render_template, send_from_directory, abort, 
 from crawler import crawl, hashes
 from file_metadata import extract_info
 from get_poster_path import get_poster_path
-from download_poster import download_poster
+from download_metadata import download_meta
 from werkzeug.middleware.proxy_fix import ProxyFix # type: ignore
 
 app = Flask(__name__)
@@ -60,8 +60,16 @@ def play(hash):
     metadata = extract_info(file_path)
 
     # Download poster
-    download_poster(file_path, metadata["title"])
+    synopsis, _ = download_meta(file_path, metadata["title"])
 
+    parent_dir = os.path.dirname(file_path)
+    synopsis_path = f'{parent_dir}/synopsis.txt'
+
+    if os.path.exists(synopsis_path):
+        with open(synopsis_path, 'r') as f:
+            syn = f.read()
+    print(f"Synopsis is: {syn}")
+    
     # Get poster
     poster_path = get_poster_path(file_path)
     poster_url = f"{localhost}{poster_path}"
@@ -75,7 +83,8 @@ def play(hash):
         file_size=file_size,
         no_hash=no_hash,
         metadata=metadata,
-        poster=poster_url
+        poster=poster_url,
+        synopsis=syn if os.path.exists("./synopsis.txt") else synopsis,
     )
 
 
