@@ -9,7 +9,7 @@ def download_meta(abs_path, search):
     poster_path = f'{parent_dir}/poster.jpg'
     synopsis_path = f'{parent_dir}/synopsis.txt'
 
-    if os.path.exists(synopsis_path):
+    if os.path.exists(synopsis_path) and os.path.exists(poster_path):
         with open(synopsis_path, 'r') as f:
             syn = f.read()
         return syn, None

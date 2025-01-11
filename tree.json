@@ -2189,7 +2189,9 @@
                     "Begin Again (2013) [1080p]": {
                         "_files": [
                             "Begin.Again.2013.1080p.BluRay.x264.YIFY.mp4",
-                            "WWW.YTS.RE.jpg"
+                            "WWW.YTS.RE.jpg",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     }
                 },
