@@ -116,3 +116,7 @@ body p {
     object-fit: contain;
     z-index: -1;
 }
+
+._404 {
+    grid-column: 1 / -1;
+}

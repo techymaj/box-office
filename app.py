@@ -58,9 +58,10 @@ def search():
             found_hashes.update({hash: metadata})
 
     return render_template(
-        "search.html", 
+        "search.html" if found_hashes else "404.html", 
         found_titles=found_hashes,
     )
+    
 
 @app.route("/library/<hash>", methods=["GET"])
 def play(hash):
