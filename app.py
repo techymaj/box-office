@@ -2,6 +2,7 @@ import os
 import json
 from flask import Flask, redirect, render_template, send_from_directory, abort, request # type: ignore
 from crawler import crawl, hashes
+from environment_variables import localhost
 from file_metadata import extract_info
 from get_poster_path import get_poster_path
 from download_metadata import download_meta
@@ -18,7 +19,6 @@ with open("tree.json", "r") as tree:
 
 
 no_hash = "No such hash found. Please load a different file."
-localhost = "http://192.168.1.86:8080"
 
 @app.route("/crawl")
 def re_crawl():

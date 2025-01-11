@@ -1766,32 +1766,42 @@
                     "Passengers (2016) [1080p] [YTS.AG]": {
                         "_files": [
                             "WWW.YTS.AG.jpg",
-                            "Passengers.2016.1080p.BluRay.x264-[YTS.AG].mp4"
+                            "Passengers.2016.1080p.BluRay.x264-[YTS.AG].mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Apocalypto (2006) [BluRay] [1080p] [YTS.AM]": {
                         "_files": [
                             "www.YTS.AM.jpg",
-                            "Apocalypto.2006.1080p.BluRay.x264-[YTS.AM].mp4"
+                            "Apocalypto.2006.1080p.BluRay.x264-[YTS.AM].mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Pacific Rim (2013) [1080p]": {
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
-                            "Pacific.Rim.2013.1080p.BluRay.x264.YIFY.mp4"
+                            "Pacific.Rim.2013.1080p.BluRay.x264.YIFY.mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Dracula Untold (2014) [1080p]": {
                         "_files": [
                             "Dracula.Untold.2014.1080p.BluRay.x264.YIFY.mp4",
-                            "WWW.YTS.RE.jpg"
+                            "WWW.YTS.RE.jpg",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Oppenheimer (2023) [1080p] [BluRay] [5.1] [YTS.MX]": {
                         "_files": [
                             "YTSProxies.com.txt",
                             "Oppenheimer.2023.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
-                            "www.YTS.MX.jpg"
+                            "www.YTS.MX.jpg",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Dear John (2010) [1080p]": {
@@ -1813,7 +1823,9 @@
                     "Mad Max Fury Road (2015) [1080p]": {
                         "_files": [
                             "Mad.Max.Fury.Road.2015.1080p.BluRay.x264.YIFY.mp4",
-                            "WWW.YTS.TO.jpg"
+                            "WWW.YTS.TO.jpg",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Good Will Hunting (1997) [1080p]": {
@@ -2111,20 +2123,26 @@
                     "Time Lapse (2014) [1080p]": {
                         "_files": [
                             "Time.Lapse.2014.1080p.BluRay.x264.YIFY.mp4",
-                            "WWW.YTS.TO.jpg"
+                            "WWW.YTS.TO.jpg",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Pitch Perfect (2012) [1080p]": {
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
                             "Pitch.Perfect.2012.1080p.BRrip.264.YIFY.srt",
-                            "Pitch.Perfect.2012.1080p.BRrip.264.YIFY.mp4"
+                            "Pitch.Perfect.2012.1080p.BRrip.264.YIFY.mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Tomorrowland (2015) [1080p]": {
                         "_files": [
                             "WWW.YTS.TO.jpg",
-                            "Tomorrowland.2015.1080p.BluRay.x264.YIFY.mp4"
+                            "Tomorrowland.2015.1080p.BluRay.x264.YIFY.mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Zombieland (2009) [1080p] [BluRay] [5.1] [YTS.MX]": {
@@ -2132,21 +2150,27 @@
                             "YIFYStatus.com.txt",
                             "Zombieland.2009.1080p.BluRay.x264.AAC5.1-[YTS.MX].srt",
                             "Zombieland.2009.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
-                            "www.YTS.MX.jpg"
+                            "www.YTS.MX.jpg",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Seeking a Friend For The End of The World (2012) [1080p]": {
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
                             "Seeking.a.Friend.For.The.End.of.The.World.2012.1080p.BRrip.x264.YIFY.srt",
-                            "Seeking.a.Friend.For.The.End.of.The.World.2012.1080p.BRrip.x264.YIFY.mp4"
+                            "Seeking.a.Friend.For.The.End.of.The.World.2012.1080p.BRrip.x264.YIFY.mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Zombieland Double Tap (2019) [BluRay] [1080p] [YTS.LT]": {
                         "_files": [
                             "www.YTS.LT.jpg",
                             "Zombieland.Double.Tap.2019.1080p.BluRay.x264-[YTS.LT].srt",
-                            "Zombieland.Double.Tap.2019.1080p.BluRay.x264-[YTS.LT].mp4"
+                            "Zombieland.Double.Tap.2019.1080p.BluRay.x264-[YTS.LT].mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Her (2013) [1080p]": {
@@ -2190,21 +2214,27 @@
                     "Don Jon (2013) [1080p]": {
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
-                            "Don.Jon.2013.1080p.BluRay.x264.YIFY.mp4"
+                            "Don.Jon.2013.1080p.BluRay.x264.YIFY.mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Chaos Walking (2021) [1080p] [BluRay] [5.1] [YTS.MX]": {
                         "_files": [
                             "Chaos.Walking.2021.1080p.BluRay.x264.AAC5.1-[YTS.MX].srt",
                             "www.YTS.MX.jpg",
-                            "Chaos.Walking.2021.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4"
+                            "Chaos.Walking.2021.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Braveheart (1995) [1080p]": {
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
                             "Braveheart.1995.1080p.BrRip.x264.YIFY+HI.mp4",
-                            "Braveheart.1995.1080p.BrRip.x264.YIFY+HI.srt"
+                            "Braveheart.1995.1080p.BrRip.x264.YIFY+HI.srt",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Better Living Through Chemistry (2014) [BluRay] [1080p] [YTS.AM]": {

@@ -1,7 +1,6 @@
 import re
+from environment_variables import localhost
 from get_poster_path import get_poster_path
-
-localhost = "http://192.168.1.86:8080"
 
 def extract_info(file_name):
     # Extract file name without path
