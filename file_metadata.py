@@ -5,7 +5,7 @@ from get_poster_path import get_poster_path
 def extract_info(file_name):
     # Extract file name without path
     title = file_name.split('/')[-1]
-    title_splits = title.split(".")
+    title_splits = title.split(".") if "." in title else title.split()
 
     # Get poster
     poster_path = get_poster_path(file_name, "/static/images/fallback.jpg")
@@ -31,7 +31,7 @@ def extract_info(file_name):
         "x265", "10bit", "HEVC", "x265-MeGusta[EZTVx", "to]", "h264-ETHEL[EZTVx",
         "h264-successfulcrab[EZTVx", "BOKUTOX", "HEVC", "x265-MeGusta", "x264-tbs[eztv]",
         "webrip", "AAC-[YTS", "UNRATED", "Bluray", "BRrip", "EXTENDED", "BrRip", "264",
-        "YIFY", "YIFY+HI", "IMAX", "WEB",
+        "YIFY", "YIFY+HI", "IMAX", "WEB", "GAZ", "UHD", "BLURAY",        
         ]
 
     seen = {*""}

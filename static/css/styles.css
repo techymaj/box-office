@@ -18,10 +18,11 @@ body p {
 .search {
     position: sticky;
     top: 0;
-    background-color: #ffffffe0;
+    background-color: #E2E2E2;
     height: 4rem;
     align-content: center;
-    box-shadow: 0px 2px 2px #ffffffe0;
+    box-shadow: 0px 2px 2px #E2E2E2;
+    z-index: 1;
 }
 .search input {
     width: 20rem;
@@ -43,10 +44,11 @@ body p {
     padding: 2rem;
     border-radius: 2rem;
     color: white;
-    /* backdrop-filter: blur(10px); */
+    z-index: -1;
 }
 .loader.htmx-request {
     opacity: .75;
+    z-index: 1;
 }
 .title {
     display: grid;
@@ -85,6 +87,7 @@ body p {
     max-width: 86rem;
     margin: auto;
     color: #ffffffe0;
+    margin-top: 1rem;
 }
 .now-playing > * {
     grid-column: 1 / 2
@@ -105,4 +108,5 @@ body p {
     width: inherit;
     height: inherit;
     object-fit: contain;
+    z-index: -1;
 }
