@@ -5,41 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="{{ url_for('static', filename='js/htmx.min.js') }}"></script>
     <title>Box Office | Now Playing</title>
-    <style>
-        #search {
-            text-align: center;
-            display: block;
-            margin: auto;
-        }
-        .now-playing {
-            display: grid;
-            grid-template-columns: 3fr 1fr;
-            justify-items: center;
-            column-gap: 1rem;
-            max-width: 86rem;
-            margin: auto;
-        }
-        .now-playing > * {
-            grid-column: 1 / 2
-        }
-        .synopsis {
-            font-size: 20px;
-        }
-        .poster {
-            position: sticky;
-            top: 4rem;
-            height: 44rem;
-            width: 28.8rem;
-            grid-row: 1 / span 10;
-            grid-column: 2 / -1;
-        }
-
-        .poster img {
-            width: inherit;
-            height: inherit;
-            object-fit: contain;
-        }
-    </style>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
 </head>
 <body>
     <input 

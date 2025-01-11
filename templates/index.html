@@ -4,9 +4,10 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<script src="{{ url_for('static', filename='js/htmx.min.js') }}"></script>
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
 	<title>Box Office</title>
 </head>
-<body>
+<body hx-boost="true" hx-indicator=".loader">
 	<input 
 	type="search" 
 	name="search" 
@@ -19,9 +20,10 @@
 	<hr>
 	<div class="library">
 		{% for hash, filename in content.items() %}
-		<a href="/library/{{hash}}">{{filename}}</a>
-		<br>
+			<a hx-target="body" href="/library/{{hash}}">{{filename}}</a>
+			<br>
 		{% endfor %}
 	</div>
+	<div class="loader">Fetching assets...</div>
 </body>
 </html>

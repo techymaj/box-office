@@ -154,7 +154,9 @@
                             "_files": [
                                 "Avengers.Infinity.War.2018.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv",
                                 "Avengers.Infinity.War.2018.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].srt",
-                                "www.YTS.MX.jpg"
+                                "www.YTS.MX.jpg",
+                                "synopsis.txt",
+                                "poster.jpg"
                             ]
                         },
                         "Black Panther (2018) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
@@ -173,7 +175,9 @@
                             "_files": [
                                 "Captain.America.The.First.Avenger.2011.REPACK.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv",
                                 "www.YTS.MX.jpg",
-                                "YIFYStatus.com.txt"
+                                "YIFYStatus.com.txt",
+                                "synopsis.txt",
+                                "poster.jpg"
                             ]
                         },
                         "Captain America The Winter Soldier (2014) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
@@ -205,7 +209,8 @@
                             "_files": [
                                 "Hulk.2003.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv",
                                 "www.YTS.MX.jpg",
-                                "YTSYifyUP... (TOR).txt"
+                                "YTSYifyUP... (TOR).txt",
+                                "synopsis.txt"
                             ]
                         },
                         "Iron_Man": {
@@ -224,7 +229,9 @@
                             "_files": [
                                 "Iron.Man.Three.2013.REPACK.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv",
                                 "www.YTS.MX.jpg",
-                                "YTSProxies.com.txt"
+                                "YTSProxies.com.txt",
+                                "synopsis.txt",
+                                "poster.jpg"
                             ]
                         },
                         "Spider-Man Far From Home (2019) [REPACK] [2160p] [4K] [BluRay] [7.1] [YTS.MX]": {
@@ -262,7 +269,9 @@
                         "Thor Ragnarok (2017) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
                                 "Thor.Ragnarok.2017.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv",
-                                "www.YTS.MX.jpg"
+                                "www.YTS.MX.jpg",
+                                "synopsis.txt",
+                                "poster.jpg"
                             ]
                         },
                         "Thor The Dark World (2013) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
@@ -287,8 +296,10 @@
                     "puss_in_boots": {
                         "_files": [
                             "puss_in_boots.mp4",
+                            "synopsis.txt",
                             "YTSProxies.com.txt",
-                            "www.YTS.MX.jpg"
+                            "www.YTS.MX.jpg",
+                            "poster.jpg"
                         ]
                     },
                     "Gladiator II (2024) [1080p] [WEBRip] [5.1] [YTS.MX]": {
@@ -310,7 +321,9 @@
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
                             "The.13th.Warrior.1999.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
-                            "The.13th.Warrior.1999.1080p.BrRip.x264.BOKUTOX.YIFY.srt"
+                            "The.13th.Warrior.1999.1080p.BrRip.x264.BOKUTOX.YIFY.srt",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     }
                 }
@@ -469,6 +482,8 @@
                     "_files": [],
                     "Commando (1985) [1080p]": {
                         "_files": [
+                            "synopsis.txt",
+                            "poster.jpg",
                             "Commando.1985.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
                             "WWW.YIFY-TORRENTS.COM.jpg",
                             "Commando.1985.1080p.BrRip.x264.BOKUTOX.YIFY.srt"
@@ -491,6 +506,8 @@
                     },
                     "Captain Phillips (2013) [1080p]": {
                         "_files": [
+                            "synopsis.txt",
+                            "poster.jpg",
                             "WWW.YIFY-TORRENTS.COM.jpg",
                             "Captain.Phillips.2013.1080p.BluRay.x264.YIFY.mp4"
                         ]
@@ -1103,7 +1120,9 @@
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
                             "G.I..Joe\uf022.Retaliation.2013.1080p.BluRay.x264.YIFY.mp4",
-                            "G.I..Joe\uf022.Retaliation.2013.1080p.BluRay.x264.YIFY.srt"
+                            "G.I..Joe\uf022.Retaliation.2013.1080p.BluRay.x264.YIFY.srt",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "The Spectacular Now (2013) [1080p] [YTS.AG]": {
@@ -1133,7 +1152,9 @@
                     "Whiplash (2014) [1080p]": {
                         "_files": [
                             "WWW.YTS.RE.jpg",
-                            "Whiplash.2014.1080p.BluRay.x264.YIFY.mp4"
+                            "Whiplash.2014.1080p.BluRay.x264.YIFY.mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Zack Snyders Justice League (2021) [1080p] [BluRay] [5.1] [YTS.MX]": {
@@ -1235,7 +1256,9 @@
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
                             "Oblivion.2013.1080p.BluRay.x264.YIFY.srt",
-                            "Oblivion.2013.1080p.BluRay.x264.YIFY.mp4"
+                            "Oblivion.2013.1080p.BluRay.x264.YIFY.mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Focus (2015) [1080p]": {
@@ -1247,7 +1270,9 @@
                     "Tag (2018) [BluRay] [1080p] [YTS.AM]": {
                         "_files": [
                             "Tag.2018.1080p.BluRay.x264-[YTS.AM].mp4",
-                            "www.YTS.AM.jpg"
+                            "www.YTS.AM.jpg",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Beautiful Creatures (2013) [1080p]": {
@@ -1260,7 +1285,9 @@
                     "The Founder (2016) [1080p] [YTS.AG]": {
                         "_files": [
                             "WWW.YTS.AG.jpg",
-                            "The.Founder.2016.1080p.BluRay.x264-[YTS.AG].mp4"
+                            "The.Founder.2016.1080p.BluRay.x264-[YTS.AG].mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Geostorm (2017) [1080p] [YTS.AG]": {
@@ -1307,14 +1334,18 @@
                     "What Happened To Monday (2017) [BluRay] [1080p] [YTS.AM]": {
                         "_files": [
                             "What.Happened.To.Monday.2017.1080p.BluRay.x264-[YTS.AM].mp4",
-                            "www.YTS.AM.jpg"
+                            "www.YTS.AM.jpg",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Joker (2019) [BluRay] [1080p] [YTS.LT]": {
                         "_files": [
                             "www.YTS.LT.jpg",
                             "Joker.2019.1080p.BluRay.x264-[YTS.LT].srt",
-                            "Joker.2019.1080p.BluRay.x264-[YTS.LT].mp4"
+                            "Joker.2019.1080p.BluRay.x264-[YTS.LT].mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ],
                         "Subs": {
                             "_files": [
@@ -1326,13 +1357,17 @@
                         "_files": [
                             "www.YTS.LT.jpg",
                             "Parasite.2019.1080p.BluRay.x264-[YTS.LT].srt",
-                            "Parasite.2019.1080p.BluRay.x264-[YTS.LT].mp4"
+                            "Parasite.2019.1080p.BluRay.x264-[YTS.LT].mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Snowden (2016) [1080p] [YTS.AG]": {
                         "_files": [
                             "WWW.YTS.AG.jpg",
-                            "Snowden.2016.1080p.BluRay.x264-[YTS.AG].mp4"
+                            "Snowden.2016.1080p.BluRay.x264-[YTS.AG].mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "The Theory of Everything (2014) [1080p]": {
@@ -1346,7 +1381,9 @@
                     "Tenet (2020) [1080p] [BluRay] [5.1] [YTS.MX]": {
                         "_files": [
                             "Tenet.2020.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
-                            "www.YTS.MX.jpg"
+                            "www.YTS.MX.jpg",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "The Vow (2012) [1080p] [BluRay] [5.1] [YTS.MX]": {
@@ -1366,14 +1403,18 @@
                     "Sully (2016) [1080p] [YTS.AG]": {
                         "_files": [
                             "WWW.YTS.AG.jpg",
-                            "Sully.2016.1080p.BluRay.x264-[YTS.AG].mp4"
+                            "Sully.2016.1080p.BluRay.x264-[YTS.AG].mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "The Matrix (1999) [1080p]": {
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
                             "The.Matrix.1999.1080p.BrRip.x264.YIFY.srt",
-                            "The.Matrix.1999.1080p.BrRip.x264.YIFY.mp4"
+                            "The.Matrix.1999.1080p.BrRip.x264.YIFY.mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ],
                         "Other": {
                             "_files": [
@@ -1386,7 +1427,9 @@
                     "Southpaw (2015) [1080p]": {
                         "_files": [
                             "Southpaw.2015.1080p.BluRay.x264.YIFY.mp4",
-                            "WWW.YTS.TO.jpg"
+                            "WWW.YTS.TO.jpg",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "The Prestige (2006) [BluRay] [1080p] [YTS.AM]": {
@@ -1405,7 +1448,9 @@
                         "_files": [
                             "The.Tomorrow.War.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].srt",
                             "The.Tomorrow.War.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4",
-                            "www.YTS.MX.jpg"
+                            "www.YTS.MX.jpg",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ],
                         "Subs": {
                             "_files": [
@@ -1471,13 +1516,17 @@
                     "The Magnificent Seven (2016) [1080p] [YTS.AG]": {
                         "_files": [
                             "WWW.YTS.AG.jpg",
-                            "The.Magnificent.Seven.2016.1080p.BluRay.x264-[YTS.AG].mp4"
+                            "The.Magnificent.Seven.2016.1080p.BluRay.x264-[YTS.AG].mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "War Dogs (2016) [1080p] [YTS.AG]": {
                         "_files": [
                             "WWW.YTS.AG.jpg",
-                            "War.Dogs.2016.1080p.BluRay.x264-[YTS.AG].mp4"
+                            "War.Dogs.2016.1080p.BluRay.x264-[YTS.AG].mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "The Amazing Spiderman (2012) [1080p]": {
@@ -1491,7 +1540,9 @@
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
                             "Warm.Bodies.2013.1080p.BluRay.x264.YIFY.srt",
-                            "Warm.Bodies.2013.1080p.BluRay.x264.YIFY.mp4"
+                            "Warm.Bodies.2013.1080p.BluRay.x264.YIFY.mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Deadpool Wolverine (2024) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]": {
@@ -1499,7 +1550,9 @@
                             "YIFYStatus.com.txt",
                             "Deadpool.Wolverine.2024.REPACK.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
                             "Deadpool.Wolverine.2024.REPACK.1080p.BluRay.x264.AAC5.1-[YTS.MX].srt",
-                            "www.YTS.MX.jpg"
+                            "www.YTS.MX.jpg",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ],
                         "Subs": {
                             "_files": [
@@ -1800,7 +1853,9 @@
                     "My Spy (2020) [1080p] [BluRay] [5.1] [YTS.MX]": {
                         "_files": [
                             "My.Spy.2020.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
-                            "www.YTS.MX.jpg"
+                            "www.YTS.MX.jpg",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Ford V Ferrari (2019) [1080p] [BluRay] [5.1] [YTS.LT]": {

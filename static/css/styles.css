@@ -1,0 +1,53 @@
+/* index.html */
+.loader {
+    position: fixed;
+    text-align: center;
+    font-size: 2rem;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+    opacity: 0;
+    padding: 2rem;
+    border-radius: 2rem;
+    color: white;
+    /* backdrop-filter: blur(10px); */
+}
+.loader.htmx-request {
+    opacity: .75;
+}
+
+/* play.html */
+#search {
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+.now-playing {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    justify-items: center;
+    column-gap: 1rem;
+    max-width: 86rem;
+    margin: auto;
+}
+.now-playing > * {
+    grid-column: 1 / 2
+}
+.synopsis {
+    font-size: 20px;
+}
+.poster {
+    position: sticky;
+    top: 4rem;
+    height: 44rem;
+    width: 28.8rem;
+    grid-row: 1 / span 10;
+    grid-column: 2 / -1;
+}
+
+.poster img {
+    width: inherit;
+    height: inherit;
+    object-fit: contain;
+}
