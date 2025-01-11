@@ -87,7 +87,7 @@ def play(hash):
     print(f"Synopsis is: {syn}")
     
     # Get poster
-    poster_path = get_poster_path(file_path)
+    poster_path = get_poster_path(file_path, "/static/images/fallback.jpg")
     poster_url = f"{localhost}{poster_path}"
 
     # Render the play.html template with the file path

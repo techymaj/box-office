@@ -1,4 +1,10 @@
 /* index.html */
+.library {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    row-gap: 2rem;
+    justify-items: center;
+}
 .loader {
     position: fixed;
     text-align: center;
@@ -19,9 +25,13 @@
 .title {
     display: grid;
 }
+.title a {
+    text-align: center;
+}
 .title img {
     height: 15rem;
     width: auto;
+    margin: auto;
 }
 
 /* play.html */

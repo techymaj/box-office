@@ -9,7 +9,7 @@ def extract_info(file_name):
     title_splits = title.split(".")
 
     # Get poster
-    poster_path = get_poster_path(file_name)
+    poster_path = get_poster_path(file_name, "/static/images/fallback.jpg")
     poster_url = f"{localhost}{poster_path}"
 
     # Get extension
@@ -31,7 +31,8 @@ def extract_info(file_name):
         "YTS", "x265-ELiTE", "BrRip", "MX]", "AM]", "AG]", "LT]", "WEBRip",
         "x265", "10bit", "HEVC", "x265-MeGusta[EZTVx", "to]", "h264-ETHEL[EZTVx",
         "h264-successfulcrab[EZTVx", "BOKUTOX", "HEVC", "x265-MeGusta", "x264-tbs[eztv]",
-        "webrip", "AAC-[YTS", "UNRATED", "Bluray", "BRrip",
+        "webrip", "AAC-[YTS", "UNRATED", "Bluray", "BRrip", "EXTENDED", "BrRip", "264",
+        "YIFY",
         ]
 
     seen = {*""}
