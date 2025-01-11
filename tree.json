@@ -125,7 +125,9 @@
                             "_files": [
                                 "Ant-Man.2015.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv",
                                 "www.YTS.MX.jpg",
-                                "YIFYStatus.com.txt"
+                                "YIFYStatus.com.txt",
+                                "synopsis.txt",
+                                "poster.jpg"
                             ]
                         },
                         "Ant-Man And The Wasp (2018) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
@@ -387,20 +389,35 @@
                                 "journalExclusion",
                                 "shutdown_time",
                                 "reverseDirectoryStore.shadow",
-                                "journalAttr.13",
+                                "live.1.indexHead",
+                                "live.1.indexIds",
+                                "live.1.indexBigDates",
+                                "live.1.indexGroups",
+                                "live.1.indexPostings",
+                                "live.1.indexTermIds",
                                 "0.shadowIndexGroups",
                                 "live.0.shadowIndexHead",
-                                "live.0.shadowIndexTermIds",
-                                "live.0.shadowIndexPositionTable",
-                                "live.0.shadowIndexCompactDirectory",
-                                "live.0.shadowIndexDirectory",
-                                "live.0.shadowIndexArrays",
+                                "live.1.indexUpdates",
                                 "live.0.directoryStoreFile.shadow",
                                 "live.0.shadowIndexGroups",
                                 "reverseStore.updates",
                                 "Cab.modified",
+                                "live.1.indexPositions",
+                                "live.1.indexPositionTable",
                                 "tmp.spotlight.loc",
-                                "0.indexHead"
+                                "live.1.indexDirectory",
+                                "live.1.indexCompactDirectory",
+                                "0.indexHead",
+                                "live.1.indexArrays",
+                                "live.1.directoryStoreFile",
+                                "live.1.shadowIndexHead",
+                                "live.1.shadowIndexTermIds",
+                                "live.1.shadowIndexPositionTable",
+                                "live.1.shadowIndexCompactDirectory",
+                                "live.1.shadowIndexDirectory",
+                                "live.1.shadowIndexArrays",
+                                "live.1.directoryStoreFile.shadow",
+                                "live.1.shadowIndexGroups"
                             ],
                             "journals.corespotlight": {
                                 "_files": []
@@ -412,11 +429,7 @@
                                 "_files": []
                             },
                             "journals.live_user": {
-                                "_files": [
-                                    "journal.23806",
-                                    "journal.23826",
-                                    "retire.23813"
-                                ]
+                                "_files": []
                             },
                             "journals.live_priority": {
                                 "_files": []
@@ -428,10 +441,7 @@
                                 "_files": []
                             },
                             "journals.health_check": {
-                                "_files": [
-                                    "journal.41",
-                                    "journal.48"
-                                ]
+                                "_files": []
                             },
                             "journals.migration": {
                                 "_files": []
@@ -448,6 +458,13 @@
                         }
                     }
                 },
+                ".fseventsd": {
+                    "_files": [
+                        "fseventsd-uuid",
+                        "0000000002be3244",
+                        "0000000002be3245"
+                    ]
+                },
                 "torrents": {
                     "_files": [],
                     "Commando (1985) [1080p]": {
@@ -460,6 +477,7 @@
                     "Man of Steel (2013) [1080p]": {
                         "_files": [
                             "poster.jpg",
+                            "synopsis.txt",
                             "Man.of.Steel.2013.1080p.BluRay.x264.YIFY.mp4",
                             "WWW.YIFY-TORRENTS.COM.jpg"
                         ]
@@ -479,6 +497,8 @@
                     },
                     "The Wolf of Wall Street (2013) [1080p]": {
                         "_files": [
+                            "synopsis.txt",
+                            "poster.jpg",
                             "WWW.YIFY-TORRENTS.COM.jpg",
                             "The.Wolf.of.Wall.Street.2013.1080p.BluRay.x264.YIFY.mp4"
                         ]
@@ -494,7 +514,8 @@
                                 "_files": [
                                     "Silo.S02E01.1080p.x265-ELiTE.nfo",
                                     "Silo.S02E01.1080p.x265-ELiTE.mkv",
-                                    "._Silo.S02E01.1080p.x265-ELiTE.mkv"
+                                    "._Silo.S02E01.1080p.x265-ELiTE.mkv",
+                                    "synopsis.txt"
                                 ],
                                 "Screens": {
                                     "_files": [
@@ -1317,7 +1338,9 @@
                     "The Theory of Everything (2014) [1080p]": {
                         "_files": [
                             "WWW.YTS.RE.jpg",
-                            "The.Theory.of.Everything.2014.1080p.BluRay.x264.YIFY.mp4"
+                            "The.Theory.of.Everything.2014.1080p.BluRay.x264.YIFY.mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Tenet (2020) [1080p] [BluRay] [5.1] [YTS.MX]": {
@@ -1584,6 +1607,13 @@
                             "The.Amazing.Spider.Man.2.2014.1080p.BluRay.x264.YIFY.mp4"
                         ]
                     },
+                    "A Beautiful Mind (2001) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "A.Beautiful.Mind.2001.1080p.BrRip.x264.YIFY.mp4",
+                            "A.Beautiful.Mind.2001.1080p.BrRip.x264.YIFY.srt"
+                        ]
+                    },
                     "Paper Towns (2015) [1080p]": {
                         "_files": [
                             "WWW.YTS.TO.jpg",
@@ -1604,6 +1634,20 @@
                             ]
                         }
                     },
+                    "The Social Network (2010) [1080]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "The Social Network (2010) 1080p BrRip x264 - 1.2GB - YIFY.mp4",
+                            "The Social Network (2010) 1080p BrRip x264 - 1.2GB - YIFY.srt"
+                        ],
+                        "Other": {
+                            "_files": [
+                                "Torrent downloaded from Demonoid.com - Copy.txt",
+                                "Torrent Downloaded From ExtraTorrent.com.txt",
+                                "AhaShare.com.txt"
+                            ]
+                        }
+                    },
                     "Love, Rosie (2014) [1080p]": {
                         "_files": [
                             "Love,.Rosie.2014.1080p.BluRay.x264.YIFY.mp4",
@@ -1620,13 +1664,21 @@
                     "Me Before You (2016) [1080p] [YTS.AG]": {
                         "_files": [
                             "Me.Before.You.2016.1080p.BluRay.x264-[YTS.AG].mp4",
-                            "WWW.YTS.AG.jpg"
+                            "WWW.YTS.AG.jpg",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Passengers (2016) [1080p] [YTS.AG]": {
                         "_files": [
                             "WWW.YTS.AG.jpg",
                             "Passengers.2016.1080p.BluRay.x264-[YTS.AG].mp4"
+                        ]
+                    },
+                    "Apocalypto (2006) [BluRay] [1080p] [YTS.AM]": {
+                        "_files": [
+                            "www.YTS.AM.jpg",
+                            "Apocalypto.2006.1080p.BluRay.x264-[YTS.AM].mp4"
                         ]
                     },
                     "Pacific Rim (2013) [1080p]": {
@@ -1652,7 +1704,9 @@
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
                             "Dear.John.2010.1080p.BluRay.x264.YIFY.srt",
-                            "Dear.John.2010.1080p.BluRay.x264.YIFY.mp4"
+                            "Dear.John.2010.1080p.BluRay.x264.YIFY.mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ],
                         "Other": {
                             "_files": [
@@ -1682,6 +1736,12 @@
                             "Limitless.2011.1080p.BrRip.x264.YIFY.srt"
                         ]
                     },
+                    "Boyhood (2014) [1080p]": {
+                        "_files": [
+                            "Boyhood.2014.1080p.BluRay.x264.YIFY.mp4",
+                            "WWW.YTS.RE.jpg"
+                        ]
+                    },
                     "Knives Out (2019) [1080p] [BluRay] [YTS.MX]": {
                         "_files": [
                             "Knives.Out.2019.1080p.BluRay.x264.AAC-[YTS.MX].srt",
@@ -1698,14 +1758,24 @@
                     "King Arthur Legend Of The Sword (2017) [1080p] [YTS.AG]": {
                         "_files": [
                             "WWW.YTS.AG.jpg",
-                            "King.Arthur.Legend.Of.The.Sword.2017.1080p.BluRay.x264-[YTS.AG].mp4"
+                            "King.Arthur.Legend.Of.The.Sword.2017.1080p.BluRay.x264-[YTS.AG].mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
+                        ]
+                    },
+                    "Triple Frontier (2019) [WEBRip] [1080p] [YTS.AM]": {
+                        "_files": [
+                            "Triple.Frontier.2019.1080p.WEBRip.x264-[YTS.AM].mp4",
+                            "www.YTS.AM.jpg"
                         ]
                     },
                     "Inception (2010) [1080p]": {
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
                             "Inception.2010.1080p.BrRip.x264.YIFY.srt",
-                            "Inception.2010.1080p.BrRip.x264.YIFY.mp4"
+                            "Inception.2010.1080p.BrRip.x264.YIFY.mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ],
                         "Other": {
                             "_files": [
@@ -1715,10 +1785,22 @@
                             ]
                         }
                     },
+                    "Premium Rush (2012) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Premium.Rush.2012.1080p.BluRay.x264.YIFY.mp4"
+                        ]
+                    },
                     "Hacksaw Ridge (2016) [1080p] [YTS.AG]": {
                         "_files": [
                             "WWW.YTS.AG.jpg",
                             "Hacksaw.Ridge.2016.1080p.BluRay.x264-[YTS.AG].mp4"
+                        ]
+                    },
+                    "My Spy (2020) [1080p] [BluRay] [5.1] [YTS.MX]": {
+                        "_files": [
+                            "My.Spy.2020.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
+                            "www.YTS.MX.jpg"
                         ]
                     },
                     "Ford V Ferrari (2019) [1080p] [BluRay] [5.1] [YTS.LT]": {
@@ -1726,6 +1808,13 @@
                             "www.YTS.LT.jpg",
                             "Ford.V.Ferrari.2019.1080p.BluRay.x264.AAC5.1-[YTS.LT].srt",
                             "Ford.V.Ferrari.2019.1080p.BluRay.x264.AAC5.1-[YTS.LT].mp4"
+                        ]
+                    },
+                    "Friends With Benefits (2011) [1080p] [BluRay] [5.1] [YTS.MX]": {
+                        "_files": [
+                            "YTSProxies.com.txt",
+                            "Friends.With.Benefits.2011.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
+                            "www.YTS.MX.jpg"
                         ]
                     },
                     "Fist Of Legend (1994) [BluRay] [1080p] [YTS.AM]": {
@@ -1740,11 +1829,19 @@
                             "Fist.Of.Fury.1972.1080p.BluRay.x264-[YTS.LT].mp4"
                         ]
                     },
+                    "Project Almanac (2014) [1080p]": {
+                        "_files": [
+                            "Project.Almanac.2014.1080p.BluRay.x264.YIFY.mp4",
+                            "WWW.YTS.TO.jpg"
+                        ]
+                    },
                     "Enter the Dragon (1973) [1080p]": {
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
                             "Enter.The.Dragon.1973.1080p.BluRay.x264.YIFY.mp4",
-                            "Enter.The.Dragon.1973.1080p.BluRay.x264.YIFY.srt"
+                            "Enter.The.Dragon.1973.1080p.BluRay.x264.YIFY.srt",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Dune (2021) [1080p] [BluRay] [5.1] [YTS.MX]": {
@@ -1754,6 +1851,20 @@
                             "www.YTS.MX.jpg"
                         ]
                     },
+                    "Project X (2012) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Project.X.2012.EXTENDED.1080p.BluRay.x264.srt",
+                            "Project.X.2012.EXTENDED.1080p.BluRay.x264.mp4"
+                        ],
+                        "Other": {
+                            "_files": [
+                                "Torrent downloaded from Demonoid.com - Copy.txt",
+                                "Torrent Downloaded From ExtraTorrent.com.txt",
+                                "AhaShare.com.txt"
+                            ]
+                        }
+                    },
                     "Dragon The Bruce Lee Story (1993) [1080p]": {
                         "_files": [
                             "WWW.YTS.RE.jpg",
@@ -1761,11 +1872,24 @@
                             "poster.jpg"
                         ]
                     },
+                    "The Great Gatsby (2013) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "The.Great.Gatsby.2013.1080p.BluRay.x264.YIFY.srt",
+                            "The.Great.Gatsby.2013.1080p.BluRay.x264.YIFY.mp4"
+                        ]
+                    },
                     "Coco (2017) [1080p] [YTS.AG]": {
                         "_files": [
                             "WWW.YTS.AG.jpg",
                             "Coco.2017.1080p.BluRay.x264-[YTS.AG].mp4",
                             "poster.jpg"
+                        ]
+                    },
+                    "San Andreas (2015) [1080p]": {
+                        "_files": [
+                            "San.Andreas.2015.1080p.BluRay.x264.YIFY.mp4",
+                            "WWW.YTS.TO.jpg"
                         ]
                     },
                     "Black Adam (2022) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]": {
@@ -1776,6 +1900,13 @@
                             "www.YTS.MX.jpg",
                             "poster.jpg",
                             "synopsis.txt"
+                        ]
+                    },
+                    "The Perks of Being a Wallflower (2012) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "The.Perks.of.Being.a.Wallflower.2012.1080p.BRrip.x264.GAZ.YIFY.srt",
+                            "The.Perks.of.Being.a.Wallflower.2012.1080p.BRrip.x264.GAZ.YIFY.mp4"
                         ]
                     },
                     "Alita Battle Angel (2019) [BluRay] [1080p] [YTS.LT]": {
@@ -1825,6 +1956,168 @@
                                 "English.srt"
                             ]
                         }
+                    },
+                    "500 Days Of Summer (2009) [REPACK] [1080p] [BluRay] [5.1] [YTS.MX]": {
+                        "_files": [
+                            "YIFYStatus.com.txt",
+                            "500.Days.Of.Summer.2009.REPACK.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
+                            "www.YTS.MX.jpg"
+                        ]
+                    },
+                    "Searching (2018) [BluRay] [1080p] [YTS.AM]": {
+                        "_files": [
+                            "Searching.2018.1080p.BluRay.x264-[YTS.AM].mp4",
+                            "www.YTS.AM.jpg"
+                        ]
+                    },
+                    "The Edge Of Seventeen (2016) [1080p] [YTS.AG]": {
+                        "_files": [
+                            "WWW.YTS.AG.jpg",
+                            "The.Edge.Of.Seventeen.2016.1080p.BluRay.x264-[YTS.AG].mp4"
+                        ]
+                    },
+                    "Source Code ( 2011 ) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            ".DS_Store",
+                            "._.DS_Store",
+                            "Source Code ( 2011 ) 1080p BrRip x264 1.16GB YIFY.mp4",
+                            "Source Code ( 2011 ) 1080p BrRip x264 1.16GB YIFY.srt"
+                        ],
+                        "Other": {
+                            "_files": [
+                                "Torrent downloaded from Demonoid.com - Copy.txt",
+                                "Torrent Downloaded From ExtraTorrent.com.txt",
+                                "AhaShare.com.txt"
+                            ]
+                        }
+                    },
+                    "The Secret Life of Walter Mitty (2013) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "The.Secret.Life.of.Walter.Mitty.2013.1080p.BluRay.x264.YIFY.mp4"
+                        ]
+                    },
+                    "The Terminator (1984) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "The.Terminator.1984.1080p.BRrip.x264.GAZ.YIFY.srt",
+                            "The.Terminator.1984.1080p.BRrip.x264.GAZ.YIFY.mp4"
+                        ]
+                    },
+                    "Safety Not Guaranteed (2012) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Safety.Not.Guaranteed.2012.1080p.BRrip.x264.YIFY.srt",
+                            "Safety.Not.Guaranteed.2012.1080p.BRrip.x264.YIFY.mp4"
+                        ]
+                    },
+                    "Time Lapse (2014) [1080p]": {
+                        "_files": [
+                            "Time.Lapse.2014.1080p.BluRay.x264.YIFY.mp4",
+                            "WWW.YTS.TO.jpg"
+                        ]
+                    },
+                    "Pitch Perfect (2012) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Pitch.Perfect.2012.1080p.BRrip.264.YIFY.srt",
+                            "Pitch.Perfect.2012.1080p.BRrip.264.YIFY.mp4"
+                        ]
+                    },
+                    "Tomorrowland (2015) [1080p]": {
+                        "_files": [
+                            "WWW.YTS.TO.jpg",
+                            "Tomorrowland.2015.1080p.BluRay.x264.YIFY.mp4"
+                        ]
+                    },
+                    "Zombieland (2009) [1080p] [BluRay] [5.1] [YTS.MX]": {
+                        "_files": [
+                            "YIFYStatus.com.txt",
+                            "Zombieland.2009.1080p.BluRay.x264.AAC5.1-[YTS.MX].srt",
+                            "Zombieland.2009.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
+                            "www.YTS.MX.jpg"
+                        ]
+                    },
+                    "Seeking a Friend For The End of The World (2012) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Seeking.a.Friend.For.The.End.of.The.World.2012.1080p.BRrip.x264.YIFY.srt",
+                            "Seeking.a.Friend.For.The.End.of.The.World.2012.1080p.BRrip.x264.YIFY.mp4"
+                        ]
+                    },
+                    "Zombieland Double Tap (2019) [BluRay] [1080p] [YTS.LT]": {
+                        "_files": [
+                            "www.YTS.LT.jpg",
+                            "Zombieland.Double.Tap.2019.1080p.BluRay.x264-[YTS.LT].srt",
+                            "Zombieland.Double.Tap.2019.1080p.BluRay.x264-[YTS.LT].mp4"
+                        ]
+                    },
+                    "Her (2013) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Her.2013.1080p.BluRay.x264.YIFY.mp4"
+                        ]
+                    },
+                    "Gladiator (2000)": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Gladiator.EXTENDED.2000.1080.BrRip.264.YIFY.mp4",
+                            "Gladiator.EXTENDED.2000.1080.BrRip.264.YIFY.srt"
+                        ],
+                        "Other": {
+                            "_files": [
+                                "Torrent downloaded from Demonoid.com - Copy.txt",
+                                "Torrent Downloaded From ExtraTorrent.com.txt",
+                                "AhaShare.com.txt"
+                            ]
+                        }
+                    },
+                    "Easy A (2010) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Easy.A.2010.BrRip.1080p.x264.YIFY.mp4",
+                            "Easy.A.2010.BrRip.1080p.x264.YIFY.srt"
+                        ],
+                        "Other": {
+                            "_files": [
+                                "Torrent downloaded from Demonoid.com - Copy.txt",
+                                "Torrent Downloaded From ExtraTorrent.com.txt",
+                                "AhaShare.com.txt"
+                            ]
+                        }
+                    },
+                    "Don Jon (2013) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Don.Jon.2013.1080p.BluRay.x264.YIFY.mp4"
+                        ]
+                    },
+                    "Chaos Walking (2021) [1080p] [BluRay] [5.1] [YTS.MX]": {
+                        "_files": [
+                            "Chaos.Walking.2021.1080p.BluRay.x264.AAC5.1-[YTS.MX].srt",
+                            "www.YTS.MX.jpg",
+                            "Chaos.Walking.2021.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4"
+                        ]
+                    },
+                    "Braveheart (1995) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Braveheart.1995.1080p.BrRip.x264.YIFY+HI.mp4",
+                            "Braveheart.1995.1080p.BrRip.x264.YIFY+HI.srt"
+                        ]
+                    },
+                    "Better Living Through Chemistry (2014) [BluRay] [1080p] [YTS.AM]": {
+                        "_files": [
+                            "Better.Living.Through.Chemistry.2014.1080p.BluRay.x264-[YTS.AM].mp4",
+                            "www.YTS.AM.jpg"
+                        ]
+                    },
+                    "Begin Again (2013) [1080p]": {
+                        "_files": [
+                            "Begin.Again.2013.1080p.BluRay.x264.YIFY.mp4",
+                            "WWW.YTS.RE.jpg"
+                        ]
                     }
                 },
                 "music": {
