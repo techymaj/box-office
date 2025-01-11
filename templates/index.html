@@ -8,16 +8,17 @@
 	<title>Box Office</title>
 </head>
 <body hx-boost="true" hx-indicator=".loader">
-	<input 
-	type="search" 
-	name="search" 
-	id="search"
-	placeholder="Search by title..."
-	hx-get="/library/search"
-	hx-trigger="keyup changed delay:300ms"
-	hx-target=".library"
-	>
-	<hr>
+	<div class="search">
+		<input 
+		type="search" 
+		name="search" 
+		id="search"
+		placeholder="Search by title..."
+		hx-get="/library/search"
+		hx-trigger="keyup changed delay:300ms"
+		hx-target=".library"
+		>
+	</div>
 	<div class="library">
 		{% for hash, metadata in content.items() %}
 			<div class="title">
