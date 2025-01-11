@@ -296,7 +296,9 @@
                             "_files": [
                                 "Thor.2011.REPACK.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv",
                                 "www.YTS.MX.jpg",
-                                "YTSProxies.com.txt"
+                                "YTSProxies.com.txt",
+                                "synopsis.txt",
+                                "poster.jpg"
                             ]
                         },
                         "Thor Ragnarok (2017) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
@@ -537,6 +539,7 @@
                     "Rush (2013) [1080p]": {
                         "_files": [
                             "poster.jpg",
+                            "synopsis.txt",
                             "Rush.2013.1080p.BluRay.x264.YIFY.mp4",
                             "WWW.YIFY-TORRENTS.COM.jpg"
                         ]
@@ -563,7 +566,9 @@
                     "silo": {
                         "_files": [],
                         "s02": {
-                            "_files": [],
+                            "_files": [
+                                "poster.jpg"
+                            ],
                             "Silo.S02E01.1080p.x265-ELiTE": {
                                 "_files": [
                                     "Silo.S02E01.1080p.x265-ELiTE.nfo",
@@ -953,7 +958,9 @@
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
                             "300.2006.BluRay.1080p.x264.YIFY.srt",
-                            "300.2006.BluRay.1080p.x264.YIFY.mp4"
+                            "300.2006.BluRay.1080p.x264.YIFY.mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ],
                         "Other": {
                             "_files": [
@@ -973,7 +980,9 @@
                     "300 Rise of an Empire (2014) [1080p]": {
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
-                            "300.Rise.of.an.Empire.2014.1080p.BluRay.x264.YIFY.mp4"
+                            "300.Rise.of.an.Empire.2014.1080p.BluRay.x264.YIFY.mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "21 Jump Street (2012) [1080p]": {
@@ -1362,7 +1371,9 @@
                         "_files": [
                             "YTSYifyUP... (TOR).txt",
                             "Furiosa.A.Mad.Max.Saga.2024.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
-                            "www.YTS.MX.jpg"
+                            "www.YTS.MX.jpg",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Dune Part Two (2024) [1080p] [BluRay] [5.1] [YTS.MX]": {
@@ -1956,7 +1967,9 @@
                         "_files": [
                             "YIFYStatus.com.txt",
                             "Dune.2021.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
-                            "www.YTS.MX.jpg"
+                            "www.YTS.MX.jpg",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Project X (2012) [1080p]": {
