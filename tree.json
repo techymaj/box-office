@@ -2148,7 +2148,9 @@
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
                             "Easy.A.2010.BrRip.1080p.x264.YIFY.mp4",
-                            "Easy.A.2010.BrRip.1080p.x264.YIFY.srt"
+                            "Easy.A.2010.BrRip.1080p.x264.YIFY.srt",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ],
                         "Other": {
                             "_files": [

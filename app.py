@@ -84,7 +84,6 @@ def play(hash):
     if os.path.exists(synopsis_path):
         with open(synopsis_path, 'r') as f:
             syn = f.read()
-    print(f"Synopsis is: {syn}")
     
     # Get poster
     poster_path = get_poster_path(file_path, "/static/images/fallback.jpg")
