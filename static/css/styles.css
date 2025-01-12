@@ -10,7 +10,7 @@ body p {
 }
 .library {
     display: grid;
-    grid-template-columns: repeat(12, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
     row-gap: 3rem;
     justify-items: center;
     margin-top: 6rem;
@@ -58,7 +58,7 @@ body p {
 }
 .title {
     display: grid;
-    grid-template-columns: 14rem;
+    /* grid-template-columns: 14rem; */
     row-gap: 1rem;
 }
 .title a {
