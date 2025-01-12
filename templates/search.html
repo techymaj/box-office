@@ -1,15 +1,12 @@
-<div class="results">
-	{% for hash, metadata in found_titles.items() %}
-			<div class="title">
-				<img 
-					hx-get="/library/{{hash}}"
-					hx-trigger="click"
-					hx-target="body"
-					hx-push-url="true"
-					src="{{ metadata['poster'] }}" 
-					alt="Poster">
-				<a hx-target="body" href="/library/{{hash}}">{{metadata["title"]}}</a>
-			</div>
-			<br>
-		{% endfor %}
-</div>
+{% for hash, metadata in found_titles.items() %}
+	<div class="title">
+		<img 
+			hx-get="/library/{{hash}}"
+			hx-trigger="click"
+			hx-target="body"
+			hx-push-url="true"
+			src="{{ metadata['poster'] }}" 
+			alt="Poster">
+		<a hx-target="body" href="/library/{{hash}}">{{metadata["title"]}}</a>
+	</div>
+{% endfor %}
