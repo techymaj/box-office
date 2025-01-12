@@ -2737,19 +2737,25 @@
                             "WWW.YIFY-TORRENTS.COM.jpg",
                             "Looper.2012.1080p.BluRay.x264.YIFY.srt",
                             "Looper.2012.1080p.BluRay.x264.YIFY_full.srt",
-                            "Looper.2012.1080p.BluRay.x264.YIFY.mp4"
+                            "Looper.2012.1080p.BluRay.x264.YIFY.mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Lady Bird (2017) [BluRay] [1080p] [YTS.AM]": {
                         "_files": [
                             "Lady.Bird.2017.1080p.BluRay.x264-[YTS.AM].mp4",
-                            "www.YTS.AM.jpg"
+                            "www.YTS.AM.jpg",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Joy (2015) [1080p] [YTS.AG]": {
                         "_files": [
                             "WWW.YTS.AG.jpg",
-                            "Joy.2015.1080p.BluRay.x264-[YTS.AG].mp4"
+                            "Joy.2015.1080p.BluRay.x264-[YTS.AG].mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "John Carter (2012) [1080p]": {
@@ -2757,7 +2763,9 @@
                             "WWW.YIFY-TORRENTS.COM.jpg",
                             "John.Carter.2012.1080p.Bluray.x264.YIFY.mp4",
                             "John.Carter.2012.1080p.Bluray.x264.YIFY.srt",
-                            "John.Carter.2012.1080p.Bluray.x264.YIFY.YUFLL.srt"
+                            "John.Carter.2012.1080p.Bluray.x264.YIFY.YUFLL.srt",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ],
                         "Other": {
                             "_files": [
@@ -2771,19 +2779,25 @@
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
                             "In.Time.2011.10800p.Brrip.x264.Deceit.YIFY.srt",
-                            "In.Time.2011.1080p.Brrip.x264.Deceit.YIFY.mp4"
+                            "In.Time.2011.1080p.Brrip.x264.Deceit.YIFY.mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "I, Tonya (2017) [BluRay] [1080p] [YTS.AM]": {
                         "_files": [
                             "I,.Tonya.2017.1080p.BluRay.x264-[YTS.AM].mp4",
-                            "www.YTS.AM.jpg"
+                            "www.YTS.AM.jpg",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Hancock (2008) [1080p]": {
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
-                            "Hancock.2008.1080p.BluRay.x264.YIFY.mp4"
+                            "Hancock.2008.1080p.BluRay.x264.YIFY.mp4",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ]
                     },
                     "Flight (2012) [1080p]": {
