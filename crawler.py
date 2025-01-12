@@ -17,7 +17,7 @@ def hash_file_path(file_path):
 def crawl():
     for dirpath, _, filenames in os.walk(directory):
         # Debug: Check the current directory being processed
-        print(f"Processing directory: {dirpath}")
+        # print(f"Processing directory: {dirpath}")
 
         # Build the directory tree structure
         parts = dirpath.split(os.sep)
@@ -32,7 +32,7 @@ def crawl():
         # Hash files with specified extensions
         for filename in filenames:
             # Debug: Check each filename
-            print(f"Processing file: {filename}")
+            # print(f"Processing file: {filename}")
 
             if any(filename.lower().endswith(ext) for ext in extensions_to_hash):
                 absolute_path = os.path.join(dirpath, filename)
@@ -40,7 +40,7 @@ def crawl():
                 # Store tuple (hash, absolute_path) in the set
                 hashes.update({file_hash: absolute_path})
                 # Debug: Log the tuple being added
-                print(f"Hashing file: {absolute_path} -> {file_hash}")
+                # print(f"Hashing file: {absolute_path} -> {file_hash}")
 
     # Save the directory tree to a JSON file
     with open("tree.json", "w") as json_file:
@@ -54,4 +54,4 @@ def crawl():
 crawl()
 
 # Debug: Final hash set
-print(f"Final hashes: {hashes}")
+# print(f"Final hashes: {hashes}")

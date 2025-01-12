@@ -1,0 +1,13 @@
+{% block search %}
+		<div class="search">
+			<input 
+			type="search" 
+			name="search" 
+			id="search"
+			placeholder="Search by title..."
+			hx-get="/library/search"
+			hx-trigger="keyup changed delay:300ms"
+			hx-target=".library"
+			>
+		</div>
+	{% endblock %}
