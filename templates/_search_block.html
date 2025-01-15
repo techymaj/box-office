@@ -1,5 +1,7 @@
 {% block search %}
-		<div class="search">
+	<div class="search">
+		<a href="/library">B::O</a>
+		<div>
 			<input 
 			type="search" 
 			name="search" 
@@ -7,7 +9,9 @@
 			placeholder="Search by title..."
 			hx-get="/library/search"
 			hx-trigger="keyup changed delay:300ms"
-			hx-target=".library"
+			hx-target=".library, .now-playing"
+			hx-swap="outerHTML"
 			>
 		</div>
-	{% endblock %}
+	</div>
+{% endblock %}
