@@ -77,7 +77,7 @@
     "1e7c870406c67de869d5da8898bfb140de07a4b89ac1fb2ac4b0afa2eee61b45": "/media/kali/256/movies/MCU/doctor_strange/doctor_strange.mkv",
     "84618c2fdb2effde18a76869a1f2b6cfc6adaf632726cc584067ed6416f58ade": "/media/kali/256/movies/MCU/Guardians Of The Galaxy (2014) [IMAX] [2160p] [4K] [WEB] [5.1] [YTS.MX]/Guardians.Of.The.Galaxy.2014.IMAX.2160p.4K.WEB.x265.10bit.AAC5.1-[YTS.MX].mkv",
     "d00db679c9751d09171d05835ba34095739d1870aa1a1937042faa8cbedf2b69": "/media/kali/256/movies/MCU/Guardians Of The Galaxy Vol. 2 (2017) [2160p] [4K] [BluRay] [5.1] [YTS.MX]/Guardians.Of.The.Galaxy.Vol..2.2017.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv",
-    "2e5c797fc163cf3652753578ecf046ed481034df491695a9e967958bb3b938da": "/media/kali/256/movies/MCU/Hulk 2003 2160p/Hulk 2003 2160p.mkv",
+    "b8e1b47e764e5519874e366e382e590d9cac7a5043f1da04b7fe76f8cf0c5443": "/media/kali/256/movies/MCU/Hulk 2003 2160p/Hulk.2003.2160p.mkv",
     "fb01743a32e88c28211213f9ddf52d84d530680397bd72143bf51d4ead7db5ec": "/media/kali/256/movies/MCU/Iron_Man/Iron_Man_2008_4k.mkv",
     "973ae2d79197c70f0dbf84ec21f661f1228739b27a3b297765cdaf32219141d6": "/media/kali/256/movies/MCU/Iron Man 2 (2010) [2160p] [4K] [BluRay] [5.1] [YTS.MX]/Iron.Man.2.2010.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv",
     "474978bd0fd5ccce4b3f89c7312a7acc5d80c139d91deb1a8bcb5d6439037dec": "/media/kali/256/movies/MCU/Iron Man Three (2013) [REPACK] [2160p] [4K] [BluRay] [5.1] [YTS.MX]/Iron.Man.Three.2013.REPACK.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv",
@@ -316,7 +316,6 @@
     "8b3ed7753aa7a47727a264b4cdecc6f91e193cf924df1c512a25b8c317780a93": "/media/kali/2TB/series/Into The Badlands (2015) Seasons 1-3 S01-S03 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)/Season 1/Into.the.Badlands.S01E03.White.Stork.Spreads.Wings.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv",
     "a37c2c13881309c0e445d49263d07fe14d62bbed5904678e7b21cfb5ca9d4066": "/media/kali/2TB/series/Into The Badlands (2015) Seasons 1-3 S01-S03 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)/Season 1/Into.the.Badlands.S01E06.Hand.of.Five.Poisons.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv",
     "fab49bc32c72bd5be9d71ced9ac5823ecffb7a4362f942a68125529848cad2e7": "/media/kali/2TB/series/Into The Badlands (2015) Seasons 1-3 S01-S03 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)/Season 1/Into.the.Badlands.S01E02.Fist.Like.a.Bullet.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv",
-    "675323322bc11e0ad8496ae747f490946130459c610992fbd2add46c213d96dc": "/media/kali/2TB/series/Into The Badlands (2015) Seasons 1-3 S01-S03 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)/Season 1/Into.the.Badlands.S01E01.The.Fort.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv",
     "98a60001c8f06e4841e0c1f0c0b45e1c33674b56c6557788ae63cd3b2771aa0b": "/media/kali/2TB/series/Warrior (2019) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit EAC3 5.1 Ghost)/Warrior (2019) - S02E07 - If You Wait by the River Long Enough\u2026 (1080p AMZN WEB-DL x265 Ghost).mkv",
     "76c069f2e0288c02ae0f4e494dcaf98ee3b8477d7027e39bb5edc7210565b10f": "/media/kali/2TB/series/Warrior (2019) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit EAC3 5.1 Ghost)/Warrior (2019) - S02E05 - Not for a Drink, a Fuck, or a Goddamn Prayer (1080p AMZN WEB-DL x265 Ghost).mkv",
     "6c218aafbe4ebe71f21549fc1efeec296df937f588ca1873e2557391390633b3": "/media/kali/2TB/series/Warrior (2019) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit EAC3 5.1 Ghost)/Warrior (2019) - S02E02 - The Chinese Connection (1080p AMZN WEB-DL x265 Ghost).mkv",
@@ -704,7 +703,7 @@
     "cbdb021f3cc069db858aa8465e3ccd52f576fb12d4e87a0831b730cb614394a9": "/media/kali/2TB/movies/Burnt/._Burnt.mp4",
     "b857fe4617a716f05c74774674d951ddd563eb77ec61b3d2913b97099d030cf9": "/media/kali/2TB/movies/Her (2013) [1080p]/Her.2013.1080p.BluRay.x264.YIFY.mp4",
     "150f848263a5df2cc9c93f2145f2ac9529ba4f33a6a8828c2f038f824535d78b": "/media/kali/2TB/movies/The Judge (2014) [1080p]/The.Judge.2014.1080p.BluRay.x264.YIFY.mp4",
-    "9fc2496cfa3d1b1e9172e1b7437f6d71a04991452e57e412ee4bc165851235b7": "/media/kali/2TB/movies/Gladiator (2000)/Gladiator.EXTENDED.2000.1080.BrRip.264.YIFY.mp4",
+    "75f0e724d1566cb9a33aa596a8d2a8cd0343933a57a74b61b6b55bd4949551b5": "/media/kali/2TB/movies/Gladiator (2000)/Gladiator.2000.1080p.mp4",
     "93855a64a742049044cb493528836848775dc8e6b12443294e000b145ddb3b46": "/media/kali/2TB/movies/Easy A (2010) [1080p]/Easy.A.2010.BrRip.1080p.x264.YIFY.mp4",
     "3faf89f825e5d71829e5c3ace011d508a27d1c9cd20a8f427c665da9ddf286d0": "/media/kali/2TB/movies/The Internship (2013) [1080p]/The.Internship.2013.UNRATED.1080p.BluRay.x264.YIFY.mp4",
     "a2b5ba179d0ba72b7a2026a355d66a00d16d90c9362e6800fce9e4342c0f3f58": "/media/kali/2TB/movies/Don Jon (2013) [1080p]/Don.Jon.2013.1080p.BluRay.x264.YIFY.mp4",
@@ -778,5 +777,6 @@
     "6b06344c2b7f646b27a54e80751f5c8720d56eaf455f6b348a12f7101426b7b2": "/media/kali/2TB/java-muk-recordings/2021\uf0222022/question_one.mp4",
     "c6803d199634573bd7c2cec3cab9d0187b77b9fc85177b53f4eff2938a21fb46": "/media/kali/2TB/java-muk-recordings/2021\uf0222022/._question_one.mp4",
     "c7b61453ec61b61532d10ecb369104828b870403c89e2089c447c24bf766bf78": "/media/kali/2TB/java-muk-recordings/2021\uf0222022/section_a.mp4",
-    "719a1674891ddc128bbc2133e5329ca2951c920545de0f20f87c815088aa509f": "/media/kali/2TB/java-muk-recordings/2021\uf0222022/._section_a.mp4"
+    "719a1674891ddc128bbc2133e5329ca2951c920545de0f20f87c815088aa509f": "/media/kali/2TB/java-muk-recordings/2021\uf0222022/._section_a.mp4",
+    "304297f3ea215da1f27e3834c83057208a5810d0f49c616a1a7f40daf4256f35": "/media/kali/2TB/series/Into The Badlands (2015) Seasons 1-3 S01-S03 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)/Season 1/into.the.badlands.1080p.mkv"
 }

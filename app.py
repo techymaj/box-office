@@ -1,7 +1,8 @@
 import os
 import json
-from flask import Flask, redirect, render_template, send_from_directory, abort, request # type: ignore
-from crawler import crawl, hashes
+from flask import Flask, redirect, render_template, render_template_string, send_from_directory, abort, request # type: ignore
+# from crawler import crawl, hashes
+import crawler
 from environment_variables import localhost
 from file_metadata import extract_info
 from get_poster_path import get_poster_path
@@ -22,20 +23,20 @@ no_hash = "No such hash found. Please load a different file."
 
 @app.route("/crawl")
 def re_crawl():
-    crawl()
+    crawler.crawl()
     return redirect("/library")
 
 @app.route("/")
 @app.route("/home")
 def index():
     if not os.path.exists("./tree.json"):
-        crawl()
+        crawler.crawl()
     return redirect("/library")
 
 @app.route("/library")
 def library():
     meta = {}
-    for hash, file_path in hashes.items():
+    for hash, file_path in crawler.hashes.items():
 
         # Extract metadata
         metadata = extract_info(file_path)
@@ -51,7 +52,7 @@ def library():
 def search():
     found_hashes = {}
     searchword = request.args.get('search', '').casefold()
-    for hash, abs_path in hashes.items():
+    for hash, abs_path in crawler.hashes.items():
         if searchword in abs_path.casefold():
             # Extract metadata
             metadata = extract_info(abs_path)
@@ -66,7 +67,7 @@ def search():
 @app.route("/library/<hash>", methods=["GET"])
 def play(hash):
     # Lookup the hash in the hashes dictionary
-    file_path = hashes.get(hash, no_hash)
+    file_path = crawler.hashes.get(hash, no_hash)
     if file_path is not no_hash:
         file_size = os.path.getsize(file_path)
         file_size = file_size / 1e+9  # Convert from bytes to gigabytes
@@ -103,6 +104,28 @@ def play(hash):
         metadata=metadata,
         poster=poster_url,
         synopsis=syn if os.path.exists("./synopsis.txt") else synopsis,
+        hash=hash,
+    )
+
+@app.route("/library/<hash>", methods=["POST"])
+def update_metadata(hash):
+    updated_title = request.form.get("title", "")
+    current_filepath = crawler.hashes.pop(hash, no_hash)
+    
+    splits = current_filepath.split("/")
+    old_title = splits[-1]
+
+    parent_dir = os.path.dirname(current_filepath)
+    old_filepath = f"{parent_dir}/{old_title}"
+    new_filepath = f"{parent_dir}/{updated_title}"
+    os.rename(old_filepath, new_filepath)
+    crawler.crawl()
+
+    # Extract metadata
+    metadata = extract_info(new_filepath)
+    return render_template_string(
+        "<p class='title'>Title: {{metadata['title']}}</p>", 
+        metadata=metadata,
     )
 
 

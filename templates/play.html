@@ -7,22 +7,13 @@
     <title>Box Office | Now Playing</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
 </head>
-<body>
+<body hx-boost="true">
     {% include "_search_block.html" %}
     <div class="now-playing">
         <div class="content">
             <h1>Now playing</h1>
-            <div class="metadata">
-                <p>Title: {{metadata["title"]}}</p>
-                <p>Year: {{metadata["year"]}}</p>
-                <p>Resolution: {{metadata["resolution"]}}</p>
-                <p>Type: {{metadata["extension"].upper()}}</p>
-                {% if file_path == no_hash %}
-                <a href="/crawl">or click here to re-crawl the connected drive(s)</a>
-                {% endif %}
-                <p>Size : <strong>{{file_size}} GB</strong></p>
-                <p class="synopsis">{{synopsis}}</p>
-            </div>
+            {% include "_metadata_block.html" %}
+            <button>Edit</button>
             <video preload="auto" controls width="890">
                 <source src="{{file_path}}" type="video/x-matroska" />
                 <source src="{{file_path}}" type="video/mp4" />
@@ -34,6 +25,12 @@
             <img src="{{poster}}" alt="Poster">
         </div>
     </div>
+    <form hx-target=".metadata .title" 
+          hx-swap="outerHTML" 
+          class="form" action="/library/{{hash}}" method="post">
+        <input type="text" name="title" id="title">
+        <input type="submit" value="Submit">
+    </form>
     {% include "_loader_block.html" %}
 </body>
 </html>

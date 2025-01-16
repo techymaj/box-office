@@ -233,10 +233,11 @@
                         },
                         "Hulk 2003 2160p": {
                             "_files": [
-                                "Hulk 2003 2160p.mkv",
+                                "Hulk.2003.2160p.mkv",
                                 "www.YTS.MX.jpg",
                                 "YTSYifyUP... (TOR).txt",
-                                "synopsis.txt"
+                                "synopsis.txt",
+                                "poster.jpg"
                             ]
                         },
                         "Iron_Man": {
@@ -951,7 +952,8 @@
                                     "Silo.S02E05.1080p.x265-ELiTE.nfo",
                                     "Silo.S02E05.1080p.x265-ELiTE.mkv",
                                     "._Silo.S02E05.1080p.x265-ELiTE.mkv",
-                                    "poster.jpg"
+                                    "poster.jpg",
+                                    "synopsis.txt"
                                 ],
                                 "Screens": {
                                     "_files": [
@@ -1305,7 +1307,7 @@
                                 "Into.the.Badlands.S01E03.White.Stork.Spreads.Wings.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.srt",
                                 "Into.the.Badlands.S01E06.Hand.of.Five.Poisons.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv",
                                 "Into.the.Badlands.S01E02.Fist.Like.a.Bullet.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv",
-                                "Into.the.Badlands.S01E01.The.Fort.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv",
+                                "into.the.badlands.1080p.mkv",
                                 "Into.the.Badlands.S01E04.Two.Tigers.Subdue.Dragons.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.srt",
                                 "Into.the.Badlands.S01E05.Snake.Creeps.Down.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.srt"
                             ]
@@ -3533,8 +3535,10 @@
                     "Gladiator (2000)": {
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
-                            "Gladiator.EXTENDED.2000.1080.BrRip.264.YIFY.mp4",
-                            "Gladiator.EXTENDED.2000.1080.BrRip.264.YIFY.srt"
+                            "Gladiator.2000.1080p.mp4",
+                            "Gladiator.EXTENDED.2000.1080.BrRip.264.YIFY.srt",
+                            "synopsis.txt",
+                            "poster.jpg"
                         ],
                         "Other": {
                             "_files": [
