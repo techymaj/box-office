@@ -1,0 +1,7 @@
+.library {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+    row-gap: 3rem;
+    justify-items: center;
+    margin-top: 6rem;
+}

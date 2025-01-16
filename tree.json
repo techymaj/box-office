@@ -416,7 +416,6 @@
                                 "0.indexPositions",
                                 "store.updates",
                                 "live.0.shadowIndexHead",
-                                "journalAttr.55",
                                 "live.1.indexHead",
                                 "live.1.indexIds",
                                 "live.1.indexBigDates",
@@ -452,7 +451,6 @@
                                 "tmp.spotlight.state",
                                 "store_generation",
                                 "journalExclusion",
-                                "journalAttr.58",
                                 "shutdown_time",
                                 "reverseDirectoryStore.shadow",
                                 "live.1.indexCompactDirectory",
@@ -493,11 +491,7 @@
                                 "_files": []
                             },
                             "journals.live_user": {
-                                "_files": [
-                                    "journal.85",
-                                    "journal.151",
-                                    "retire.138"
-                                ]
+                                "_files": []
                             },
                             "journals.live_priority": {
                                 "_files": []
@@ -509,9 +503,7 @@
                                 "_files": []
                             },
                             "journals.health_check": {
-                                "_files": [
-                                    "journal.1"
-                                ]
+                                "_files": []
                             },
                             "journals.migration": {
                                 "_files": []
@@ -531,8 +523,8 @@
                 ".fseventsd": {
                     "_files": [
                         "fseventsd-uuid",
-                        "0000000003333b68",
-                        "0000000003333b69"
+                        "00000000035ea845",
+                        "00000000035ea846"
                     ]
                 },
                 "torrents": {
@@ -1319,6 +1311,20 @@
                             ]
                         }
                     },
+                    "Warrior (2019) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit EAC3 5.1 Ghost)": {
+                        "_files": [
+                            "Warrior (2019) - S02E07 - If You Wait by the River Long Enough\u2026 (1080p AMZN WEB-DL x265 Ghost).mkv",
+                            "Warrior (2019) - S02E05 - Not for a Drink, a Fuck, or a Goddamn Prayer (1080p AMZN WEB-DL x265 Ghost).mkv",
+                            "Warrior (2019) - S02E02 - The Chinese Connection (1080p AMZN WEB-DL x265 Ghost).mkv",
+                            "Warrior (2019) - S02E06 - To a Man with a Hammer, Everything Looks Like a Nail (1080p AMZN WEB-DL x265 Ghost).mkv",
+                            "Warrior (2019) - S02E10 - Man on the Wall (1080p AMZN WEB-DL x265 Ghost).mkv",
+                            "Warrior (2019) - S02E04 - If You Don't See Blood, You Didn't Come to Play (1080p AMZN WEB-DL x265 Ghost).mkv",
+                            "Warrior (2019) - S02E09 - Enter the Dragon (1080p AMZN WEB-DL x265 Ghost).mkv",
+                            "Warrior (2019) - S02E03 - Not How We Do Business (1080p AMZN WEB-DL x265 Ghost).mkv",
+                            "Warrior (2019) - S02E01 - Learn to Endure, or Hire a Bodyguard (1080p AMZN WEB-DL x265 Ghost).mkv",
+                            "Warrior (2019) - S02E08 - All Enemies, Foreign and Domestic (1080p AMZN WEB-DL x265 Ghost).mkv"
+                        ]
+                    },
                     "Warrior (2019) Season 1 S01 + Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 RCVR)": {
                         "_files": [
                             "Warrior (2019) - S01E06 - Chewed Up, Spit Out, and Stepped On (1080p BluRay x265 RCVR).mkv",
@@ -1350,6 +1356,397 @@
                                     "Episode 108 - They Don't Pay Us Enough to Think.mkv"
                                 ]
                             }
+                        }
+                    },
+                    "smallville": {
+                        "_files": [],
+                        "Featurettes": {
+                            "_files": [],
+                            "Season 2": {
+                                "_files": [
+                                    "Faster Than A Speeding Bullet - The Visual FX Of Smallville.mkv",
+                                    "Christopher Reeve - The Man Of Steel.mkv",
+                                    "Gag Reel VRF.mkv"
+                                ],
+                                "The Chloe Chronicles Vol I": {
+                                    "_files": [
+                                        "The Chloe Chronicles - Video 1.mkv",
+                                        "The Chloe Chronicles - Video 2.mkv",
+                                        "The Chloe Chronicles - Video 3.mkv",
+                                        "The Chloe Chronicles - Video 4.mkv",
+                                        "The Chloe Chronicles - Intro.mkv"
+                                    ]
+                                },
+                                "Deleted Scenes": {
+                                    "_files": [
+                                        "Disc 4.mkv",
+                                        "Disc 2.mkv",
+                                        "Disc 3.mkv",
+                                        "Disc 1.mkv"
+                                    ]
+                                }
+                            },
+                            "Season 5": {
+                                "_files": [
+                                    "Look, Up in he Sky!  The Amazing Story of Superman.mkv",
+                                    "Smallville's 100th Episode - The Making of a Milestone.mkv"
+                                ],
+                                "Deleted Scenes": {
+                                    "_files": [
+                                        "Deleted Scenes D4.mkv",
+                                        "Deleted Scenes D1.mkv",
+                                        "Deleted Scenes D2.mkv",
+                                        "Deleted Scenes D3.mkv"
+                                    ]
+                                }
+                            },
+                            "Season 4": {
+                                "_files": [
+                                    "Behind Closed Doors - Inside The Writers' Room.mkv",
+                                    "Being Lois Lane.mkv"
+                                ],
+                                "Deleted Scenes": {
+                                    "_files": [
+                                        "Deleted Scenes D4.mkv",
+                                        "Deleted Scenes D1.mkv",
+                                        "Deleted Scenes D2.mkv",
+                                        "Deleted Scenes D3.mkv"
+                                    ]
+                                }
+                            },
+                            "Season 3": {
+                                "_files": [
+                                    "Producing Smallville - The Heroe Behind The Camera.mkv",
+                                    "Gag Reel.mkv"
+                                ],
+                                "The Chloe Chronicles Vol II": {
+                                    "_files": [
+                                        "Chloe Chronicles Volume II  - Part 6.mkv",
+                                        "Chloe Chronicles Volume II  - Part 7.mkv",
+                                        "Chloe Chronicles Volume II  - Part 5.mkv",
+                                        "Chloe Chronicles Volume II  - Part 4.mkv",
+                                        "Chloe Chronicles Volume II  - Part 1.mkv",
+                                        "Chloe Chronicles Volume II  - Part 3.mkv",
+                                        "Chloe Chronicles Volume II  - Part 2.mkv"
+                                    ]
+                                },
+                                "Deleted Scenes": {
+                                    "_files": [
+                                        "Deleted Scenes D4.mkv",
+                                        "Deleted Scenes D1.mkv",
+                                        "Deleted Scenes D2.mkv",
+                                        "Deleted Scenes D3.mkv"
+                                    ]
+                                }
+                            },
+                            "Season 8": {
+                                "_files": [
+                                    "In the Director's Chair - Behind the Lens and Calling the Shots.mkv",
+                                    "Smallville's Doomsday - The Making of a Monster.mkv"
+                                ],
+                                "Deleted Scenes": {
+                                    "_files": [
+                                        "Deleted Scenes D4.mkv",
+                                        "Deleted Scenes D1.mkv",
+                                        "Deleted Scenes D2.mkv",
+                                        "Deleted Scenes D3.mkv"
+                                    ]
+                                }
+                            },
+                            "Season 6": {
+                                "_files": [
+                                    "Smallville - Big Fans.mkv"
+                                ],
+                                "The Making of Smallville Legends": {
+                                    "_files": [
+                                        "Production Creating Characters & Props.mkv",
+                                        "Pre-Production Bringing the Script to Life.mkv",
+                                        "The Animation Process.mkv"
+                                    ],
+                                    "Justice and Doom": {
+                                        "_files": [
+                                            "Part 3.mkv",
+                                            "Part 2.mkv",
+                                            "Part 1.mkv",
+                                            "Part 5.mkv",
+                                            "Part 4.mkv"
+                                        ]
+                                    }
+                                },
+                                "Deleted Scenes": {
+                                    "_files": [
+                                        "Deleted Scenes D4.mkv",
+                                        "Deleted Scenes D1.mkv",
+                                        "Deleted Scenes D2.mkv",
+                                        "Deleted Scenes D3.mkv"
+                                    ]
+                                },
+                                "Smallville Legends": {
+                                    "_files": [],
+                                    "The Oliver Queen Chronicles": {
+                                        "_files": [
+                                            "Episode 3 - Betrayal.mkv",
+                                            "Episode 6 - Mended.mkv",
+                                            "Episode 5 - Bow Hunters.mkv",
+                                            "Episode 4 - Island.mkv",
+                                            "Episode 2 - Bon Voyage.mkv",
+                                            "Episode 1 - Broken Arrow.mkv"
+                                        ]
+                                    }
+                                }
+                            },
+                            "Season 1": {
+                                "_files": [
+                                    "Pilot Storyboard to Screen.mkv",
+                                    "Deleted Scenes.mkv",
+                                    "Original Extended Broadcast Pilot.mkv"
+                                ]
+                            },
+                            "Season 7": {
+                                "_files": [
+                                    "Supergirl - The Last Daughter of Krypton.mkv",
+                                    "Jimmy on Jimmy.mkv"
+                                ],
+                                "Deleted Scenes": {
+                                    "_files": [
+                                        "Deleted Scenes D4.mkv",
+                                        "Deleted Scenes D1.mkv",
+                                        "Deleted Scenes D2.mkv",
+                                        "Deleted Scenes D3.mkv"
+                                    ]
+                                },
+                                "Smallville Legends": {
+                                    "_files": [],
+                                    "Kara and the Chronicles of Krypton": {
+                                        "_files": [
+                                            "Episode 5.mkv",
+                                            "Episode 4.mkv",
+                                            "Episode 6.mkv",
+                                            "Episode 3.mkv",
+                                            "Episode 2.mkv",
+                                            "Episode 1.mkv"
+                                        ]
+                                    }
+                                }
+                            },
+                            "Season 9": {
+                                "_files": [
+                                    "Absolute Justice - From Script to Screen.mkv",
+                                    "Kneel Before Zod.mkv"
+                                ],
+                                "Deleted Scenes": {
+                                    "_files": [
+                                        "Deleted Scenes D4.mkv",
+                                        "Deleted Scenes D1.mkv",
+                                        "Deleted Scenes D2.mkv",
+                                        "Deleted Scenes D3.mkv"
+                                    ]
+                                }
+                            },
+                            "Season 10": {
+                                "_files": [
+                                    "The Son Becomes the Father.mkv",
+                                    "How Do We Do.mkv",
+                                    "Back in the Jacket - A Smallville Homecoming.mkv"
+                                ],
+                                "Deleted Scenes": {
+                                    "_files": [
+                                        "Deleted Scenes D1.mkv",
+                                        "Deleted Scenes D2.mkv",
+                                        "Deleted Scenes D3.mkv"
+                                    ]
+                                }
+                            }
+                        },
+                        "Season 1": {
+                            "_files": [
+                                "Smallville (2001) - S01E18 - Drone (1080p BluRay x265 Silence).mkv",
+                                "Smallville (2001) - S01E13 - Kinetic (1080p BluRay x265 Silence).mkv",
+                                "Smallville (2001) - S01E08 - Jitters (1080p BluRay x265 Silence).mkv",
+                                "Smallville (2001) - S01E06 - Hourglass (1080p BluRay x265 Silence).mkv",
+                                "Smallville (2001) - S01E15 - Nicodemus (1080p BluRay x265 Silence).mkv",
+                                "Smallville (2001) - S01E04 - X-Ray (1080p BluRay x265 Silence).mkv",
+                                "Smallville (2001) - S01E21 - Tempest (1080p BluRay x265 Silence).mkv",
+                                "Smallville (2001) - S01E20 - Obscura (1080p BluRay x265 Silence).mkv",
+                                "Smallville (2001) - S01E02 - Metamorphosis (1080p BluRay x265 Silence).mkv",
+                                "Smallville (2001) - S01E11 - Hug (1080p BluRay x265 Silence).mkv",
+                                "Smallville (2001) - S01E03 - Hothead (1080p BluRay x265 Silence).mkv",
+                                "Smallville (2001) - S01E07 - Craving (1080p BluRay x265 Silence).mkv",
+                                "Smallville (2001) - S01E16 - Stray (1080p BluRay x265 Silence).mkv",
+                                "Smallville (2001) - S01E19 - Crush (1080p BluRay x265 Silence).mkv",
+                                "Smallville (2001) - S01E05 - Cool (1080p BluRay x265 Silence).mkv",
+                                "Smallville (2001) - S01E17 - Reaper (1080p BluRay x265 Silence).mkv",
+                                "Smallville (2001) - S01E01 - Pilot (1080p BluRay x265 Silence).mkv",
+                                "Smallville (2001) - S01E14 - Zero (1080p BluRay x265 Silence).mkv",
+                                "Smallville (2001) - S01E12 - Leech (1080p BluRay x265 Silence).mkv",
+                                "Smallville (2001) - S01E10 - Shimmer (1080p BluRay x265 Silence).mkv",
+                                "Smallville (2001) - S01E09 - Rogue (1080p BluRay x265 Silence).mkv"
+                            ]
+                        }
+                    },
+                    "snowfall": {
+                        "_files": [],
+                        "Season 1": {
+                            "_files": [
+                                "Snowfall (2017) - S01E04 - Trauma (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S01E09 - Story of a Scar (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S01E05 - seven-four (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S01E01 - Pilot (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S01E03 - Slow Hand (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S01E06 - A Long Time Coming (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S01E02 - Make Them Birds Fly (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S01E10 - The Rubicon (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S01E07 - Cracking (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S01E08 - Baby Teeth (1080p AMZN WEB-DL x265 Silence).mkv"
+                            ]
+                        },
+                        "Season 4": {
+                            "_files": [
+                                "Snowfall (2017) - S04E09 - Sleeping Dogs (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S04E08 - Betrayal (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S04E01 - Re-Entry (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S04E05 - The Get Back (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S04E10 - Fight or Flight (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S04E03 - All The Way Down (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S04E06 - Say a Little Prayer (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S04E07 - Through a Glass, Darkly (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S04E04 - Expansion (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S04E02 - Weight (1080p AMZN WEB-DL x265 Silence).mkv"
+                            ]
+                        },
+                        "Season 2": {
+                            "_files": [
+                                "Snowfall (2017) - S02E09 - Aftermath (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S02E04 - Jingle Bell Rock (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S02E03 - Prometheus Rising (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S02E06 - The Offer (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S02E10 - Education (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S02E08 - Surrender (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S02E02 - The Day (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S02E01 - Sightlines (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S02E07 - The World Is Yours (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S02E05 - Serpiente (1080p AMZN WEB-DL x265 Silence).mkv"
+                            ]
+                        },
+                        "Season 3": {
+                            "_files": [
+                                "Snowfall (2017) - S03E02 - The More You Make (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S03E10 - Other Lives (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S03E04 - The Game That Moves as You Play (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S03E07 - Pocket Full of Rocks (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S03E09 - Blackout (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S03E01 - Protect and Swerve (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S03E08 - Hedgehogs (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S03E05 - The Bottoms (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S03E06 - Confessions (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S03E03 - Cash and Carry (1080p AMZN WEB-DL x265 Silence).mkv"
+                            ]
+                        },
+                        "Season 5": {
+                            "_files": [
+                                "Snowfall (2017) - S05E03 - Lions (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S05E10 - Fault Lines (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S05E01 - Comets (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S05E06 - The Iliad (2) (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S05E04 - Revolutions (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S05E02 - Commitment (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S05E09 - Departures (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S05E07 - Lying in a Hammock (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S05E05 - The Iliad (1) (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S05E08 - Celebration (1080p AMZN WEB-DL x265 Silence).mkv"
+                            ]
+                        },
+                        "Season 6": {
+                            "_files": [
+                                "Snowfall (2017) - S06E06 - Concrete Jungle (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S06E04 - Projects Boy (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S06E07 - Charnel House (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S06E09 - Sacrifice (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S06E03 - Door of No Return (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S06E10 - The Struggle (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S06E08 - Ballad of the Bear (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S06E05 - Ebony and Ivory (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S06E01 - Fallout (1080p AMZN WEB-DL x265 Silence).mkv",
+                                "Snowfall (2017) - S06E02 - The Sit Down (1080p AMZN WEB-DL x265 Silence).mkv"
+                            ]
+                        }
+                    },
+                    "Warrior (2019) Season 3 S03 (1080p HMAX WEB-DL x265 HEVC 10bit EAC3 5.1 Ghost)": {
+                        "_files": [
+                            "Warrior (2019) - S03E10 - A Window of Fucking Opportunity (1080p HMAX WEB-DL x265 Ghost).mkv",
+                            "Warrior (2019) - S03E07 - Gotta Be Crooked to Get Along in a Crooked World (1080p HMAX WEB-DL x265 Ghost).mkv",
+                            "Warrior (2019) - S03E06 - A Soft Heart Won\u2019t Do You No Favors (1080p HMAX WEB-DL x265 Ghost).mkv",
+                            "Warrior (2019) - S03E05 - Whiskey and Sticky and All the Rest Can Wait (1080p HMAX WEB-DL x265 Ghost).mkv",
+                            "Warrior (2019) - S03E04 - In Chinatown, No One Thinks About Forever (1080p HMAX WEB-DL x265 Ghost).mkv",
+                            "Warrior (2019) - S03E03 - No Time for Fucking Chemistry (1080p HMAX WEB-DL x265 Ghost).mkv",
+                            "Warrior (2019) - S03E08 - You Know When You're Losing a Fight (1080p HMAX WEB-DL x265 Ghost).mkv",
+                            "Warrior (2019) - S03E09 - All of Death Is a Going Home (1080p HMAX WEB-DL x265 Ghost).mkv",
+                            "Warrior (2019) - S03E01 - Exactly the Wrong Time to Get Proud (1080p HMAX WEB-DL x265 Ghost).mkv",
+                            "Warrior (2019) - S03E02 - Anything Short of a Blow to the Head (1080p HMAX WEB-DL x265 Ghost).mkv"
+                        ]
+                    },
+                    "october-road-2007--09": {
+                        "_files": [
+                            "october_road_season_1_-_episode_05.mp4",
+                            "october_road_season_1_-_episode_04.mp4",
+                            "october_road_season_1_-_episode_06.mp4",
+                            "october_road_season_2_-_episode_09.mp4",
+                            "october_road_season_1_-_episode_03.mp4",
+                            "october_road_season_1_-_episode_02.mp4",
+                            "october_road_season_2_-_episode_08.mp4",
+                            "october_road_season_1_-_episode_01.mp4",
+                            "october_road_season_2_-_episode_06.mp4",
+                            "october_road_season_2_-_episode_12.mp4",
+                            "october_road_season_2_-_episode_13.mp4",
+                            "october_road_season_2_-_episode_07.mp4",
+                            "october_road_season_2_-_episode_11.mp4",
+                            "october_road_season_2_-_episode_05.mp4",
+                            "october_road_season_2_-_episode_04.mp4",
+                            "october_road_season_2_-_episode_10.mp4",
+                            "october_road_season_2_-_episode_14.mp4",
+                            "october_road_season_2_-_episode_01.mp4",
+                            "october_road_season_2_-_episode_03.mp4",
+                            "october_road_season_2_-_episode_02.mp4"
+                        ],
+                        ".____padding_file": {
+                            "_files": [
+                                "32",
+                                "35",
+                                "34",
+                                "33",
+                                "20",
+                                "18",
+                                "27",
+                                "9",
+                                "11",
+                                "7",
+                                "29",
+                                "16",
+                                "6",
+                                "28",
+                                "17",
+                                "10",
+                                "19",
+                                "26",
+                                "8",
+                                "38",
+                                "36",
+                                "31",
+                                "30",
+                                "39",
+                                "24",
+                                "23",
+                                "4",
+                                "15",
+                                "3",
+                                "12",
+                                "2",
+                                "13",
+                                "5",
+                                "14",
+                                "22",
+                                "25"
+                            ]
                         }
                     }
                 },
@@ -2457,7 +2854,8 @@
                             "www.YTS.MX.jpg",
                             "George.Carlin.You.Are.All.Diseased.1999.1080p.WEBRip.x264.AAC-[YTS.MX].srt",
                             "synopsis.txt",
-                            "poster.jpg"
+                            "poster.jpg",
+                            "._George.Carlin.You.Are.All.Diseased.1999.1080p.WEBRip.x264.AAC-[YTS.MX].mp4"
                         ]
                     },
                     "The Greatest Showman (2017) [BluRay] [1080p] [YTS.AM]": {
@@ -3112,7 +3510,8 @@
                         "_files": [
                             "synopsis.txt",
                             "Burnt.mp4",
-                            "poster.jpg"
+                            "poster.jpg",
+                            "._Burnt.mp4"
                         ]
                     },
                     "Her (2013) [1080p]": {

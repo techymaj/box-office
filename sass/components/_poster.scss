@@ -1,0 +1,15 @@
+.poster {
+    position: sticky;
+    top: 4rem;
+    height: 44rem;
+    width: 28.8rem;
+    grid-row: 1 / span 10;
+    grid-column: 2 / -1;
+
+    img {
+        width: inherit;
+        height: inherit;
+        object-fit: contain;
+        z-index: -1;
+    }
+}

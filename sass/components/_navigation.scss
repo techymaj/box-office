@@ -1,0 +1,35 @@
+.search {
+    position: sticky;
+    top: 0;
+    border-top: 8px solid #121010;
+    @media only screen and (max-width: 425px) {
+        border-top: 1.8rem solid #121010;
+    }
+    & {
+        background-color: #E2E2E2;
+        height: 4rem;
+        row-gap: 1rem;
+        z-index: 1;
+        display: flex;
+        justify-items: center;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+    a {
+        text-decoration: none;
+        font-size: 1.4rem;
+        color: #121010;
+        font-weight: lighter;
+        font-family:'Courier New', Courier, monospace;
+    }
+
+    input {
+        width: 15rem;
+        height: 2.5rem;
+        border-radius: 2rem;
+        border-color: #121010;
+        border-width: 1px;
+        background-color: transparent;
+    }
+}
