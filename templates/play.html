@@ -13,7 +13,16 @@
         <div class="content">
             <h1>Now playing</h1>
             {% include "_metadata_block.html" %}
-            <button>Edit</button>
+            <label for="form-toggle">
+                <button class="edit-btn" type="button" style="pointer-events: none;">Edit</button>
+            </label>
+            <input class="form-toggle" type="checkbox" name="form-toggle" id="form-toggle">
+            <form hx-target=".metadata .title" 
+                  hx-swap="outerHTML" 
+                  class="edit" action="/library/{{hash}}" method="post">
+                  <input type="text" name="title" id="title" placeholder="format: title.extension">
+                  <input type="submit" value="Submit">
+            </form>
             <video preload="auto" controls width="890">
                 <source src="{{file_path}}" type="video/x-matroska" />
                 <source src="{{file_path}}" type="video/mp4" />
@@ -25,12 +34,6 @@
             <img src="{{poster}}" alt="Poster">
         </div>
     </div>
-    <form hx-target=".metadata .title" 
-          hx-swap="outerHTML" 
-          class="form" action="/library/{{hash}}" method="post">
-        <input type="text" name="title" id="title">
-        <input type="submit" value="Submit">
-    </form>
     {% include "_loader_block.html" %}
 </body>
 </html>

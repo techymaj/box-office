@@ -143,4 +143,22 @@ body p {
   font-size: 14px;
 }
 
+.edit {
+  display: none;
+}
+.edit-btn {
+  cursor: pointer;
+  margin-bottom: 1rem;
+}
+
+.form {
+  display: none;
+}
+.form-toggle {
+  display: none;
+}
+.form-toggle:checked + .edit {
+  display: block;
+}
+
 /*# sourceMappingURL=styles.css.map */
