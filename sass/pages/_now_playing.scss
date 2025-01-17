@@ -9,12 +9,17 @@
     & {
         display: grid;
         grid-template-columns: 3fr 1fr;
-        justify-items: center;
-        column-gap: 1rem;
-        max-width: 86rem;
-        margin: auto;
-        color: #ffffffe0;
-        margin-top: 1rem;
+        @media only screen and (max-width: 75em) {
+            grid-template-columns: 1fr;
+        }
+        & {
+            justify-items: center;
+            column-gap: 1rem;
+            max-width: 86rem;
+            margin: auto;
+            color: #ffffffe0;
+            margin-top: 1rem;
+        }
     }
 
     .synopsis {
@@ -22,10 +27,6 @@
     }
 
     video {
-        // position: absolute;
-        // top: -6rem;
-        // left: 0;
-        // z-index: -1;
         width: 100%;
     }
 }
