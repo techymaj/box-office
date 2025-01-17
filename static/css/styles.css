@@ -84,10 +84,10 @@ body p {
 
 .poster {
   position: sticky;
-  align-self: end;
-  top: 4rem;
+  align-self: start;
+  top: 6rem;
   height: auto;
-  width: 28.8rem;
+  width: 100%;
   grid-row: 1/span 10;
   grid-column: 2/-1;
 }
