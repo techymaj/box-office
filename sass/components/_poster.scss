@@ -3,7 +3,7 @@
     align-self: start;
     top: 6rem;
     height: auto;
-    // width: 28.8rem;
+    margin-bottom: 10rem;
     width: 100%;
     grid-row: 1 / span 10;
     grid-column: 2 / -1;
@@ -21,5 +21,57 @@
         height: inherit;
         object-fit: contain;
         z-index: -1;
+    }
+
+    &__related {
+        display: grid;
+        row-gap: 1rem;
+        color: #ffffffe0;
+        cursor: pointer;
+
+        &--suggestion {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            column-gap: 1rem;
+
+            a {
+                color: inherit;
+            }
+
+            .image {
+                width: 12rem;
+                height: 6rem;
+
+                img {
+                    width: inherit;
+                    height: inherit;
+                    object-fit: cover;
+                }
+            }
+
+            .tags {
+
+                span {
+                    padding: 5px 8px;
+                    border-radius: 5px;
+                    font-size: 12px;
+                    font-weight: bold;
+                }
+
+                .title {
+                    margin-bottom: 10px;
+                }
+
+                .year {
+                    background-color: crimson;
+                    text-decoration: none;
+                }
+
+                .resolution {
+                    background-color: blue;
+                    text-decoration: none;
+                }
+            }
+        }
     }
 }

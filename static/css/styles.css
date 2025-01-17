@@ -87,6 +87,7 @@ body p {
   align-self: start;
   top: 6rem;
   height: auto;
+  margin-bottom: 10rem;
   width: 100%;
   grid-row: 1/span 10;
   grid-column: 2/-1;
@@ -106,6 +107,46 @@ body p {
   height: inherit;
   object-fit: contain;
   z-index: -1;
+}
+.poster__related {
+  display: grid;
+  row-gap: 1rem;
+  color: rgba(255, 255, 255, 0.8784313725);
+  cursor: pointer;
+}
+.poster__related--suggestion {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 1rem;
+}
+.poster__related--suggestion a {
+  color: inherit;
+}
+.poster__related--suggestion .image {
+  width: 12rem;
+  height: 6rem;
+}
+.poster__related--suggestion .image img {
+  width: inherit;
+  height: inherit;
+  object-fit: cover;
+}
+.poster__related--suggestion .tags span {
+  padding: 5px 8px;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: bold;
+}
+.poster__related--suggestion .tags .title {
+  margin-bottom: 10px;
+}
+.poster__related--suggestion .tags .year {
+  background-color: crimson;
+  text-decoration: none;
+}
+.poster__related--suggestion .tags .resolution {
+  background-color: blue;
+  text-decoration: none;
 }
 
 .search {

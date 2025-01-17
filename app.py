@@ -93,6 +93,25 @@ def play(hash):
     poster_path = get_poster_path(file_path, "/static/images/fallback.jpg")
     poster_url = f"{localhost}{poster_path}"
 
+    # Fetch related content
+    related_title = metadata["title"]
+    print(f"Related title: {related_title}") 
+    related = {}
+
+    title_words = related_title.lower().split()
+    del title_words[3:]
+    print(f"Title words: {title_words}")
+
+    for id, related_path in crawler.hashes.items():
+        # Check if any word in title_words exists in rel_path
+        if any(word in related_path.casefold().split()[-1] for word in title_words):
+            found_metadata = extract_info(related_path)
+            if len(related) <= 3:
+                related.update({id: found_metadata})
+
+
+    print(f"Related content: {related}") 
+
     # Render the play.html template with the file path
     return render_template(
         "play.html", 
@@ -105,6 +124,7 @@ def play(hash):
         poster=poster_url,
         synopsis=syn if os.path.exists("./synopsis.txt") else synopsis,
         hash=hash,
+        related_content=related,
     )
 
 @app.route("/library/<hash>", methods=["POST"])

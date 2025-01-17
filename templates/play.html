@@ -36,6 +36,23 @@
         </div>
         <div class="poster">
             <img src="{{poster}}" alt="Poster">
+            <div class="poster__related">
+                {% if related_content.items() %}
+                    <h3>Related</h3>
+                    {% for hash, related in related_content.items() %}
+                        <div class="poster__related--suggestion">
+                            <div class="image">
+                                <img src="{{related['poster']}}" alt="related['title']">
+                            </div>
+                            <div class="tags">
+                                <a class="title" href="/library/{{hash}}">{{related["title"]}}</a>
+                                <a class="year" href="/library/{{hash}}"><span>{{related["year"]}}</span></a>
+                                <a class="resolution" href="/library/{{hash}}"><span>{{related["resolution"]}}</span></a>
+                            </div>
+                        </div>
+                    {% endfor %}
+                {% endif %}
+            </div>
         </div>
     </div>
     {% include "_loader_block.html" %}
