@@ -13,6 +13,7 @@
     .file_title {
         grid-column: 1 / -1;
         font-size: 1.8rem;
+        line-height: 1.6em;
         span {
             text-transform: capitalize;
             padding: 0;
@@ -25,6 +26,7 @@
         grid-column: 1 / -1;
         display: flex;
         column-gap: 1rem;
+        flex-wrap: wrap;
     }
 
     .year {

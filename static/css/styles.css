@@ -31,6 +31,7 @@ body p {
 .now-playing {
   position: relative;
   margin: auto;
+  padding: 0 1rem;
 }
 .now-playing > * {
   grid-column: 1/2;
@@ -42,6 +43,7 @@ body p {
 @media only screen and (max-width: 75em) {
   .now-playing {
     grid-template-columns: 1fr;
+    row-gap: 1rem;
   }
 }
 .now-playing {
@@ -88,6 +90,16 @@ body p {
   width: 28.8rem;
   grid-row: 1/span 10;
   grid-column: 2/-1;
+}
+@media only screen and (max-width: 75em) {
+  .poster {
+    position: static;
+    width: 100%;
+    height: auto;
+    grid-row: unset;
+    grid-column: unset;
+    align-self: unset;
+  }
 }
 .poster img {
   width: inherit;
@@ -223,6 +235,7 @@ body p {
 .metadata .file_title {
   grid-column: 1/-1;
   font-size: 1.8rem;
+  line-height: 1.6em;
 }
 .metadata .file_title span {
   text-transform: capitalize;
@@ -234,6 +247,7 @@ body p {
   grid-column: 1/-1;
   display: flex;
   column-gap: 1rem;
+  flex-wrap: wrap;
 }
 .metadata .year span {
   background-color: red;
