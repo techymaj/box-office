@@ -1,9 +1,41 @@
 .edit {
     display: none;
+    z-index: 2;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 5rem;
+    border-radius: 1rem;
+
+    #title {
+        height: 1.4rem;
+        border: 1px solid #121010;
+        border-radius: 5px;
+        width: 10rem;
+        padding: 0 8px;
+    }
 
     &-btn {
         cursor: pointer;
         margin-bottom: 1rem;
+    }
+
+    .action {
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        padding: 5px 8px;
+        cursor: pointer; 
+    }
+
+    &-save {
+        background-color: green;
+    }
+
+    &-cancel {
+        background-color: #121010;
     }
 }
 

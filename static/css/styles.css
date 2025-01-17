@@ -28,6 +28,10 @@ body p {
   grid-column: 1/-1;
 }
 
+.now-playing {
+  position: relative;
+  margin: auto;
+}
 .now-playing > * {
   grid-column: 1/2;
 }
@@ -43,6 +47,9 @@ body p {
 }
 .now-playing .synopsis {
   font-size: 20px;
+}
+.now-playing video {
+  width: 100%;
 }
 
 .title {
@@ -68,6 +75,7 @@ body p {
 
 .poster {
   position: sticky;
+  align-self: end;
   top: 4rem;
   height: 44rem;
   width: 28.8rem;
@@ -145,10 +153,38 @@ body p {
 
 .edit {
   display: none;
+  z-index: 2;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #fff;
+  padding: 5rem;
+  border-radius: 1rem;
+}
+.edit #title {
+  height: 1.4rem;
+  border: 1px solid #121010;
+  border-radius: 5px;
+  width: 10rem;
+  padding: 0 8px;
 }
 .edit-btn {
   cursor: pointer;
   margin-bottom: 1rem;
+}
+.edit .action {
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 8px;
+  cursor: pointer;
+}
+.edit-save {
+  background-color: green;
+}
+.edit-cancel {
+  background-color: #121010;
 }
 
 .form {
@@ -159,6 +195,50 @@ body p {
 }
 .form-toggle:checked + .edit {
   display: block;
+}
+
+.metadata {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  font-family: monospace;
+}
+.metadata span {
+  padding: 5px 8px;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: bold;
+}
+.metadata .file_title {
+  grid-column: 1/-1;
+  font-size: 1.8rem;
+}
+.metadata .file_title span {
+  text-transform: capitalize;
+  padding: 0;
+  border-radius: 0;
+  font-size: inherit;
+}
+.metadata .tags {
+  grid-column: 1/-1;
+  display: flex;
+  column-gap: 1rem;
+}
+.metadata .year span {
+  background-color: red;
+}
+.metadata .resolution span {
+  background-color: blue;
+}
+.metadata .extension span {
+  background-color: green;
+}
+.metadata .filesize span {
+  background-color: orange;
+}
+.metadata .synopsis {
+  grid-column: 1/-1;
+  font-size: 1rem;
+  line-height: 1.6em;
 }
 
 /*# sourceMappingURL=styles.css.map */

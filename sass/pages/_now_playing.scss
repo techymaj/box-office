@@ -1,4 +1,6 @@
 .now-playing {
+    position: relative;
+    margin: auto;
 
     & > * {
         grid-column: 1 / 2
@@ -17,5 +19,13 @@
 
     .synopsis {
         font-size: 20px;
+    }
+
+    video {
+        // position: absolute;
+        // top: -6rem;
+        // left: 0;
+        // z-index: -1;
+        width: 100%;
     }
 }
