@@ -38,7 +38,8 @@
             <img src="{{poster}}" alt="Poster">
             <div class="poster__related">
                 {% if related_content.items() %}
-                    <h3>Related</h3>
+                <br/>
+                    <h3>Similar content</h3>
                     {% for hash, related in related_content.items() %}
                         <div class="poster__related--suggestion">
                             <div class="image">
