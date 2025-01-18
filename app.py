@@ -99,14 +99,17 @@ def play(hash):
     related = {}
 
     title_words = related_title.lower().split()
-    del title_words[3:]
+    if len(title_words) > 1:
+        del title_words[1:]
     print(f"Title words: {title_words}")
+    searchword = " ".join(title_words)
 
     for id, related_path in crawler.hashes.items():
-        # Check if any word in title_words exists in rel_path
-        if any(word in related_path.casefold().split()[-1] for word in title_words):
+        if id == hash:
+            continue
+        if searchword in related_path.casefold():
             found_metadata = extract_info(related_path)
-            if len(related) <= 3:
+            if len(related) <= 5:
                 related.update({id: found_metadata})
 
 

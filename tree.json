@@ -242,7 +242,7 @@
                         },
                         "Iron_Man": {
                             "_files": [
-                                "Iron_Man_2008_4k.mkv",
+                                "Iron.Man.2008.2160p.mkv",
                                 "synopsis.txt",
                                 "poster.jpg"
                             ]
@@ -453,12 +453,19 @@
                                 "tmp.spotlight.state",
                                 "store_generation",
                                 "journalExclusion",
+                                "live.3.indexIds",
                                 "shutdown_time",
                                 "reverseDirectoryStore.shadow",
                                 "live.2.indexUpdates",
                                 "live.1.directoryStoreFile",
                                 "live.1.directoryStoreFile.shadow",
+                                "live.3.indexHead",
+                                "live.3.indexBigDates",
                                 "mds64-crash-state",
+                                "live.3.indexGroups",
+                                "live.3.indexPostings",
+                                "live.3.indexTermIds",
+                                "live.3.indexPositions",
                                 "live.1.shadowIndexGroups",
                                 "live.0.indexPositions",
                                 "live.2.indexHead",
@@ -482,19 +489,28 @@
                                 "live.2.indexDirectory",
                                 "live.2.indexCompactDirectory",
                                 "live.2.indexArrays",
+                                "live.3.indexPositionTable",
                                 "live.2.directoryStoreFile",
                                 "live.2.shadowIndexHead",
-                                "live.2.shadowIndexTermIds",
-                                "live.2.shadowIndexPositionTable",
+                                "live.3.indexUpdates",
                                 "live.0.indexGroups",
-                                "live.2.shadowIndexCompactDirectory",
-                                "live.2.shadowIndexDirectory",
-                                "live.2.shadowIndexArrays",
                                 "live.2.directoryStoreFile.shadow",
                                 "live.2.shadowIndexGroups",
+                                "live.3.indexDirectory",
+                                "live.3.indexCompactDirectory",
+                                "live.3.indexArrays",
                                 "live.0.shadowIndexGroups",
                                 "live.0.indexBigDates",
-                                "live.1.indexHead"
+                                "live.3.directoryStoreFile",
+                                "live.3.shadowIndexHead",
+                                "live.1.indexHead",
+                                "live.3.shadowIndexTermIds",
+                                "live.3.shadowIndexPositionTable",
+                                "live.3.shadowIndexCompactDirectory",
+                                "live.3.shadowIndexDirectory",
+                                "live.3.shadowIndexArrays",
+                                "live.3.directoryStoreFile.shadow",
+                                "live.3.shadowIndexGroups"
                             ],
                             "journals.corespotlight": {
                                 "_files": []
@@ -520,7 +536,8 @@
                             "journals.health_check": {
                                 "_files": [
                                     "journal.1",
-                                    "journal.2"
+                                    "journal.2",
+                                    "journal.3"
                                 ]
                             },
                             "journals.migration": {
@@ -537,6 +554,13 @@
                             }
                         }
                     }
+                },
+                ".fseventsd": {
+                    "_files": [
+                        "fseventsd-uuid",
+                        "00000000037c3a6e",
+                        "00000000037c3a6f"
+                    ]
                 },
                 "torrents": {
                     "_files": [],
@@ -3618,6 +3642,12 @@
                             ]
                         }
                     },
+                    "1408 (2007) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "1408.2007.1080p.BluRay.x264.YIFY.mp4"
+                        ]
+                    },
                     "Easy A (2010) [1080p]": {
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
@@ -3757,6 +3787,20 @@
                             "poster.jpg"
                         ]
                     },
+                    "2012 (2009) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "2012.2009.BluRay.1080p.x264.YIFY.mp4",
+                            "2012.2009.BluRay.720p.x264.YIFY.srt"
+                        ],
+                        "Other": {
+                            "_files": [
+                                "Torrent downloaded from Demonoid.com - Copy.txt",
+                                "Torrent Downloaded From ExtraTorrent.com.txt",
+                                "AhaShare.com.txt"
+                            ]
+                        }
+                    },
                     "The A Team EXTENDED (2010) [1080p]": {
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
@@ -3773,6 +3817,13 @@
                             ]
                         }
                     },
+                    "Abraham Lincoln Vampire Hunter (2012) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Abraham.Lincoln.Vampire.Hunter.2012.1080p.BrRip.x264.YIFY.srt",
+                            "Abraham.Lincoln.Vampire.Hunter.2012.1080p.BrRip.x264.YIFY.mp4"
+                        ]
+                    },
                     "Playing For Keeps (2012) [1080p]": {
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
@@ -3780,6 +3831,12 @@
                             "Playing.For.Keeps.2012.1080p.BluRay.x264.YIFY.srt",
                             "synopsis.txt",
                             "poster.jpg"
+                        ]
+                    },
+                    "Before I Fall (2017) [1080p] [YTS.AG]": {
+                        "_files": [
+                            "WWW.YTS.AG.jpg",
+                            "Before.I.Fall.2017.1080p.BluRay.x264-[YTS.AG].mp4"
                         ]
                     },
                     "Now You See Me 2 (2016) [1080p] [YTS.AG]": {
@@ -3798,6 +3855,12 @@
                             "poster.jpg"
                         ]
                     },
+                    "Before We Go (2014) [1080p] [YTS.AG]": {
+                        "_files": [
+                            "Before.We.Go.2014.1080p.BluRay.x264-[YTS.AG].mp4",
+                            "WWW.YTS.AG.jpg"
+                        ]
+                    },
                     "Looper (2012) [1080p]": {
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
@@ -3806,6 +3869,12 @@
                             "Looper.2012.1080p.BluRay.x264.YIFY.mp4",
                             "synopsis.txt",
                             "poster.jpg"
+                        ]
+                    },
+                    "Cell (2016) [1080p] [YTS.AG]": {
+                        "_files": [
+                            "WWW.YTS.AG.jpg",
+                            "Cell.2016.1080p.BluRay.x264-[YTS.AG].mp4"
                         ]
                     },
                     "Lady Bird (2017) [BluRay] [1080p] [YTS.AM]": {
@@ -3841,6 +3910,12 @@
                             ]
                         }
                     },
+                    "Gifted (2017) [1080p] [YTS.AG]": {
+                        "_files": [
+                            "WWW.YTS.AG.jpg",
+                            "Gifted.2017.1080p.BluRay.x264-[YTS.AG].mp4"
+                        ]
+                    },
                     "In Time (2011) [1080p]": {
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
@@ -3848,6 +3923,13 @@
                             "In.Time.2011.1080p.Brrip.x264.Deceit.YIFY.mp4",
                             "synopsis.txt",
                             "poster.jpg"
+                        ]
+                    },
+                    "Identity Thief (2013) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Identity.Thief.2013.1080p.BluRay.x264.YIFY.srt",
+                            "Identity.Thief.2013.1080p.BluRay.x264.YIFY.mp4"
                         ]
                     },
                     "I, Tonya (2017) [BluRay] [1080p] [YTS.AM]": {
@@ -3866,6 +3948,13 @@
                             "poster.jpg"
                         ]
                     },
+                    "Jumper (2008) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Jumper.2008.1080p.BRrip.x264.srt",
+                            "Jumper.2008.1080p.BRrip.x264.mp4"
+                        ]
+                    },
                     "Flight (2012) [1080p]": {
                         "_files": [
                             "WWW.YIFY-TORRENTS.COM.jpg",
@@ -3881,6 +3970,12 @@
                             "www.YTS.AM.jpg",
                             "synopsis.txt",
                             "poster.jpg"
+                        ]
+                    },
+                    "A Star Is Born (2018) [BluRay] [1080p] [YTS.AM]": {
+                        "_files": [
+                            "A.Star.Is.Born.2018.1080p.BluRay.x264-[YTS.AM].mp4",
+                            "www.YTS.AM.jpg"
                         ]
                     },
                     "Fantastic Four Rise Of The Silver Surfer (2007) [1080p] [YTS.AG]": {
@@ -3916,12 +4011,32 @@
                             "poster.jpg"
                         ]
                     },
+                    "Ninja Assassin (2009) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Ninja.Assassin.2009.1080p.BrRip.x264.YIFY.mp4",
+                            "Ninja.Assassin.2009.1080p.BrRip.x264.YIFY.srt"
+                        ],
+                        "Other": {
+                            "_files": [
+                                "Torrent downloaded from Demonoid.com - Copy.txt",
+                                "Torrent Downloaded From ExtraTorrent.com.txt",
+                                "AhaShare.com.txt"
+                            ]
+                        }
+                    },
                     "Barefoot (2014) [1080p]": {
                         "_files": [
                             "WWW.YTS.RE.jpg",
                             "Barefoot.2014.1080p.BluRay.x264.YIFY.mp4",
                             "synopsis.txt",
                             "poster.jpg"
+                        ]
+                    },
+                    "Paper Planes (2014) [1080p]": {
+                        "_files": [
+                            "Paper.Planes.2014.1080p.BluRay.x264.YIFY.mp4",
+                            "WWW.YTS.TO.jpg"
                         ]
                     },
                     "Argo Extended Cut (2012) [1080p]": {
@@ -3931,6 +4046,84 @@
                             "Argo.Extended.Cut.2012.1080p.BRrip.x264.GAZ.srt",
                             "synopsis.txt",
                             "poster.jpg"
+                        ]
+                    },
+                    "Everything, Everything (2017) [BluRay] [1080p] [YTS.AM]": {
+                        "_files": [
+                            "Everything,.Everything.2017.1080p.BluRay.x264-[YTS.AM].mp4",
+                            "www.YTS.AM.jpg"
+                        ]
+                    },
+                    "Jack the Giant Slayer (2013) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Jack.the.Giant.Slayer.2013.1080p.BluRay.x264.YIFY.mp4"
+                        ]
+                    },
+                    "Knowing (2009) [1080p] [BluRay] [5.1] [YTS.MX]": {
+                        "_files": [
+                            "Knowing.2009.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
+                            "YTSProxies.com.txt",
+                            "www.YTS.MX.jpg"
+                        ]
+                    },
+                    "Like Crazy (2011) [1080p] [BluRay] [5.1] [YTS.MX]": {
+                        "_files": [
+                            "YIFYStatus.com.txt",
+                            "Like.Crazy.2011.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
+                            "www.YTS.MX.jpg"
+                        ]
+                    },
+                    "Push (2009) [BluRay] [1080p] [YTS.AM]": {
+                        "_files": [
+                            "www.YTS.AM.jpg",
+                            "Push.2009.1080p.BluRay.x264-[YTS.AM].mp4"
+                        ]
+                    },
+                    "Season Of The Witch (2011) [1080p] [BluRay] [5.1] [YTS.MX]": {
+                        "_files": [
+                            "YTSProxies.com.txt",
+                            "Season.Of.The.Witch.2011.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
+                            "www.YTS.MX.jpg"
+                        ]
+                    },
+                    "Serendipity (2001) [1080p] [BluRay] [5.1] [YTS.MX]": {
+                        "_files": [
+                            "YIFYStatus.com.txt",
+                            "Serendipity.2001.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
+                            "www.YTS.MX.jpg"
+                        ]
+                    },
+                    "Stolen (2012) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Stolen.2012.1080p.BluRay.x264.YIFY.mp4"
+                        ]
+                    },
+                    "The Book Thief (2013) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "The.Book.Thief.2013.1080p.BluRay.x264.YIFY.mp4"
+                        ]
+                    },
+                    "The Sorcerers Apprentice (2010) [1080p] [BluRay] [5.1] [YTS.MX]": {
+                        "_files": [
+                            "YIFYStatus.com.txt",
+                            "www.YTS.MX.jpg",
+                            "The.Sorcerers.Apprentice.2010.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4"
+                        ]
+                    },
+                    "Trance (2013) [BluRay] [1080p] [YTS.AM]": {
+                        "_files": [
+                            "Trance.2013.1080p.BluRay.x264-[YTS.AM].mp4",
+                            "www.YTS.AM.jpg"
+                        ]
+                    },
+                    "Whats Your Number (2011) [1080p] [BluRay] [5.1] [YTS.MX]": {
+                        "_files": [
+                            "YIFYStatus.com.txt",
+                            "Whats.Your.Number.2011.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
+                            "www.YTS.MX.jpg"
                         ]
                     }
                 },

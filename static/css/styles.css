@@ -219,10 +219,14 @@ body p {
   left: 50%;
   transform: translate(-50%, -50%);
   background-color: #fff;
-  padding: 5rem;
+  padding: 3rem;
   border-radius: 1rem;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+  row-gap: 10px;
 }
 .edit #title {
+  grid-column: 1/-1;
   height: 1.4rem;
   border: 1px solid #121010;
   border-radius: 5px;
@@ -244,6 +248,7 @@ body p {
   border-radius: 5px;
   padding: 5px 8px;
   cursor: pointer;
+  width: 5rem;
 }
 .edit-save {
   background-color: green;
@@ -259,7 +264,7 @@ body p {
   display: none;
 }
 .form-toggle:checked + .edit {
-  display: block;
+  display: grid;
 }
 
 .metadata {
