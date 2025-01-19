@@ -3,7 +3,13 @@ import re
 import os
 
 def extract_subtitles(input_file, parent_directory):
-    # Get the list of streams (tracks) in the MKV file using ffmpeg
+    # Check file extension to ensure it supports subtitles
+    supported_extensions = [".mkv", ".mp4"]
+    if not any(input_file.endswith(ext) for ext in supported_extensions):
+        print(f"Unsupported file format: {input_file}. Only MKV and MP4 are supported.")
+        return
+    
+    # Get the list of streams (tracks) in the input file using ffmpeg
     ffmpeg_command = ["ffmpeg", "-i", input_file]
     
     try:
@@ -23,14 +29,15 @@ def extract_subtitles(input_file, parent_directory):
             return
         
         # Create output directory for subtitles if it doesn't exist
-        output_dir = f"{parent_directory}/subtitles"
+        output_dir = os.path.join(parent_directory, "subtitles")
         os.makedirs(output_dir, exist_ok=True)
         
         # Map subtitle formats to valid file extensions
         subtitle_format_map = {
-            "subrip": "srt",
-            "ass": "ass",
-            "webvtt": "vtt",
+            "subrip": "srt",    # Common in MKV
+            "ass": "ass",       # Advanced SubStation Alpha
+            "webvtt": "vtt",    # Common for web subtitles
+            "mov_text": "srt",  # Common for MP4 subtitles
         }
         
         # Extract each subtitle track
@@ -45,10 +52,11 @@ def extract_subtitles(input_file, parent_directory):
                 "ffmpeg",
                 "-i", input_file,
                 "-map", stream_id,
+                "-c:s", "srt" if subtitle_type.lower() == "mov_text" else "copy",  # Convert mov_text to SRT
                 output_file
             ]
             print(f"Extracting subtitle {i + 1}: {stream_id} ({language}) -> {output_file}")
-            subprocess.run(extract_command)
+            subprocess.run(extract_command, stderr=subprocess.PIPE, stdout=subprocess.PIPE)
         
         print("Subtitle extraction complete.")
     
