@@ -119,7 +119,7 @@ def play(hash):
 
 
     # Extract subtitles
-    if file_path.lower().endswith(".mkv"):
+    if file_path.lower().endswith((".mkv", ".mp4")):
         subtitles_dir = f'{parent_dir}/subtitles'
         mkv_file = file_path.split("/")[-1]
         print(f"Processing {mkv_file} for subtitles")

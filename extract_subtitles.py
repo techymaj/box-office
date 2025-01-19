@@ -2,9 +2,9 @@ import subprocess
 import re
 import os
 
-def extract_subtitles(input_mkv, parent_directory):
+def extract_subtitles(input_file, parent_directory):
     # Get the list of streams (tracks) in the MKV file using ffmpeg
-    ffmpeg_command = ["ffmpeg", "-i", input_mkv]
+    ffmpeg_command = ["ffmpeg", "-i", input_file]
     
     try:
         # Run the ffmpeg command and capture the output
@@ -43,7 +43,7 @@ def extract_subtitles(input_mkv, parent_directory):
             # FFmpeg command to extract the subtitle
             extract_command = [
                 "ffmpeg",
-                "-i", input_mkv,
+                "-i", input_file,
                 "-map", stream_id,
                 output_file
             ]
