@@ -22,7 +22,186 @@
                             "[TGx]Downloaded from torrentgalaxy.to .txt",
                             "synopsis.txt",
                             "poster.jpg"
-                        ]
+                        ],
+                        "subtitles": {
+                            "_files": [
+                                "subtitle_1_eng.srt",
+                                "subtitle_2_eng.srt",
+                                "subtitle_3_eng.srt",
+                                "subtitle_4_cze.srt",
+                                "subtitle_5_dan.srt",
+                                "subtitle_6_ger.srt",
+                                "subtitle_7_gre.srt",
+                                "subtitle_8_spa.srt",
+                                "subtitle_9_spa.srt",
+                                "subtitle_10_fin.srt",
+                                "subtitle_11_fre.srt",
+                                "subtitle_12_hun.srt",
+                                "subtitle_13_ita.srt",
+                                "subtitle_14_jpn.srt",
+                                "subtitle_15_kor.srt",
+                                "subtitle_16_dut.srt",
+                                "subtitle_17_nor.srt",
+                                "subtitle_18_pol.srt",
+                                "subtitle_19_por.srt",
+                                "subtitle_20_por.srt",
+                                "subtitle_21_rum.srt",
+                                "subtitle_22_slo.srt",
+                                "subtitle_23_swe.srt",
+                                "subtitle_24_tur.srt",
+                                "subtitle_25_chi.srt",
+                                "subtitle_1_eng.srt_v0.vtt",
+                                "subtitle_2_eng.srt_v1.vtt",
+                                "subtitle_3_eng.srt_v2.vtt",
+                                "subtitle_4_cze.srt_v3.vtt",
+                                "subtitle_5_dan.srt_v4.vtt",
+                                "subtitle_6_ger.srt_v5.vtt",
+                                "subtitle_7_gre.srt_v6.vtt",
+                                "subtitle_8_spa.srt_v7.vtt",
+                                "subtitle_9_spa.srt_v8.vtt",
+                                "subtitle_10_fin.srt_v9.vtt",
+                                "subtitle_11_fre.srt_v10.vtt",
+                                "subtitle_12_hun.srt_v11.vtt",
+                                "subtitle_13_ita.srt_v12.vtt",
+                                "subtitle_14_jpn.srt_v13.vtt",
+                                "subtitle_15_kor.srt_v14.vtt",
+                                "subtitle_16_dut.srt_v15.vtt",
+                                "subtitle_17_nor.srt_v16.vtt",
+                                "subtitle_18_pol.srt_v17.vtt",
+                                "subtitle_19_por.srt_v18.vtt",
+                                "subtitle_20_por.srt_v19.vtt",
+                                "subtitle_21_rum.srt_v20.vtt",
+                                "subtitle_22_slo.srt_v21.vtt",
+                                "subtitle_23_swe.srt_v22.vtt",
+                                "subtitle_24_tur.srt_v23.vtt",
+                                "subtitle_25_chi.srt_v24.vtt",
+                                "subtitle_1_eng.srt_v0.vtt_v25.vtt",
+                                "subtitle_2_eng.srt_v1.vtt_v26.vtt",
+                                "subtitle_3_eng.srt_v2.vtt_v27.vtt",
+                                "subtitle_4_cze.srt_v3.vtt_v28.vtt",
+                                "subtitle_5_dan.srt_v4.vtt_v29.vtt",
+                                "subtitle_6_ger.srt_v5.vtt_v30.vtt",
+                                "subtitle_7_gre.srt_v6.vtt_v31.vtt",
+                                "subtitle_8_spa.srt_v7.vtt_v32.vtt",
+                                "subtitle_9_spa.srt_v8.vtt_v33.vtt",
+                                "subtitle_10_fin.srt_v9.vtt_v34.vtt",
+                                "subtitle_11_fre.srt_v10.vtt_v35.vtt",
+                                "subtitle_12_hun.srt_v11.vtt_v36.vtt",
+                                "subtitle_13_ita.srt_v12.vtt_v37.vtt",
+                                "subtitle_14_jpn.srt_v13.vtt_v38.vtt",
+                                "subtitle_15_kor.srt_v14.vtt_v39.vtt",
+                                "subtitle_16_dut.srt_v15.vtt_v40.vtt",
+                                "subtitle_17_nor.srt_v16.vtt_v41.vtt",
+                                "subtitle_18_pol.srt_v17.vtt_v42.vtt",
+                                "subtitle_19_por.srt_v18.vtt_v43.vtt",
+                                "subtitle_20_por.srt_v19.vtt_v44.vtt",
+                                "subtitle_21_rum.srt_v20.vtt_v45.vtt",
+                                "subtitle_22_slo.srt_v21.vtt_v46.vtt",
+                                "subtitle_23_swe.srt_v22.vtt_v47.vtt",
+                                "subtitle_24_tur.srt_v23.vtt_v48.vtt",
+                                "subtitle_25_chi.srt_v24.vtt_v49.vtt",
+                                "subtitle_1_eng.srt_v0.vtt_v25.vtt_v50.vtt",
+                                "subtitle_2_eng.srt_v1.vtt_v26.vtt_v51.vtt",
+                                "subtitle_3_eng.srt_v2.vtt_v27.vtt_v52.vtt",
+                                "subtitle_4_cze.srt_v3.vtt_v28.vtt_v53.vtt",
+                                "subtitle_5_dan.srt_v4.vtt_v29.vtt_v54.vtt",
+                                "subtitle_6_ger.srt_v5.vtt_v30.vtt_v55.vtt",
+                                "subtitle_7_gre.srt_v6.vtt_v31.vtt_v56.vtt",
+                                "subtitle_8_spa.srt_v7.vtt_v32.vtt_v57.vtt",
+                                "subtitle_9_spa.srt_v8.vtt_v33.vtt_v58.vtt",
+                                "subtitle_10_fin.srt_v9.vtt_v34.vtt_v59.vtt",
+                                "subtitle_11_fre.srt_v10.vtt_v35.vtt_v60.vtt",
+                                "subtitle_12_hun.srt_v11.vtt_v36.vtt_v61.vtt",
+                                "subtitle_13_ita.srt_v12.vtt_v37.vtt_v62.vtt",
+                                "subtitle_14_jpn.srt_v13.vtt_v38.vtt_v63.vtt",
+                                "subtitle_15_kor.srt_v14.vtt_v39.vtt_v64.vtt",
+                                "subtitle_16_dut.srt_v15.vtt_v40.vtt_v65.vtt",
+                                "subtitle_17_nor.srt_v16.vtt_v41.vtt_v66.vtt",
+                                "subtitle_18_pol.srt_v17.vtt_v42.vtt_v67.vtt",
+                                "subtitle_19_por.srt_v18.vtt_v43.vtt_v68.vtt",
+                                "subtitle_20_por.srt_v19.vtt_v44.vtt_v69.vtt",
+                                "subtitle_21_rum.srt_v20.vtt_v45.vtt_v70.vtt",
+                                "subtitle_22_slo.srt_v21.vtt_v46.vtt_v71.vtt",
+                                "subtitle_23_swe.srt_v22.vtt_v47.vtt_v72.vtt",
+                                "subtitle_24_tur.srt_v23.vtt_v48.vtt_v73.vtt",
+                                "subtitle_25_chi.srt_v24.vtt_v49.vtt_v74.vtt",
+                                "subtitle_1_eng.srt_v0.vtt_v25.vtt_v50.vtt_v75.vtt",
+                                "subtitle_2_eng.srt_v1.vtt_v26.vtt_v51.vtt_v76.vtt",
+                                "subtitle_3_eng.srt_v2.vtt_v27.vtt_v52.vtt_v77.vtt",
+                                "subtitle_4_cze.srt_v3.vtt_v28.vtt_v53.vtt_v78.vtt",
+                                "subtitle_5_dan.srt_v4.vtt_v29.vtt_v54.vtt_v79.vtt",
+                                "subtitle_6_ger.srt_v5.vtt_v30.vtt_v55.vtt_v80.vtt",
+                                "subtitle_7_gre.srt_v6.vtt_v31.vtt_v56.vtt_v81.vtt",
+                                "subtitle_8_spa.srt_v7.vtt_v32.vtt_v57.vtt_v82.vtt",
+                                "subtitle_9_spa.srt_v8.vtt_v33.vtt_v58.vtt_v83.vtt",
+                                "subtitle_10_fin.srt_v9.vtt_v34.vtt_v59.vtt_v84.vtt",
+                                "subtitle_11_fre.srt_v10.vtt_v35.vtt_v60.vtt_v85.vtt",
+                                "subtitle_12_hun.srt_v11.vtt_v36.vtt_v61.vtt_v86.vtt",
+                                "subtitle_13_ita.srt_v12.vtt_v37.vtt_v62.vtt_v87.vtt",
+                                "subtitle_14_jpn.srt_v13.vtt_v38.vtt_v63.vtt_v88.vtt",
+                                "subtitle_15_kor.srt_v14.vtt_v39.vtt_v64.vtt_v89.vtt",
+                                "subtitle_16_dut.srt_v15.vtt_v40.vtt_v65.vtt_v90.vtt",
+                                "subtitle_17_nor.srt_v16.vtt_v41.vtt_v66.vtt_v91.vtt",
+                                "subtitle_18_pol.srt_v17.vtt_v42.vtt_v67.vtt_v92.vtt",
+                                "subtitle_19_por.srt_v18.vtt_v43.vtt_v68.vtt_v93.vtt",
+                                "subtitle_20_por.srt_v19.vtt_v44.vtt_v69.vtt_v94.vtt",
+                                "subtitle_21_rum.srt_v20.vtt_v45.vtt_v70.vtt_v95.vtt",
+                                "subtitle_22_slo.srt_v21.vtt_v46.vtt_v71.vtt_v96.vtt",
+                                "subtitle_23_swe.srt_v22.vtt_v47.vtt_v72.vtt_v97.vtt",
+                                "subtitle_24_tur.srt_v23.vtt_v48.vtt_v73.vtt_v98.vtt",
+                                "subtitle_25_chi.srt_v24.vtt_v49.vtt_v74.vtt_v99.vtt",
+                                "subtitle_1_eng.srt_v0.vtt_v25.vtt_v50.vtt_v75.vtt_v100.vtt",
+                                "subtitle_2_eng.srt_v1.vtt_v26.vtt_v51.vtt_v76.vtt_v101.vtt",
+                                "subtitle_3_eng.srt_v2.vtt_v27.vtt_v52.vtt_v77.vtt_v102.vtt",
+                                "subtitle_4_cze.srt_v3.vtt_v28.vtt_v53.vtt_v78.vtt_v103.vtt",
+                                "subtitle_5_dan.srt_v4.vtt_v29.vtt_v54.vtt_v79.vtt_v104.vtt",
+                                "subtitle_6_ger.srt_v5.vtt_v30.vtt_v55.vtt_v80.vtt_v105.vtt",
+                                "subtitle_7_gre.srt_v6.vtt_v31.vtt_v56.vtt_v81.vtt_v106.vtt",
+                                "subtitle_8_spa.srt_v7.vtt_v32.vtt_v57.vtt_v82.vtt_v107.vtt",
+                                "subtitle_9_spa.srt_v8.vtt_v33.vtt_v58.vtt_v83.vtt_v108.vtt",
+                                "subtitle_10_fin.srt_v9.vtt_v34.vtt_v59.vtt_v84.vtt_v109.vtt",
+                                "subtitle_11_fre.srt_v10.vtt_v35.vtt_v60.vtt_v85.vtt_v110.vtt",
+                                "subtitle_12_hun.srt_v11.vtt_v36.vtt_v61.vtt_v86.vtt_v111.vtt",
+                                "subtitle_13_ita.srt_v12.vtt_v37.vtt_v62.vtt_v87.vtt_v112.vtt",
+                                "subtitle_14_jpn.srt_v13.vtt_v38.vtt_v63.vtt_v88.vtt_v113.vtt",
+                                "subtitle_15_kor.srt_v14.vtt_v39.vtt_v64.vtt_v89.vtt_v114.vtt",
+                                "subtitle_16_dut.srt_v15.vtt_v40.vtt_v65.vtt_v90.vtt_v115.vtt",
+                                "subtitle_17_nor.srt_v16.vtt_v41.vtt_v66.vtt_v91.vtt_v116.vtt",
+                                "subtitle_18_pol.srt_v17.vtt_v42.vtt_v67.vtt_v92.vtt_v117.vtt",
+                                "subtitle_19_por.srt_v18.vtt_v43.vtt_v68.vtt_v93.vtt_v118.vtt",
+                                "subtitle_20_por.srt_v19.vtt_v44.vtt_v69.vtt_v94.vtt_v119.vtt",
+                                "subtitle_21_rum.srt_v20.vtt_v45.vtt_v70.vtt_v95.vtt_v120.vtt",
+                                "subtitle_22_slo.srt_v21.vtt_v46.vtt_v71.vtt_v96.vtt_v121.vtt",
+                                "subtitle_23_swe.srt_v22.vtt_v47.vtt_v72.vtt_v97.vtt_v122.vtt",
+                                "subtitle_24_tur.srt_v23.vtt_v48.vtt_v73.vtt_v98.vtt_v123.vtt",
+                                "subtitle_25_chi.srt_v24.vtt_v49.vtt_v74.vtt_v99.vtt_v124.vtt",
+                                "subtitle_1_eng.srt_v0.vtt_v25.vtt_v50.vtt_v75.vtt_v100.vtt_v125.vtt",
+                                "subtitle_2_eng.srt_v1.vtt_v26.vtt_v51.vtt_v76.vtt_v101.vtt_v126.vtt",
+                                "subtitle_3_eng.srt_v2.vtt_v27.vtt_v52.vtt_v77.vtt_v102.vtt_v127.vtt",
+                                "subtitle_4_cze.srt_v3.vtt_v28.vtt_v53.vtt_v78.vtt_v103.vtt_v128.vtt",
+                                "subtitle_5_dan.srt_v4.vtt_v29.vtt_v54.vtt_v79.vtt_v104.vtt_v129.vtt",
+                                "subtitle_6_ger.srt_v5.vtt_v30.vtt_v55.vtt_v80.vtt_v105.vtt_v130.vtt",
+                                "subtitle_7_gre.srt_v6.vtt_v31.vtt_v56.vtt_v81.vtt_v106.vtt_v131.vtt",
+                                "subtitle_8_spa.srt_v7.vtt_v32.vtt_v57.vtt_v82.vtt_v107.vtt_v132.vtt",
+                                "subtitle_9_spa.srt_v8.vtt_v33.vtt_v58.vtt_v83.vtt_v108.vtt_v133.vtt",
+                                "subtitle_10_fin.srt_v9.vtt_v34.vtt_v59.vtt_v84.vtt_v109.vtt_v134.vtt",
+                                "subtitle_11_fre.srt_v10.vtt_v35.vtt_v60.vtt_v85.vtt_v110.vtt_v135.vtt",
+                                "subtitle_12_hun.srt_v11.vtt_v36.vtt_v61.vtt_v86.vtt_v111.vtt_v136.vtt",
+                                "subtitle_13_ita.srt_v12.vtt_v37.vtt_v62.vtt_v87.vtt_v112.vtt_v137.vtt",
+                                "subtitle_14_jpn.srt_v13.vtt_v38.vtt_v63.vtt_v88.vtt_v113.vtt_v138.vtt",
+                                "subtitle_15_kor.srt_v14.vtt_v39.vtt_v64.vtt_v89.vtt_v114.vtt_v139.vtt",
+                                "subtitle_16_dut.srt_v15.vtt_v40.vtt_v65.vtt_v90.vtt_v115.vtt_v140.vtt",
+                                "subtitle_17_nor.srt_v16.vtt_v41.vtt_v66.vtt_v91.vtt_v116.vtt_v141.vtt",
+                                "subtitle_18_pol.srt_v17.vtt_v42.vtt_v67.vtt_v92.vtt_v117.vtt_v142.vtt",
+                                "subtitle_19_por.srt_v18.vtt_v43.vtt_v68.vtt_v93.vtt_v118.vtt_v143.vtt",
+                                "subtitle_20_por.srt_v19.vtt_v44.vtt_v69.vtt_v94.vtt_v119.vtt_v144.vtt",
+                                "subtitle_21_rum.srt_v20.vtt_v45.vtt_v70.vtt_v95.vtt_v120.vtt_v145.vtt",
+                                "subtitle_22_slo.srt_v21.vtt_v46.vtt_v71.vtt_v96.vtt_v121.vtt_v146.vtt",
+                                "subtitle_23_swe.srt_v22.vtt_v47.vtt_v72.vtt_v97.vtt_v122.vtt_v147.vtt",
+                                "subtitle_24_tur.srt_v23.vtt_v48.vtt_v73.vtt_v98.vtt_v123.vtt_v148.vtt",
+                                "subtitle_25_chi.srt_v24.vtt_v49.vtt_v74.vtt_v99.vtt_v124.vtt_v149.vtt"
+                            ]
+                        }
                     },
                     "LOTS": {
                         "_files": [],
@@ -401,32 +580,32 @@
                                 "Cab.created",
                                 "tmp.Star",
                                 "indexState",
-                                "0.indexDirectory",
-                                "0.indexCompactDirectory",
-                                "0.indexArrays",
                                 "0.indexHead",
-                                "0.shadowIndexHead",
                                 "0.indexIds",
                                 "0.indexBigDates",
                                 "0.indexGroups",
-                                "0.directoryStoreFile",
-                                "0.directoryStoreFile.shadow",
-                                "0.shadowIndexGroups",
-                                "0.indexUpdates",
                                 "0.indexPostings",
+                                "0.indexTermIds",
                                 "0.indexPositions",
-                                "store.updates",
-                                "live.0.shadowIndexHead",
-                                "live.2.indexIds",
-                                "live.1.indexPostings",
-                                "live.1.indexIds",
-                                "live.1.indexBigDates",
-                                "live.1.indexGroups",
-                                "live.1.indexPositions",
-                                "live.1.indexDirectory",
-                                "live.1.indexCompactDirectory",
-                                "live.1.indexArrays",
-                                "live.1.shadowIndexHead",
+                                "0.indexPositionTable",
+                                "0.indexDirectory",
+                                "0.indexCompactDirectory",
+                                "0.indexArrays",
+                                "0.indexUpdates",
+                                "0.directoryStoreFile",
+                                "live.0.indexHead",
+                                "live.0.indexIds",
+                                "live.0.indexBigDates",
+                                "live.0.indexGroups",
+                                "live.0.indexPostings",
+                                "live.0.indexTermIds",
+                                "live.0.indexPositions",
+                                "live.0.indexPositionTable",
+                                "live.0.indexDirectory",
+                                "live.0.indexCompactDirectory",
+                                "live.0.indexArrays",
+                                "live.0.indexUpdates",
+                                "live.0.directoryStoreFile",
                                 "store.db",
                                 ".store.db",
                                 "dbStr-1.map.header",
@@ -453,64 +632,26 @@
                                 "tmp.spotlight.state",
                                 "store_generation",
                                 "journalExclusion",
-                                "live.3.indexIds",
                                 "shutdown_time",
                                 "reverseDirectoryStore.shadow",
-                                "live.2.indexUpdates",
-                                "live.1.directoryStoreFile",
-                                "live.1.directoryStoreFile.shadow",
-                                "live.3.indexHead",
-                                "live.3.indexBigDates",
-                                "mds64-crash-state",
-                                "live.3.indexGroups",
-                                "live.3.indexPostings",
-                                "live.3.indexTermIds",
-                                "live.3.indexPositions",
-                                "live.1.shadowIndexGroups",
-                                "live.0.indexPositions",
-                                "live.2.indexHead",
-                                "live.0.indexDirectory",
-                                "live.0.indexIds",
-                                "reverseStore.updates",
-                                "Cab.modified",
-                                "live.2.indexBigDates",
-                                "live.0.indexCompactDirectory",
-                                "tmp.spotlight.loc",
-                                "live.0.indexArrays",
-                                "live.0.directoryStoreFile",
+                                "0.shadowIndexHead",
+                                "0.shadowIndexTermIds",
+                                "0.shadowIndexPositionTable",
+                                "0.shadowIndexCompactDirectory",
+                                "0.shadowIndexDirectory",
+                                "0.shadowIndexArrays",
+                                "0.directoryStoreFile.shadow",
+                                "0.shadowIndexGroups",
+                                "live.0.shadowIndexHead",
+                                "live.0.shadowIndexTermIds",
+                                "live.0.shadowIndexPositionTable",
+                                "live.0.shadowIndexCompactDirectory",
+                                "live.0.shadowIndexDirectory",
+                                "live.0.shadowIndexArrays",
                                 "live.0.directoryStoreFile.shadow",
-                                "live.2.indexGroups",
-                                "live.2.indexPostings",
-                                "live.2.indexTermIds",
-                                "live.2.indexPositions",
-                                "live.0.indexPostings",
-                                "live.0.indexHead",
-                                "live.2.indexPositionTable",
-                                "live.2.indexDirectory",
-                                "live.2.indexCompactDirectory",
-                                "live.2.indexArrays",
-                                "live.3.indexPositionTable",
-                                "live.2.directoryStoreFile",
-                                "live.2.shadowIndexHead",
-                                "live.3.indexUpdates",
-                                "live.0.indexGroups",
-                                "live.2.directoryStoreFile.shadow",
-                                "live.2.shadowIndexGroups",
-                                "live.3.indexDirectory",
-                                "live.3.indexCompactDirectory",
-                                "live.3.indexArrays",
                                 "live.0.shadowIndexGroups",
-                                "live.0.indexBigDates",
-                                "live.3.directoryStoreFile",
-                                "live.3.shadowIndexHead",
-                                "live.1.indexHead",
-                                "live.3.shadowIndexTermIds",
-                                "live.3.shadowIndexPositionTable",
-                                "live.3.shadowIndexCompactDirectory",
-                                "live.3.shadowIndexDirectory",
-                                "live.3.shadowIndexArrays",
-                                "live.3.directoryStoreFile.shadow",
-                                "live.3.shadowIndexGroups"
+                                "store.updates",
+                                "reverseStore.updates"
                             ],
                             "journals.corespotlight": {
                                 "_files": []
@@ -522,7 +663,9 @@
                                 "_files": []
                             },
                             "journals.live_user": {
-                                "_files": []
+                                "_files": [
+                                    "journal.1"
+                                ]
                             },
                             "journals.live_priority": {
                                 "_files": []
@@ -534,11 +677,7 @@
                                 "_files": []
                             },
                             "journals.health_check": {
-                                "_files": [
-                                    "journal.1",
-                                    "journal.2",
-                                    "journal.3"
-                                ]
+                                "_files": []
                             },
                             "journals.migration": {
                                 "_files": []
@@ -547,19 +686,16 @@
                                 "_files": []
                             },
                             "journals.scan": {
-                                "_files": []
-                            },
-                            "journals.repair": {
-                                "_files": []
+                                "_files": [
+                                    "journal.1"
+                                ]
                             }
                         }
                     }
                 },
                 ".fseventsd": {
                     "_files": [
-                        "fseventsd-uuid",
-                        "00000000037c3a6e",
-                        "00000000037c3a6f"
+                        "fseventsd-uuid"
                     ]
                 },
                 "torrents": {
@@ -928,6 +1064,22 @@
                                     ]
                                 }
                             },
+                            "Silo.S02E10.1080p.x265-ELiTE": {
+                                "_files": [
+                                    "Silo.S02E10.1080p.x265-ELiTE.mkv",
+                                    "Silo.S02E10.1080p.x265-ELiTE.nfo",
+                                    "poster.jpg",
+                                    "synopsis.txt"
+                                ],
+                                "Screens": {
+                                    "_files": [
+                                        "Silo.S02E10.1080p.x265-ELiTE.Screen0004.png",
+                                        "Silo.S02E10.1080p.x265-ELiTE.Screen0001.png",
+                                        "Silo.S02E10.1080p.x265-ELiTE.Screen0003.png",
+                                        "Silo.S02E10.1080p.x265-ELiTE.Screen0002.png"
+                                    ]
+                                }
+                            },
                             "Silo.S02E02.1080p.x265-ELiTE": {
                                 "_files": [
                                     "Silo.S02E02.1080p.x265-ELiTE.mkv",
@@ -1003,7 +1155,8 @@
                                     "Silo.S02E06.1080p.x265-ELiTE.mkv",
                                     "._Silo.S02E06.1080p.x265-ELiTE.mkv",
                                     "Silo.S02E06.1080p.x265-ELiTE.nfo",
-                                    "poster.jpg"
+                                    "poster.jpg",
+                                    "synopsis.txt"
                                 ],
                                 "Screens": {
                                     "_files": [
@@ -1019,7 +1172,8 @@
                                     "Silo.S02E07.1080p.x265-ELiTE.mkv",
                                     "._Silo.S02E07.1080p.x265-ELiTE.mkv",
                                     "Silo.S02E07.1080p.x265-ELiTE.nfo",
-                                    "poster.jpg"
+                                    "poster.jpg",
+                                    "synopsis.txt"
                                 ],
                                 "Screens": {
                                     "_files": [
@@ -3779,6 +3933,12 @@
                             "www.YTS.MX.jpg"
                         ]
                     },
+                    "The Loft (2014) [1080p]": {
+                        "_files": [
+                            "The.Loft.2014.1080p.BluRay.x264.YIFY.mp4",
+                            "WWW.YTS.TO.jpg"
+                        ]
+                    },
                     "The Dilemma (2011) [BluRay] [1080p] [YTS.AM]": {
                         "_files": [
                             "The.Dilemma.2011.1080p.BluRay.x264-[YTS.AM].mp4",
@@ -3800,6 +3960,12 @@
                                 "AhaShare.com.txt"
                             ]
                         }
+                    },
+                    "Exam (2009) [1080p]": {
+                        "_files": [
+                            "WWW.YIFY-TORRENTS.COM.jpg",
+                            "Exam.2009.1080p.BluRay.x264.YIFY.mp4"
+                        ]
                     },
                     "The A Team EXTENDED (2010) [1080p]": {
                         "_files": [
@@ -3883,6 +4049,12 @@
                             "www.YTS.AM.jpg",
                             "synopsis.txt",
                             "poster.jpg"
+                        ]
+                    },
+                    "Predator (1987) [1080p]": {
+                        "_files": [
+                            "WWW.YTS.RE.jpg",
+                            "Predator.1987.1080p.BluRay.x264.YIFY.mp4"
                         ]
                     },
                     "Joy (2015) [1080p] [YTS.AG]": {

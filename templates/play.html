@@ -30,6 +30,16 @@
             <video preload="auto" controls>
                 <source src="{{file_path}}" type="video/x-matroska" />
                 <source src="{{file_path}}" type="video/mp4" />
+                {% for subtitle_file in subtitle_paths %}
+                    {% if 'en' in subtitle_file %}
+                    <track
+                        label="English"
+                        kind="subtitles"
+                        srclang="en"
+                        src="{{ subtitle_file }}"
+                        default />
+                    {% endif %}
+                {% endfor %}
                 Your browser does not support the video tag. Download here
                 <a href="{{file_path}}">Click to download</a>
             </video>

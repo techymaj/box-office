@@ -4,9 +4,11 @@ from flask import Flask, redirect, render_template, render_template_string, send
 # from crawler import crawl, hashes
 import crawler
 from environment_variables import localhost
+from extract_subtitles import extract_subtitles
 from file_metadata import extract_info
 from get_poster_path import get_poster_path
 from download_metadata import download_meta
+from srt_to_vtt import srt_to_vtt
 from werkzeug.middleware.proxy_fix import ProxyFix # type: ignore
 
 app = Flask(__name__)
@@ -115,6 +117,24 @@ def play(hash):
 
     print(f"Related content: {related}") 
 
+
+    # Extract subtitles
+    if file_path.lower().endswith(".mkv"):
+        subtitles_dir = f'{parent_dir}/subtitles'
+        mkv_file = file_path.split("/")[-1]
+        print(f"Processing {mkv_file} for subtitles")
+        if not os.path.exists(subtitles_dir):
+            extract_subtitles(file_path, parent_dir)
+
+        # convert .srt to webVTT
+        subtitles = os.listdir(subtitles_dir)
+        subtitle_files = []
+        for i, subtitle in enumerate(subtitles):
+            path_to_my_srt_file = f"{parent_dir}/subtitles/{subtitle}"
+            path_to_converted_vtt_file = f"{parent_dir}/subtitles/{subtitle}_v{i}.vtt"
+            srt_to_vtt(path_to_my_srt_file, path_to_converted_vtt_file)
+            subtitle_files.append(path_to_converted_vtt_file)
+
     # Render the play.html template with the file path
     return render_template(
         "play.html", 
@@ -128,6 +148,7 @@ def play(hash):
         synopsis=syn if os.path.exists("./synopsis.txt") else synopsis,
         hash=hash,
         related_content=related,
+        subtitle_paths=subtitle_files,
     )
 
 @app.route("/library/<hash>", methods=["POST"])
