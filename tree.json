@@ -27,31 +27,185 @@
                             "_files": [],
                             "40ecbf0544765eb3698b9de1057c8e0ece184da1cbd80f45aa1a176e50eebbfa": {
                                 "_files": [
-                                    "subtitle_19_por.srt",
-                                    "subtitle_15_kor.srt",
-                                    "subtitle_1_eng.srt",
-                                    "subtitle_6_ger.srt",
-                                    "subtitle_4_cze.srt",
-                                    "subtitle_12_hun.srt",
-                                    "subtitle_21_rum.srt",
-                                    "subtitle_18_pol.srt",
-                                    "subtitle_17_nor.srt",
-                                    "subtitle_8_spa.srt",
                                     "subtitle_14_jpn.srt",
-                                    "subtitle_25_chi.srt",
+                                    "subtitle_22_slo.srt",
                                     "subtitle_13_ita.srt",
+                                    "subtitle_1_eng.srt",
+                                    "subtitle_19_por.srt",
+                                    "subtitle_12_hun.srt",
                                     "subtitle_3_eng.srt",
-                                    "subtitle_24_tur.srt",
-                                    "subtitle_9_spa.srt",
-                                    "subtitle_2_eng.srt",
+                                    "subtitle_10_fin.srt",
+                                    "subtitle_25_chi.srt",
                                     "subtitle_7_gre.srt",
+                                    "subtitle_21_rum.srt",
+                                    "subtitle_11_fre.srt",
+                                    "subtitle_5_dan.srt",
+                                    "subtitle_4_cze.srt",
+                                    "subtitle_24_tur.srt",
+                                    "subtitle_6_ger.srt",
+                                    "subtitle_9_spa.srt",
+                                    "subtitle_18_pol.srt",
+                                    "subtitle_16_dut.srt",
+                                    "subtitle_8_spa.srt",
+                                    "subtitle_15_kor.srt",
+                                    "subtitle_17_nor.srt",
+                                    "subtitle_2_eng.srt",
+                                    "subtitle_23_swe.srt",
+                                    "subtitle_20_por.srt",
+                                    "subtitle_14_jpn.srt_v0.vtt",
+                                    "subtitle_22_slo.srt_v1.vtt",
+                                    "subtitle_13_ita.srt_v2.vtt",
+                                    "subtitle_1_eng.srt_v3.vtt",
+                                    "subtitle_19_por.srt_v4.vtt",
+                                    "subtitle_12_hun.srt_v5.vtt",
+                                    "subtitle_3_eng.srt_v6.vtt",
+                                    "subtitle_10_fin.srt_v7.vtt",
+                                    "subtitle_25_chi.srt_v8.vtt",
+                                    "subtitle_7_gre.srt_v9.vtt",
+                                    "subtitle_21_rum.srt_v10.vtt",
+                                    "subtitle_11_fre.srt_v11.vtt",
+                                    "subtitle_5_dan.srt_v12.vtt",
+                                    "subtitle_4_cze.srt_v13.vtt",
+                                    "subtitle_24_tur.srt_v14.vtt",
+                                    "subtitle_6_ger.srt_v15.vtt",
+                                    "subtitle_9_spa.srt_v16.vtt",
+                                    "subtitle_18_pol.srt_v17.vtt",
+                                    "subtitle_16_dut.srt_v18.vtt",
+                                    "subtitle_8_spa.srt_v19.vtt",
+                                    "subtitle_15_kor.srt_v20.vtt",
+                                    "subtitle_17_nor.srt_v21.vtt",
+                                    "subtitle_2_eng.srt_v22.vtt",
+                                    "subtitle_23_swe.srt_v23.vtt",
+                                    "subtitle_20_por.srt_v24.vtt",
+                                    "subtitle_14_jpn.srt_v0.vtt_v25.vtt",
+                                    "subtitle_22_slo.srt_v1.vtt_v26.vtt",
+                                    "subtitle_13_ita.srt_v2.vtt_v27.vtt",
+                                    "subtitle_1_eng.srt_v3.vtt_v28.vtt",
+                                    "subtitle_19_por.srt_v4.vtt_v29.vtt",
+                                    "subtitle_12_hun.srt_v5.vtt_v30.vtt",
+                                    "subtitle_3_eng.srt_v6.vtt_v31.vtt",
+                                    "subtitle_10_fin.srt_v7.vtt_v32.vtt",
+                                    "subtitle_25_chi.srt_v8.vtt_v33.vtt",
+                                    "subtitle_7_gre.srt_v9.vtt_v34.vtt",
+                                    "subtitle_21_rum.srt_v10.vtt_v35.vtt",
+                                    "subtitle_11_fre.srt_v11.vtt_v36.vtt",
+                                    "subtitle_5_dan.srt_v12.vtt_v37.vtt",
+                                    "subtitle_4_cze.srt_v13.vtt_v38.vtt",
+                                    "subtitle_24_tur.srt_v14.vtt_v39.vtt",
+                                    "subtitle_6_ger.srt_v15.vtt_v40.vtt",
+                                    "subtitle_9_spa.srt_v16.vtt_v41.vtt",
+                                    "subtitle_18_pol.srt_v17.vtt_v42.vtt",
+                                    "subtitle_16_dut.srt_v18.vtt_v43.vtt",
+                                    "subtitle_8_spa.srt_v19.vtt_v44.vtt",
+                                    "subtitle_15_kor.srt_v20.vtt_v45.vtt",
+                                    "subtitle_17_nor.srt_v21.vtt_v46.vtt",
+                                    "subtitle_2_eng.srt_v22.vtt_v47.vtt",
+                                    "subtitle_23_swe.srt_v23.vtt_v48.vtt",
+                                    "subtitle_20_por.srt_v24.vtt_v49.vtt",
+                                    "subtitle_14_jpn.srt_v0.vtt_v25.vtt_v50.vtt",
+                                    "subtitle_22_slo.srt_v1.vtt_v26.vtt_v51.vtt",
+                                    "subtitle_13_ita.srt_v2.vtt_v27.vtt_v52.vtt",
+                                    "subtitle_1_eng.srt_v3.vtt_v28.vtt_v53.vtt",
+                                    "subtitle_19_por.srt_v4.vtt_v29.vtt_v54.vtt",
+                                    "subtitle_12_hun.srt_v5.vtt_v30.vtt_v55.vtt",
+                                    "subtitle_3_eng.srt_v6.vtt_v31.vtt_v56.vtt",
+                                    "subtitle_10_fin.srt_v7.vtt_v32.vtt_v57.vtt",
+                                    "subtitle_25_chi.srt_v8.vtt_v33.vtt_v58.vtt",
+                                    "subtitle_7_gre.srt_v9.vtt_v34.vtt_v59.vtt",
+                                    "subtitle_21_rum.srt_v10.vtt_v35.vtt_v60.vtt",
+                                    "subtitle_11_fre.srt_v11.vtt_v36.vtt_v61.vtt",
+                                    "subtitle_5_dan.srt_v12.vtt_v37.vtt_v62.vtt",
+                                    "subtitle_4_cze.srt_v13.vtt_v38.vtt_v63.vtt",
+                                    "subtitle_24_tur.srt_v14.vtt_v39.vtt_v64.vtt",
+                                    "subtitle_6_ger.srt_v15.vtt_v40.vtt_v65.vtt",
+                                    "subtitle_9_spa.srt_v16.vtt_v41.vtt_v66.vtt",
+                                    "subtitle_18_pol.srt_v17.vtt_v42.vtt_v67.vtt",
+                                    "subtitle_16_dut.srt_v18.vtt_v43.vtt_v68.vtt",
+                                    "subtitle_8_spa.srt_v19.vtt_v44.vtt_v69.vtt",
+                                    "subtitle_15_kor.srt_v20.vtt_v45.vtt_v70.vtt",
+                                    "subtitle_17_nor.srt_v21.vtt_v46.vtt_v71.vtt",
+                                    "subtitle_2_eng.srt_v22.vtt_v47.vtt_v72.vtt",
+                                    "subtitle_23_swe.srt_v23.vtt_v48.vtt_v73.vtt",
+                                    "subtitle_20_por.srt_v24.vtt_v49.vtt_v74.vtt"
+                                ]
+                            },
+                            "59c1e37bcd295f7e67ae38aa7bed867573507c24f78de03ae700b75179be106f": {
+                                "_files": [
+                                    "subtitle_4_cze.srt",
+                                    "subtitle_1_eng.srt",
+                                    "subtitle_3_eng.srt",
+                                    "subtitle_13_ita.srt",
+                                    "subtitle_21_rum.srt",
+                                    "subtitle_9_spa.srt",
+                                    "subtitle_18_pol.srt",
+                                    "subtitle_7_gre.srt",
+                                    "subtitle_6_ger.srt",
+                                    "subtitle_14_jpn.srt",
+                                    "subtitle_8_spa.srt",
+                                    "subtitle_2_eng.srt",
+                                    "subtitle_16_dut.srt",
+                                    "subtitle_25_chi.srt",
+                                    "subtitle_10_fin.srt",
+                                    "subtitle_15_kor.srt",
+                                    "subtitle_12_hun.srt",
                                     "subtitle_23_swe.srt",
                                     "subtitle_5_dan.srt",
-                                    "subtitle_20_por.srt",
-                                    "subtitle_11_fre.srt",
-                                    "subtitle_16_dut.srt",
+                                    "subtitle_19_por.srt",
+                                    "subtitle_17_nor.srt",
+                                    "subtitle_24_tur.srt",
                                     "subtitle_22_slo.srt",
-                                    "subtitle_10_fin.srt"
+                                    "subtitle_11_fre.srt",
+                                    "subtitle_20_por.srt",
+                                    "subtitle_4_cze.srt_v0.vtt",
+                                    "subtitle_1_eng.srt_v1.vtt",
+                                    "subtitle_3_eng.srt_v2.vtt",
+                                    "subtitle_13_ita.srt_v3.vtt",
+                                    "subtitle_21_rum.srt_v4.vtt",
+                                    "subtitle_9_spa.srt_v5.vtt",
+                                    "subtitle_18_pol.srt_v6.vtt",
+                                    "subtitle_7_gre.srt_v7.vtt",
+                                    "subtitle_6_ger.srt_v8.vtt",
+                                    "subtitle_14_jpn.srt_v9.vtt",
+                                    "subtitle_8_spa.srt_v10.vtt",
+                                    "subtitle_2_eng.srt_v11.vtt",
+                                    "subtitle_16_dut.srt_v12.vtt",
+                                    "subtitle_25_chi.srt_v13.vtt",
+                                    "subtitle_10_fin.srt_v14.vtt",
+                                    "subtitle_15_kor.srt_v15.vtt",
+                                    "subtitle_12_hun.srt_v16.vtt",
+                                    "subtitle_23_swe.srt_v17.vtt",
+                                    "subtitle_5_dan.srt_v18.vtt",
+                                    "subtitle_19_por.srt_v19.vtt",
+                                    "subtitle_17_nor.srt_v20.vtt",
+                                    "subtitle_24_tur.srt_v21.vtt",
+                                    "subtitle_22_slo.srt_v22.vtt",
+                                    "subtitle_11_fre.srt_v23.vtt",
+                                    "subtitle_20_por.srt_v24.vtt",
+                                    "subtitle_4_cze.srt_v0.vtt_v25.vtt",
+                                    "subtitle_1_eng.srt_v1.vtt_v26.vtt",
+                                    "subtitle_3_eng.srt_v2.vtt_v27.vtt",
+                                    "subtitle_13_ita.srt_v3.vtt_v28.vtt",
+                                    "subtitle_21_rum.srt_v4.vtt_v29.vtt",
+                                    "subtitle_9_spa.srt_v5.vtt_v30.vtt",
+                                    "subtitle_18_pol.srt_v6.vtt_v31.vtt",
+                                    "subtitle_7_gre.srt_v7.vtt_v32.vtt",
+                                    "subtitle_6_ger.srt_v8.vtt_v33.vtt",
+                                    "subtitle_14_jpn.srt_v9.vtt_v34.vtt",
+                                    "subtitle_8_spa.srt_v10.vtt_v35.vtt",
+                                    "subtitle_2_eng.srt_v11.vtt_v36.vtt",
+                                    "subtitle_16_dut.srt_v12.vtt_v37.vtt",
+                                    "subtitle_25_chi.srt_v13.vtt_v38.vtt",
+                                    "subtitle_10_fin.srt_v14.vtt_v39.vtt",
+                                    "subtitle_15_kor.srt_v15.vtt_v40.vtt",
+                                    "subtitle_12_hun.srt_v16.vtt_v41.vtt",
+                                    "subtitle_23_swe.srt_v17.vtt_v42.vtt",
+                                    "subtitle_5_dan.srt_v18.vtt_v43.vtt",
+                                    "subtitle_19_por.srt_v19.vtt_v44.vtt",
+                                    "subtitle_17_nor.srt_v20.vtt_v45.vtt",
+                                    "subtitle_24_tur.srt_v21.vtt_v46.vtt",
+                                    "subtitle_22_slo.srt_v22.vtt_v47.vtt",
+                                    "subtitle_11_fre.srt_v23.vtt_v48.vtt",
+                                    "subtitle_20_por.srt_v24.vtt_v49.vtt"
                                 ]
                             }
                         }
@@ -68,14 +222,10 @@
                                     "Legend of the Seeker S01E05 Listener.mkv",
                                     "Legend of the Seeker S01E06 Elixir.mkv",
                                     "Legend of the Seeker S01E07 Identity.mkv",
-                                    "Legend of the Seeker S01E07 Identity.srt",
                                     "Legend of the Seeker S01E08 Denna.mkv",
-                                    "Legend of the Seeker S01E08 Denna.srt",
                                     "Legend of the Seeker S01E09 Puppeteer.mkv",
                                     "Legend of the Seeker S01E10 Sacrifice.mkv",
-                                    "Legend of the Seeker S01E10 Sacrifice.srt",
                                     "Legend of the Seeker S01E11 Confession.mkv",
-                                    "Legend of the Seeker S01E11 Confession.srt",
                                     "Legend of the Seeker S01E12 Home.mkv",
                                     "Legend of the Seeker S01E13 Revenant.mkv",
                                     "Legend of the Seeker S01E14 Hartland.mkv",
@@ -89,17 +239,7 @@
                                     "Legend of the Seeker S01E22 Reckoning.mkv",
                                     "poster.jpg",
                                     "synopsis.txt"
-                                ],
-                                "subtitles": {
-                                    "_files": [
-                                        "Legend of the Seeker S01E07 Identity.srt_v6.vtt",
-                                        "Legend of the Seeker S01E08 Denna.srt_v8.vtt",
-                                        "Legend of the Seeker S01E07 Identity.srt_v6.vtt_v0.vtt",
-                                        "Legend of the Seeker S01E08 Denna.srt_v8.vtt_v1.vtt",
-                                        "Legend of the Seeker S01E07 Identity.srt_v6.vtt_v0.vtt_v2.vtt",
-                                        "Legend of the Seeker S01E08 Denna.srt_v8.vtt_v1.vtt_v3.vtt"
-                                    ]
-                                }
+                                ]
                             }
                         },
                         "S02": {
@@ -178,22 +318,7 @@
                                 "YIFYStatus.com.txt",
                                 "synopsis.txt",
                                 "poster.jpg"
-                            ],
-                            "subtitles": {
-                                "_files": [
-                                    "subtitle_1_eng.srt",
-                                    "subtitle_1_eng.srt_v0.vtt",
-                                    "subtitle_1_eng.srt_v0.vtt_v1.vtt",
-                                    "subtitle_1_eng.srt_v0.vtt_v1.vtt_v2.vtt",
-                                    "subtitle_1_eng.srt_v0.vtt_v1.vtt_v2.vtt_v3.vtt",
-                                    "subtitle_1_eng.srt_v0.vtt_v1.vtt_v2.vtt_v3.vtt_v4.vtt",
-                                    "subtitle_1_eng.srt_v0.vtt_v1.vtt_v2.vtt_v3.vtt_v4.vtt_v5.vtt",
-                                    "subtitle_1_eng.srt_v0.vtt_v1.vtt_v2.vtt_v3.vtt_v4.vtt_v5.vtt_v6.vtt",
-                                    "subtitle_1_eng.srt_v0.vtt_v1.vtt_v2.vtt_v3.vtt_v4.vtt_v5.vtt_v6.vtt_v7.vtt",
-                                    "subtitle_1_eng.srt_v0.vtt_v1.vtt_v2.vtt_v3.vtt_v4.vtt_v5.vtt_v6.vtt_v7.vtt_v8.vtt",
-                                    "subtitle_1_eng.srt_v0.vtt_v1.vtt_v2.vtt_v3.vtt_v4.vtt_v5.vtt_v6.vtt_v7.vtt_v8.vtt_v9.vtt"
-                                ]
-                            }
+                            ]
                         },
                         "Ant-Man And The Wasp (2018) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
@@ -201,19 +326,7 @@
                                 "www.YTS.MX.jpg",
                                 "synopsis.txt",
                                 "poster.jpg"
-                            ],
-                            "subtitles": {
-                                "_files": [
-                                    "subtitle_1_eng.srt",
-                                    "subtitle_2_eng.srt",
-                                    "subtitle_1_eng.srt_v0.vtt",
-                                    "subtitle_2_eng.srt_v1.vtt",
-                                    "subtitle_1_eng.srt_v0.vtt_v2.vtt",
-                                    "subtitle_2_eng.srt_v1.vtt_v3.vtt",
-                                    "subtitle_1_eng.srt_v0.vtt_v2.vtt_v4.vtt",
-                                    "subtitle_2_eng.srt_v1.vtt_v3.vtt_v5.vtt"
-                                ]
-                            }
+                            ]
                         },
                         "Avengers Age Of Ultron (2015) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
@@ -222,13 +335,7 @@
                                 "YTSProxies.com.txt",
                                 "synopsis.txt",
                                 "poster.jpg"
-                            ],
-                            "subtitles": {
-                                "_files": [
-                                    "subtitle_1_eng.srt",
-                                    "subtitle_1_eng.srt_v0.vtt"
-                                ]
-                            }
+                            ]
                         },
                         "Avengers Endgame (2019) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
@@ -237,26 +344,7 @@
                                 "www.YTS.MX.jpg",
                                 "synopsis.txt",
                                 "poster.jpg"
-                            ],
-                            "subtitles": {
-                                "_files": [
-                                    "subtitle_1_eng.srt",
-                                    "subtitle_2_eng.srt",
-                                    "subtitle_3_eng.sub",
-                                    "subtitle_4_fre.sub",
-                                    "subtitle_5_spa.sub",
-                                    "subtitle_1_eng.srt_v0.vtt",
-                                    "subtitle_2_eng.srt_v1.vtt",
-                                    "subtitle_3_eng.sub_v2.vtt",
-                                    "subtitle_4_fre.sub_v3.vtt",
-                                    "subtitle_5_spa.sub_v4.vtt",
-                                    "subtitle_1_eng.srt_v0.vtt_v5.vtt",
-                                    "subtitle_2_eng.srt_v1.vtt_v6.vtt",
-                                    "subtitle_3_eng.sub_v2.vtt_v7.vtt",
-                                    "subtitle_4_fre.sub_v3.vtt_v8.vtt",
-                                    "subtitle_5_spa.sub_v4.vtt_v9.vtt"
-                                ]
-                            }
+                            ]
                         },
                         "Avengers Infinity War (2018) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
@@ -265,33 +353,7 @@
                                 "www.YTS.MX.jpg",
                                 "synopsis.txt",
                                 "poster.jpg"
-                            ],
-                            "subtitles": {
-                                "_files": [
-                                    "subtitle_1_eng.srt",
-                                    "subtitle_2_eng.srt",
-                                    "subtitle_3_eng.srt",
-                                    "subtitle_4_eng.sub",
-                                    "subtitle_5_fre.sub",
-                                    "subtitle_6_spa.sub",
-                                    "subtitle_7_chi.sub",
-                                    "subtitle_8_jpn.sub",
-                                    "subtitle_9_kor.sub",
-                                    "subtitle_10_tha.sub",
-                                    "subtitle_11_chi.sub",
-                                    "subtitle_1_eng.srt_v0.vtt",
-                                    "subtitle_2_eng.srt_v1.vtt",
-                                    "subtitle_3_eng.srt_v2.vtt",
-                                    "subtitle_4_eng.sub_v3.vtt",
-                                    "subtitle_5_fre.sub_v4.vtt",
-                                    "subtitle_6_spa.sub_v5.vtt",
-                                    "subtitle_7_chi.sub_v6.vtt",
-                                    "subtitle_8_jpn.sub_v7.vtt",
-                                    "subtitle_9_kor.sub_v8.vtt",
-                                    "subtitle_10_tha.sub_v9.vtt",
-                                    "subtitle_11_chi.sub_v10.vtt"
-                                ]
-                            }
+                            ]
                         },
                         "Black Panther (2018) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
@@ -299,13 +361,7 @@
                                 "www.YTS.MX.jpg",
                                 "synopsis.txt",
                                 "poster.jpg"
-                            ],
-                            "subtitles": {
-                                "_files": [
-                                    "subtitle_1_eng.srt",
-                                    "subtitle_1_eng.srt_v0.vtt"
-                                ]
-                            }
+                            ]
                         },
                         "Captain America Civil War (2016) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
@@ -322,55 +378,7 @@
                                 "YIFYStatus.com.txt",
                                 "synopsis.txt",
                                 "poster.jpg"
-                            ],
-                            "subtitles": {
-                                "_files": [
-                                    "subtitle_25_jpn.sub",
-                                    "subtitle_17_ger.sub",
-                                    "subtitle_11_dan.sub",
-                                    "subtitle_7_chi.sub",
-                                    "subtitle_12_dut.sub",
-                                    "subtitle_27_lav.sub",
-                                    "subtitle_4_ara.sub",
-                                    "subtitle_6_chi.sub",
-                                    "subtitle_29_may.sub",
-                                    "subtitle_8_chi.sub",
-                                    "subtitle_1_eng.sub",
-                                    "subtitle_2_eng.sub",
-                                    "subtitle_21_hun.sub",
-                                    "subtitle_5_bul.sub",
-                                    "subtitle_38_slv.sub",
-                                    "subtitle_23_ind.sub",
-                                    "subtitle_10_cze.sub",
-                                    "subtitle_13_est.sub",
-                                    "subtitle_18_gre.sub",
-                                    "subtitle_15_fre.sub",
-                                    "subtitle_3_eng.sub",
-                                    "subtitle_24_ita.sub",
-                                    "subtitle_19_heb.sub",
-                                    "subtitle_35_rus.sub",
-                                    "subtitle_14_fin.sub",
-                                    "subtitle_39_spa.sub",
-                                    "subtitle_44_ukr.sub",
-                                    "subtitle_41_swe.sub",
-                                    "subtitle_20_hin.sub",
-                                    "subtitle_37_slo.sub",
-                                    "subtitle_9_hrv.sub",
-                                    "subtitle_32_por.sub",
-                                    "subtitle_28_lit.sub",
-                                    "subtitle_43_tur.sub",
-                                    "subtitle_26_kor.sub",
-                                    "subtitle_34_rum.sub",
-                                    "subtitle_22_ice.sub",
-                                    "subtitle_36_srp.sub",
-                                    "subtitle_16_fre.sub",
-                                    "subtitle_31_pol.sub",
-                                    "subtitle_42_tha.sub",
-                                    "subtitle_33_por.sub",
-                                    "subtitle_40_spa.sub",
-                                    "subtitle_30_nor.sub"
-                                ]
-                            }
+                            ]
                         },
                         "Captain America The Winter Soldier (2014) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
@@ -421,62 +429,65 @@
                                 "poster.jpg"
                             ],
                             "subtitles": {
-                                "_files": [
-                                    "subtitle_4_chi.srt",
-                                    "subtitle_10_fre.srt",
-                                    "subtitle_22_slo.srt",
-                                    "subtitle_23_spa.srt",
-                                    "subtitle_11_ger.srt",
-                                    "subtitle_9_fin.srt",
-                                    "subtitle_8_dut.srt",
-                                    "subtitle_12_gre.srt",
-                                    "subtitle_1_eng.srt",
-                                    "subtitle_3_eng.srt",
-                                    "subtitle_25_swe.srt",
-                                    "subtitle_24_spa.srt",
-                                    "subtitle_5_chi.srt",
-                                    "subtitle_26_tur.srt",
-                                    "subtitle_13_hun.srt",
-                                    "subtitle_14_ice.srt",
-                                    "subtitle_6_cze.srt",
-                                    "subtitle_21_rum.srt",
-                                    "subtitle_27_chi.srt",
-                                    "subtitle_18_pol.srt",
-                                    "subtitle_17_nor.srt",
-                                    "subtitle_7_dan.srt",
-                                    "subtitle_20_por.srt",
-                                    "subtitle_2_eng.srt",
-                                    "subtitle_15_ita.srt",
-                                    "subtitle_16_kor.srt",
-                                    "subtitle_19_por.srt",
-                                    "subtitle_4_chi.srt_v0.vtt",
-                                    "subtitle_10_fre.srt_v1.vtt",
-                                    "subtitle_22_slo.srt_v2.vtt",
-                                    "subtitle_23_spa.srt_v3.vtt",
-                                    "subtitle_11_ger.srt_v4.vtt",
-                                    "subtitle_9_fin.srt_v5.vtt",
-                                    "subtitle_8_dut.srt_v6.vtt",
-                                    "subtitle_12_gre.srt_v7.vtt",
-                                    "subtitle_1_eng.srt_v8.vtt",
-                                    "subtitle_3_eng.srt_v9.vtt",
-                                    "subtitle_25_swe.srt_v10.vtt",
-                                    "subtitle_24_spa.srt_v11.vtt",
-                                    "subtitle_5_chi.srt_v12.vtt",
-                                    "subtitle_26_tur.srt_v13.vtt",
-                                    "subtitle_13_hun.srt_v14.vtt",
-                                    "subtitle_14_ice.srt_v15.vtt",
-                                    "subtitle_6_cze.srt_v16.vtt",
-                                    "subtitle_21_rum.srt_v17.vtt",
-                                    "subtitle_27_chi.srt_v18.vtt",
-                                    "subtitle_18_pol.srt_v19.vtt",
-                                    "subtitle_17_nor.srt_v20.vtt",
-                                    "subtitle_7_dan.srt_v21.vtt",
-                                    "subtitle_20_por.srt_v22.vtt",
-                                    "subtitle_2_eng.srt_v23.vtt",
-                                    "subtitle_15_ita.srt_v24.vtt",
-                                    "subtitle_16_kor.srt_v25.vtt",
-                                    "subtitle_19_por.srt_v26.vtt"
-                                ]
+                                "_files": [],
+                                "3efb29847b4c1fefa2caddfbe0a88c8a050f27d84d1966ac095b5294c627e8ce": {
+                                    "_files": [
+                                        "subtitle_20_por.srt",
+                                        "subtitle_3_eng.srt",
+                                        "subtitle_10_fre.srt",
+                                        "subtitle_19_por.srt",
+                                        "subtitle_2_eng.srt",
+                                        "subtitle_6_cze.srt",
+                                        "subtitle_27_chi.srt",
+                                        "subtitle_26_tur.srt",
+                                        "subtitle_9_fin.srt",
+                                        "subtitle_16_kor.srt",
+                                        "subtitle_25_swe.srt",
+                                        "subtitle_17_nor.srt",
+                                        "subtitle_13_hun.srt",
+                                        "subtitle_4_chi.srt",
+                                        "subtitle_1_eng.srt",
+                                        "subtitle_24_spa.srt",
+                                        "subtitle_14_ice.srt",
+                                        "subtitle_5_chi.srt",
+                                        "subtitle_7_dan.srt",
+                                        "subtitle_11_ger.srt",
+                                        "subtitle_15_ita.srt",
+                                        "subtitle_12_gre.srt",
+                                        "subtitle_22_slo.srt",
+                                        "subtitle_21_rum.srt",
+                                        "subtitle_18_pol.srt",
+                                        "subtitle_8_dut.srt",
+                                        "subtitle_23_spa.srt",
+                                        "subtitle_20_por.srt_v0.vtt",
+                                        "subtitle_3_eng.srt_v1.vtt",
+                                        "subtitle_10_fre.srt_v2.vtt",
+                                        "subtitle_19_por.srt_v3.vtt",
+                                        "subtitle_2_eng.srt_v4.vtt",
+                                        "subtitle_6_cze.srt_v5.vtt",
+                                        "subtitle_27_chi.srt_v6.vtt",
+                                        "subtitle_26_tur.srt_v7.vtt",
+                                        "subtitle_9_fin.srt_v8.vtt",
+                                        "subtitle_16_kor.srt_v9.vtt",
+                                        "subtitle_25_swe.srt_v10.vtt",
+                                        "subtitle_17_nor.srt_v11.vtt",
+                                        "subtitle_13_hun.srt_v12.vtt",
+                                        "subtitle_4_chi.srt_v13.vtt",
+                                        "subtitle_1_eng.srt_v14.vtt",
+                                        "subtitle_24_spa.srt_v15.vtt",
+                                        "subtitle_14_ice.srt_v16.vtt",
+                                        "subtitle_5_chi.srt_v17.vtt",
+                                        "subtitle_7_dan.srt_v18.vtt",
+                                        "subtitle_11_ger.srt_v19.vtt",
+                                        "subtitle_15_ita.srt_v20.vtt",
+                                        "subtitle_12_gre.srt_v21.vtt",
+                                        "subtitle_22_slo.srt_v22.vtt",
+                                        "subtitle_21_rum.srt_v23.vtt",
+                                        "subtitle_18_pol.srt_v24.vtt",
+                                        "subtitle_8_dut.srt_v25.vtt",
+                                        "subtitle_23_spa.srt_v26.vtt"
+                                    ]
+                                }
                             }
                         },
                         "Iron Man 2 (2010) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
@@ -486,13 +497,7 @@
                                 "YTSProxies.com.txt",
                                 "synopsis.txt",
                                 "poster.jpg"
-                            ],
-                            "subtitles": {
-                                "_files": [
-                                    "subtitle_1_eng.srt",
-                                    "subtitle_1_eng.srt_v0.vtt"
-                                ]
-                            }
+                            ]
                         },
                         "Iron Man Three (2013) [REPACK] [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
@@ -501,15 +506,7 @@
                                 "YTSProxies.com.txt",
                                 "synopsis.txt",
                                 "poster.jpg"
-                            ],
-                            "subtitles": {
-                                "_files": [
-                                    "subtitle_1_eng.srt",
-                                    "subtitle_1_eng.srt_v0.vtt",
-                                    "subtitle_1_eng.srt_v0.vtt_v1.vtt",
-                                    "subtitle_1_eng.srt_v0.vtt_v1.vtt_v2.vtt"
-                                ]
-                            }
+                            ]
                         },
                         "Spider-Man Far From Home (2019) [REPACK] [2160p] [4K] [BluRay] [7.1] [YTS.MX]": {
                             "_files": [
@@ -517,65 +514,7 @@
                                 "www.YTS.MX.jpg",
                                 "synopsis.txt",
                                 "poster.jpg"
-                            ],
-                            "subtitles": {
-                                "_files": [
-                                    "subtitle_21_rum.sub",
-                                    "subtitle_15_ice.sub",
-                                    "subtitle_26_tha.sub",
-                                    "subtitle_6_chi.sub",
-                                    "subtitle_8_chi.sub",
-                                    "subtitle_14_hun.sub",
-                                    "subtitle_2_eng.sub",
-                                    "subtitle_1_eng.srt",
-                                    "subtitle_27_tur.sub",
-                                    "subtitle_10_cze.sub",
-                                    "subtitle_4_ara.sub",
-                                    "subtitle_25_spa.sub",
-                                    "subtitle_13_heb.sub",
-                                    "subtitle_20_por.sub",
-                                    "subtitle_11_fre.sub",
-                                    "subtitle_16_ind.sub",
-                                    "subtitle_23_slo.sub",
-                                    "subtitle_22_srp.sub",
-                                    "subtitle_19_por.sub",
-                                    "subtitle_3_eng.sub",
-                                    "subtitle_24_slv.sub",
-                                    "subtitle_9_hrv.sub",
-                                    "subtitle_18_pol.sub",
-                                    "subtitle_7_chi.sub",
-                                    "subtitle_17_kor.sub",
-                                    "subtitle_5_bul.sub",
-                                    "subtitle_12_gre.sub",
-                                    "subtitle_21_rum.sub_v0.vtt",
-                                    "subtitle_15_ice.sub_v1.vtt",
-                                    "subtitle_26_tha.sub_v2.vtt",
-                                    "subtitle_6_chi.sub_v3.vtt",
-                                    "subtitle_8_chi.sub_v4.vtt",
-                                    "subtitle_14_hun.sub_v5.vtt",
-                                    "subtitle_2_eng.sub_v6.vtt",
-                                    "subtitle_1_eng.srt_v7.vtt",
-                                    "subtitle_27_tur.sub_v8.vtt",
-                                    "subtitle_10_cze.sub_v9.vtt",
-                                    "subtitle_4_ara.sub_v10.vtt",
-                                    "subtitle_25_spa.sub_v11.vtt",
-                                    "subtitle_13_heb.sub_v12.vtt",
-                                    "subtitle_20_por.sub_v13.vtt",
-                                    "subtitle_11_fre.sub_v14.vtt",
-                                    "subtitle_16_ind.sub_v15.vtt",
-                                    "subtitle_23_slo.sub_v16.vtt",
-                                    "subtitle_22_srp.sub_v17.vtt",
-                                    "subtitle_19_por.sub_v18.vtt",
-                                    "subtitle_3_eng.sub_v19.vtt",
-                                    "subtitle_24_slv.sub_v20.vtt",
-                                    "subtitle_9_hrv.sub_v21.vtt",
-                                    "subtitle_18_pol.sub_v22.vtt",
-                                    "subtitle_7_chi.sub_v23.vtt",
-                                    "subtitle_17_kor.sub_v24.vtt",
-                                    "subtitle_5_bul.sub_v25.vtt",
-                                    "subtitle_12_gre.sub_v26.vtt"
-                                ]
-                            }
+                            ]
                         },
                         "Spider-Man Homecoming (2017) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
@@ -583,14 +522,7 @@
                                 "www.YTS.MX.jpg",
                                 "synopsis.txt",
                                 "poster.jpg"
-                            ],
-                            "subtitles": {
-                                "_files": [
-                                    "subtitle_1_eng.srt",
-                                    "subtitle_1_eng.srt_v0.vtt",
-                                    "subtitle_1_eng.srt_v0.vtt_v1.vtt"
-                                ]
-                            }
+                            ]
                         },
                         "The Avengers (2012) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
@@ -607,29 +539,7 @@
                                 "YIFYStatus.com.txt",
                                 "synopsis.txt",
                                 "poster.jpg"
-                            ],
-                            "subtitles": {
-                                "_files": [
-                                    "subtitle_1_eng.sub",
-                                    "subtitle_2_eng.sub",
-                                    "subtitle_1_eng.sub_v0.vtt",
-                                    "subtitle_2_eng.sub_v1.vtt",
-                                    "subtitle_1_eng.sub_v0.vtt_v2.vtt",
-                                    "subtitle_2_eng.sub_v1.vtt_v3.vtt",
-                                    "subtitle_1_eng.sub_v0.vtt_v2.vtt_v4.vtt",
-                                    "subtitle_2_eng.sub_v1.vtt_v3.vtt_v5.vtt",
-                                    "subtitle_1_eng.sub_v0.vtt_v2.vtt_v4.vtt_v6.vtt",
-                                    "subtitle_2_eng.sub_v1.vtt_v3.vtt_v5.vtt_v7.vtt",
-                                    "subtitle_1_eng.sub_v0.vtt_v2.vtt_v4.vtt_v6.vtt_v8.vtt",
-                                    "subtitle_2_eng.sub_v1.vtt_v3.vtt_v5.vtt_v7.vtt_v9.vtt",
-                                    "subtitle_1_eng.sub_v0.vtt_v2.vtt_v4.vtt_v6.vtt_v8.vtt_v10.vtt",
-                                    "subtitle_2_eng.sub_v1.vtt_v3.vtt_v5.vtt_v7.vtt_v9.vtt_v11.vtt",
-                                    "subtitle_1_eng.sub_v0.vtt_v2.vtt_v4.vtt_v6.vtt_v8.vtt_v10.vtt_v12.vtt",
-                                    "subtitle_2_eng.sub_v1.vtt_v3.vtt_v5.vtt_v7.vtt_v9.vtt_v11.vtt_v13.vtt",
-                                    "subtitle_1_eng.sub_v0.vtt_v2.vtt_v4.vtt_v6.vtt_v8.vtt_v10.vtt_v12.vtt_v14.vtt",
-                                    "subtitle_2_eng.sub_v1.vtt_v3.vtt_v5.vtt_v7.vtt_v9.vtt_v11.vtt_v13.vtt_v15.vtt"
-                                ]
-                            }
+                            ]
                         },
                         "Thor (2011) [REPACK] [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [

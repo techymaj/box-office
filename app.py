@@ -97,13 +97,11 @@ def play(hash):
 
     # Fetch related content
     related_title = metadata["title"]
-    print(f"Related title: {related_title}") 
     related = {}
 
     title_words = related_title.lower().split()
     if len(title_words) > 1:
         del title_words[1:]
-    print(f"Title words: {title_words}")
     searchword = " ".join(title_words)
 
     for id, related_path in crawler.hashes.items():
@@ -113,9 +111,6 @@ def play(hash):
             found_metadata = extract_info(related_path)
             if len(related) <= 5:
                 related.update({id: found_metadata})
-
-
-    print(f"Related content: {related}") 
 
 
     # Extract subtitles
@@ -132,20 +127,10 @@ def play(hash):
         if os.path.exists(subtitles_dir):
             subtitles = os.listdir(subtitles_dir)
             for i, subtitle in enumerate(subtitles):
-                path_to_my_srt_file = f"{parent_dir}/subtitles/{hash}/{subtitle}"
+                path_to_my_srt_file = f"{parent_dir}/subtitles/{subtitle}"
                 path_to_converted_vtt_file = f"{parent_dir}/subtitles/{hash}/{subtitle}_v{i}.vtt"
                 srt_to_vtt(path_to_my_srt_file, path_to_converted_vtt_file)
                 subtitle_files.append(path_to_converted_vtt_file)
-        else:
-            subtitles = os.listdir(parent_dir)
-            os.makedirs(subtitles_dir)
-            for i, subtitle in enumerate(subtitles):
-                if subtitle.lower().endswith(".srt"):
-                    print(f"Processing: {subtitle}")
-                    path_to_my_srt_file = f"{parent_dir}/{subtitle}"
-                    path_to_converted_vtt_file = f"{parent_dir}/subtitles/{subtitle}_v{i}.vtt"
-                    srt_to_vtt(path_to_my_srt_file, path_to_converted_vtt_file)
-                    subtitle_files.append(path_to_converted_vtt_file)
 
     # Render the play.html template with the file path
     return render_template(
