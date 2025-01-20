@@ -8,7 +8,7 @@ def file_hash(file_path):
     with open(file_path, "rb") as f:
         return hashlib.sha256(f.read()).hexdigest()
 
-def extract_subtitles(input_file, parent_directory):
+def extract_subtitles(input_file, subtitles_dir):
     # Check file extension to ensure it supports subtitles
     supported_extensions = [".mkv", ".mp4"]
     if not any(input_file.endswith(ext) for ext in supported_extensions):
@@ -33,9 +33,7 @@ def extract_subtitles(input_file, parent_directory):
         if not subtitle_tracks:
             return "No subtitles found."
         
-        # Create output directory for subtitles if it doesn't exist
-        output_dir = os.path.join(parent_directory, "subtitles")
-        os.makedirs(output_dir, exist_ok=True)
+        os.makedirs(subtitles_dir, exist_ok=True)
         
         # Map subtitle formats to valid file extensions
         subtitle_format_map = {
@@ -50,7 +48,7 @@ def extract_subtitles(input_file, parent_directory):
             # Default to "unknown" if language is missing
             language = language if language else "unknown"
             file_extension = subtitle_format_map.get(subtitle_type.lower(), "sub")  # Default to ".sub" if unknown
-            output_file = os.path.join(output_dir, f"subtitle_{i + 1}_{language}.{file_extension}")
+            output_file = os.path.join(subtitles_dir, f"subtitle_{i + 1}_{language}.{file_extension}")
             
             if os.path.exists(output_file):
                 # Generate a temporary file to compare content
@@ -86,7 +84,7 @@ def extract_subtitles(input_file, parent_directory):
                 print(f"Extracting subtitle {i + 1}: {stream_id} ({language}) -> {output_file}")
                 subprocess.Popen(extract_command, stderr=subprocess.PIPE, stdout=subprocess.PIPE)
         else:
-            return "Subtitles found. Extracting...Reload in about 30 seconds to load extracted subtitles."
+            return "Subtitles found. Extracting...Play the first 30 seconds then refresh to load extracted subtitles."
     
     except Exception as e:
         print(f"An error occurred: {e}")
