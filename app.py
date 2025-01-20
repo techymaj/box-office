@@ -127,7 +127,7 @@ def play(hash):
         if os.path.exists(subtitles_dir):
             subtitles = os.listdir(subtitles_dir)
             for i, subtitle in enumerate(subtitles):
-                path_to_my_srt_file = f"{parent_dir}/subtitles/{subtitle}"
+                path_to_my_srt_file = f"{parent_dir}/subtitles/{hash}/{subtitle}"
                 path_to_converted_vtt_file = f"{parent_dir}/subtitles/{hash}/{subtitle}_v{i}.vtt"
                 srt_to_vtt(path_to_my_srt_file, path_to_converted_vtt_file)
                 subtitle_files.append(path_to_converted_vtt_file)

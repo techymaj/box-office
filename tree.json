@@ -207,6 +207,12 @@
                                     "subtitle_11_fre.srt_v23.vtt_v48.vtt",
                                     "subtitle_20_por.srt_v24.vtt_v49.vtt"
                                 ]
+                            },
+                            "c891c4ae9813e6bf41eb980d1f8abbe6d588b9435b598edd6f18942011325c8e": {
+                                "_files": [
+                                    "subtitle_1_eng.srt",
+                                    "subtitle_2_eng.srt"
+                                ]
                             }
                         }
                     },
