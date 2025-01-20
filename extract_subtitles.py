@@ -1,6 +1,12 @@
+import hashlib
 import subprocess
 import re
 import os
+
+def file_hash(file_path):
+    """Calculate the SHA-256 hash of a file."""
+    with open(file_path, "rb") as f:
+        return hashlib.sha256(f.read()).hexdigest()
 
 def extract_subtitles(input_file, parent_directory):
     # Check file extension to ensure it supports subtitles
@@ -47,18 +53,39 @@ def extract_subtitles(input_file, parent_directory):
             file_extension = subtitle_format_map.get(subtitle_type.lower(), "sub")  # Default to ".sub" if unknown
             output_file = os.path.join(output_dir, f"subtitle_{i + 1}_{language}.{file_extension}")
             
-            # FFmpeg command to extract the subtitle
-            extract_command = [
-                "ffmpeg",
-                "-i", input_file,
-                "-map", stream_id,
-                "-c:s", "srt" if subtitle_type.lower() == "mov_text" else "copy",  # Convert mov_text to SRT
-                output_file
-            ]
-            print(f"Extracting subtitle {i + 1}: {stream_id} ({language}) -> {output_file}")
-            subprocess.run(extract_command, stderr=subprocess.PIPE, stdout=subprocess.PIPE)
-        
-        print("Subtitle extraction complete.")
+            if os.path.exists(output_file):
+                # Generate a temporary file to compare content
+                temp_output_file = f"{output_file}.temp"
+                extract_command = [
+                    "ffmpeg",
+                    "-i", input_file,
+                    "-map", stream_id,
+                    "-c:s", "srt" if subtitle_type.lower() == "mov_text" else "copy",
+                    temp_output_file
+                ]
+
+                # Run FFmpeg command for the temporary file
+                subprocess.run(extract_command, stderr=subprocess.PIPE, stdout=subprocess.PIPE, text=True)
+
+                # Compare hashes of the existing file and the new temporary file
+                if os.path.exists(temp_output_file) and file_hash(output_file) == file_hash(temp_output_file):
+                    print(f"File {output_file} already exists with the same content. Skipping extraction.")
+                    os.remove(temp_output_file)  # Clean up temporary file
+                else:
+                    # Replace the existing file with the new content
+                    os.rename(temp_output_file, output_file)
+                    print(f"Updated {output_file} with new content.")
+            else:
+                # File does not exist; proceed with normal extraction
+                extract_command = [
+                    "ffmpeg",
+                    "-i", input_file,
+                    "-map", stream_id,
+                    "-c:s", "srt" if subtitle_type.lower() == "mov_text" else "copy",
+                    output_file
+                ]
+                print(f"Extracting subtitle {i + 1}: {stream_id} ({language}) -> {output_file}")
+                subprocess.Popen(extract_command, stderr=subprocess.PIPE, stdout=subprocess.PIPE)
     
     except Exception as e:
         print(f"An error occurred: {e}")

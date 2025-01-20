@@ -332,7 +332,13 @@
                                 "YTSProxies.com.txt",
                                 "synopsis.txt",
                                 "poster.jpg"
-                            ]
+                            ],
+                            "subtitles": {
+                                "_files": [
+                                    "subtitle_1_eng.srt",
+                                    "subtitle_1_eng.srt_v0.vtt"
+                                ]
+                            }
                         },
                         "Avengers Endgame (2019) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
@@ -341,7 +347,26 @@
                                 "www.YTS.MX.jpg",
                                 "synopsis.txt",
                                 "poster.jpg"
-                            ]
+                            ],
+                            "subtitles": {
+                                "_files": [
+                                    "subtitle_1_eng.srt",
+                                    "subtitle_2_eng.srt",
+                                    "subtitle_3_eng.sub",
+                                    "subtitle_4_fre.sub",
+                                    "subtitle_5_spa.sub",
+                                    "subtitle_1_eng.srt_v0.vtt",
+                                    "subtitle_2_eng.srt_v1.vtt",
+                                    "subtitle_3_eng.sub_v2.vtt",
+                                    "subtitle_4_fre.sub_v3.vtt",
+                                    "subtitle_5_spa.sub_v4.vtt",
+                                    "subtitle_1_eng.srt_v0.vtt_v5.vtt",
+                                    "subtitle_2_eng.srt_v1.vtt_v6.vtt",
+                                    "subtitle_3_eng.sub_v2.vtt_v7.vtt",
+                                    "subtitle_4_fre.sub_v3.vtt_v8.vtt",
+                                    "subtitle_5_spa.sub_v4.vtt_v9.vtt"
+                                ]
+                            }
                         },
                         "Avengers Infinity War (2018) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
@@ -350,7 +375,33 @@
                                 "www.YTS.MX.jpg",
                                 "synopsis.txt",
                                 "poster.jpg"
-                            ]
+                            ],
+                            "subtitles": {
+                                "_files": [
+                                    "subtitle_1_eng.srt",
+                                    "subtitle_2_eng.srt",
+                                    "subtitle_3_eng.srt",
+                                    "subtitle_4_eng.sub",
+                                    "subtitle_5_fre.sub",
+                                    "subtitle_6_spa.sub",
+                                    "subtitle_7_chi.sub",
+                                    "subtitle_8_jpn.sub",
+                                    "subtitle_9_kor.sub",
+                                    "subtitle_10_tha.sub",
+                                    "subtitle_11_chi.sub",
+                                    "subtitle_1_eng.srt_v0.vtt",
+                                    "subtitle_2_eng.srt_v1.vtt",
+                                    "subtitle_3_eng.srt_v2.vtt",
+                                    "subtitle_4_eng.sub_v3.vtt",
+                                    "subtitle_5_fre.sub_v4.vtt",
+                                    "subtitle_6_spa.sub_v5.vtt",
+                                    "subtitle_7_chi.sub_v6.vtt",
+                                    "subtitle_8_jpn.sub_v7.vtt",
+                                    "subtitle_9_kor.sub_v8.vtt",
+                                    "subtitle_10_tha.sub_v9.vtt",
+                                    "subtitle_11_chi.sub_v10.vtt"
+                                ]
+                            }
                         },
                         "Black Panther (2018) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
@@ -424,7 +475,38 @@
                                 "Iron.Man.2008.2160p.mkv",
                                 "synopsis.txt",
                                 "poster.jpg"
-                            ]
+                            ],
+                            "subtitles": {
+                                "_files": [
+                                    "subtitle_4_chi.srt",
+                                    "subtitle_10_fre.srt",
+                                    "subtitle_22_slo.srt",
+                                    "subtitle_23_spa.srt",
+                                    "subtitle_11_ger.srt",
+                                    "subtitle_9_fin.srt",
+                                    "subtitle_8_dut.srt",
+                                    "subtitle_12_gre.srt",
+                                    "subtitle_1_eng.srt",
+                                    "subtitle_3_eng.srt",
+                                    "subtitle_25_swe.srt",
+                                    "subtitle_24_spa.srt",
+                                    "subtitle_5_chi.srt",
+                                    "subtitle_26_tur.srt",
+                                    "subtitle_13_hun.srt",
+                                    "subtitle_14_ice.srt",
+                                    "subtitle_6_cze.srt",
+                                    "subtitle_21_rum.srt",
+                                    "subtitle_27_chi.srt",
+                                    "subtitle_18_pol.srt",
+                                    "subtitle_17_nor.srt",
+                                    "subtitle_7_dan.srt",
+                                    "subtitle_20_por.srt",
+                                    "subtitle_2_eng.srt",
+                                    "subtitle_15_ita.srt",
+                                    "subtitle_16_kor.srt",
+                                    "subtitle_19_por.srt"
+                                ]
+                            }
                         },
                         "Iron Man 2 (2010) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
@@ -442,7 +524,14 @@
                                 "YTSProxies.com.txt",
                                 "synopsis.txt",
                                 "poster.jpg"
-                            ]
+                            ],
+                            "subtitles": {
+                                "_files": [
+                                    "subtitle_1_eng.srt",
+                                    "subtitle_1_eng.srt_v0.vtt",
+                                    "subtitle_1_eng.srt_v0.vtt_v1.vtt"
+                                ]
+                            }
                         },
                         "Spider-Man Far From Home (2019) [REPACK] [2160p] [4K] [BluRay] [7.1] [YTS.MX]": {
                             "_files": [
@@ -450,7 +539,65 @@
                                 "www.YTS.MX.jpg",
                                 "synopsis.txt",
                                 "poster.jpg"
-                            ]
+                            ],
+                            "subtitles": {
+                                "_files": [
+                                    "subtitle_21_rum.sub",
+                                    "subtitle_15_ice.sub",
+                                    "subtitle_26_tha.sub",
+                                    "subtitle_6_chi.sub",
+                                    "subtitle_8_chi.sub",
+                                    "subtitle_14_hun.sub",
+                                    "subtitle_2_eng.sub",
+                                    "subtitle_1_eng.srt",
+                                    "subtitle_27_tur.sub",
+                                    "subtitle_10_cze.sub",
+                                    "subtitle_4_ara.sub",
+                                    "subtitle_25_spa.sub",
+                                    "subtitle_13_heb.sub",
+                                    "subtitle_20_por.sub",
+                                    "subtitle_11_fre.sub",
+                                    "subtitle_16_ind.sub",
+                                    "subtitle_23_slo.sub",
+                                    "subtitle_22_srp.sub",
+                                    "subtitle_19_por.sub",
+                                    "subtitle_3_eng.sub",
+                                    "subtitle_24_slv.sub",
+                                    "subtitle_9_hrv.sub",
+                                    "subtitle_18_pol.sub",
+                                    "subtitle_7_chi.sub",
+                                    "subtitle_17_kor.sub",
+                                    "subtitle_5_bul.sub",
+                                    "subtitle_12_gre.sub",
+                                    "subtitle_21_rum.sub_v0.vtt",
+                                    "subtitle_15_ice.sub_v1.vtt",
+                                    "subtitle_26_tha.sub_v2.vtt",
+                                    "subtitle_6_chi.sub_v3.vtt",
+                                    "subtitle_8_chi.sub_v4.vtt",
+                                    "subtitle_14_hun.sub_v5.vtt",
+                                    "subtitle_2_eng.sub_v6.vtt",
+                                    "subtitle_1_eng.srt_v7.vtt",
+                                    "subtitle_27_tur.sub_v8.vtt",
+                                    "subtitle_10_cze.sub_v9.vtt",
+                                    "subtitle_4_ara.sub_v10.vtt",
+                                    "subtitle_25_spa.sub_v11.vtt",
+                                    "subtitle_13_heb.sub_v12.vtt",
+                                    "subtitle_20_por.sub_v13.vtt",
+                                    "subtitle_11_fre.sub_v14.vtt",
+                                    "subtitle_16_ind.sub_v15.vtt",
+                                    "subtitle_23_slo.sub_v16.vtt",
+                                    "subtitle_22_srp.sub_v17.vtt",
+                                    "subtitle_19_por.sub_v18.vtt",
+                                    "subtitle_3_eng.sub_v19.vtt",
+                                    "subtitle_24_slv.sub_v20.vtt",
+                                    "subtitle_9_hrv.sub_v21.vtt",
+                                    "subtitle_18_pol.sub_v22.vtt",
+                                    "subtitle_7_chi.sub_v23.vtt",
+                                    "subtitle_17_kor.sub_v24.vtt",
+                                    "subtitle_5_bul.sub_v25.vtt",
+                                    "subtitle_12_gre.sub_v26.vtt"
+                                ]
+                            }
                         },
                         "Spider-Man Homecoming (2017) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
@@ -458,7 +605,14 @@
                                 "www.YTS.MX.jpg",
                                 "synopsis.txt",
                                 "poster.jpg"
-                            ]
+                            ],
+                            "subtitles": {
+                                "_files": [
+                                    "subtitle_1_eng.srt",
+                                    "subtitle_1_eng.srt_v0.vtt",
+                                    "subtitle_1_eng.srt_v0.vtt_v1.vtt"
+                                ]
+                            }
                         },
                         "The Avengers (2012) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
@@ -1077,6 +1231,14 @@
                                         "Silo.S02E10.1080p.x265-ELiTE.Screen0001.png",
                                         "Silo.S02E10.1080p.x265-ELiTE.Screen0003.png",
                                         "Silo.S02E10.1080p.x265-ELiTE.Screen0002.png"
+                                    ]
+                                },
+                                "subtitles": {
+                                    "_files": [
+                                        "subtitle_1_eng.srt",
+                                        "subtitle_2_eng.srt",
+                                        "subtitle_1_eng.srt_v0.vtt",
+                                        "subtitle_2_eng.srt_v1.vtt"
                                     ]
                                 }
                             },
