@@ -123,17 +123,27 @@ def play(hash):
         subtitles_dir = f'{parent_dir}/subtitles'
         mkv_file = file_path.split("/")[-1]
         print(f"Processing {mkv_file} for subtitles")
-        if not os.path.exists(subtitles_dir):
-            extract_subtitles(file_path, parent_dir)
+        message = extract_subtitles(file_path, parent_dir)
 
         # convert .srt to webVTT
-        subtitles = os.listdir(subtitles_dir)
         subtitle_files = []
-        for i, subtitle in enumerate(subtitles):
-            path_to_my_srt_file = f"{parent_dir}/subtitles/{subtitle}"
-            path_to_converted_vtt_file = f"{parent_dir}/subtitles/{subtitle}_v{i}.vtt"
-            srt_to_vtt(path_to_my_srt_file, path_to_converted_vtt_file)
-            subtitle_files.append(path_to_converted_vtt_file)
+        if os.path.exists(subtitles_dir):
+            subtitles = os.listdir(subtitles_dir)
+            for i, subtitle in enumerate(subtitles):
+                path_to_my_srt_file = f"{parent_dir}/subtitles/{subtitle}"
+                path_to_converted_vtt_file = f"{parent_dir}/subtitles/{subtitle}_v{i}.vtt"
+                srt_to_vtt(path_to_my_srt_file, path_to_converted_vtt_file)
+                subtitle_files.append(path_to_converted_vtt_file)
+        else:
+            subtitles = os.listdir(parent_dir)
+            os.makedirs(subtitles_dir)
+            for i, subtitle in enumerate(subtitles):
+                if subtitle.lower().endswith(".srt"):
+                    print(f"Processing: {subtitle}")
+                    path_to_my_srt_file = f"{parent_dir}/{subtitle}"
+                    path_to_converted_vtt_file = f"{parent_dir}/subtitles/{subtitle}_v{i}.vtt"
+                    srt_to_vtt(path_to_my_srt_file, path_to_converted_vtt_file)
+                    subtitle_files.append(path_to_converted_vtt_file)
 
     # Render the play.html template with the file path
     return render_template(
@@ -149,6 +159,7 @@ def play(hash):
         hash=hash,
         related_content=related,
         subtitle_paths=subtitle_files,
+        message=message,
     )
 
 @app.route("/library/<hash>", methods=["POST"])

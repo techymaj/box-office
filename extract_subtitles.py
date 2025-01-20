@@ -31,8 +31,7 @@ def extract_subtitles(input_file, parent_directory):
         subtitle_tracks = subtitle_pattern.findall(ffmpeg_output)
         
         if not subtitle_tracks:
-            print("No subtitles found.")
-            return
+            return "No subtitles found."
         
         # Create output directory for subtitles if it doesn't exist
         output_dir = os.path.join(parent_directory, "subtitles")
@@ -86,6 +85,10 @@ def extract_subtitles(input_file, parent_directory):
                 ]
                 print(f"Extracting subtitle {i + 1}: {stream_id} ({language}) -> {output_file}")
                 subprocess.Popen(extract_command, stderr=subprocess.PIPE, stdout=subprocess.PIPE)
+        else:
+            return "Subtitles found. Extracting...Reload in a few seconds to load extracted subtitles"
     
     except Exception as e:
         print(f"An error occurred: {e}")
+    
+    return "Subtitles available."

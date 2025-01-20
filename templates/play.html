@@ -15,6 +15,7 @@
             <label for="form-toggle">
                 <button class="edit-btn" type="button" style="pointer-events: none;">Edit title</button>
             </label>
+            <span class="message">&nbsp;*{{message}}</span>
             <input class="form-toggle" type="checkbox" name="form-toggle" id="form-toggle">
             <form hx-target=".metadata, .metadata .title" 
                   hx-swap="outerHTML" 

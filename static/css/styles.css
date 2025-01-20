@@ -54,6 +54,9 @@ body p {
   color: rgba(255, 255, 255, 0.8784313725);
   margin-top: 1rem;
 }
+.now-playing .message {
+  font-family: monospace;
+}
 .now-playing .synopsis {
   font-size: 20px;
 }

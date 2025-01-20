@@ -236,7 +236,17 @@
                                     "Legend of the Seeker S01E22 Reckoning.mkv",
                                     "poster.jpg",
                                     "synopsis.txt"
-                                ]
+                                ],
+                                "subtitles": {
+                                    "_files": [
+                                        "Legend of the Seeker S01E07 Identity.srt_v6.vtt",
+                                        "Legend of the Seeker S01E08 Denna.srt_v8.vtt",
+                                        "Legend of the Seeker S01E07 Identity.srt_v6.vtt_v0.vtt",
+                                        "Legend of the Seeker S01E08 Denna.srt_v8.vtt_v1.vtt",
+                                        "Legend of the Seeker S01E07 Identity.srt_v6.vtt_v0.vtt_v2.vtt",
+                                        "Legend of the Seeker S01E08 Denna.srt_v8.vtt_v1.vtt_v3.vtt"
+                                    ]
+                                }
                             }
                         },
                         "S02": {
@@ -426,7 +436,55 @@
                                 "YIFYStatus.com.txt",
                                 "synopsis.txt",
                                 "poster.jpg"
-                            ]
+                            ],
+                            "subtitles": {
+                                "_files": [
+                                    "subtitle_25_jpn.sub",
+                                    "subtitle_17_ger.sub",
+                                    "subtitle_11_dan.sub",
+                                    "subtitle_7_chi.sub",
+                                    "subtitle_12_dut.sub",
+                                    "subtitle_27_lav.sub",
+                                    "subtitle_4_ara.sub",
+                                    "subtitle_6_chi.sub",
+                                    "subtitle_29_may.sub",
+                                    "subtitle_8_chi.sub",
+                                    "subtitle_1_eng.sub",
+                                    "subtitle_2_eng.sub",
+                                    "subtitle_21_hun.sub",
+                                    "subtitle_5_bul.sub",
+                                    "subtitle_38_slv.sub",
+                                    "subtitle_23_ind.sub",
+                                    "subtitle_10_cze.sub",
+                                    "subtitle_13_est.sub",
+                                    "subtitle_18_gre.sub",
+                                    "subtitle_15_fre.sub",
+                                    "subtitle_3_eng.sub",
+                                    "subtitle_24_ita.sub",
+                                    "subtitle_19_heb.sub",
+                                    "subtitle_35_rus.sub",
+                                    "subtitle_14_fin.sub",
+                                    "subtitle_39_spa.sub",
+                                    "subtitle_44_ukr.sub",
+                                    "subtitle_41_swe.sub",
+                                    "subtitle_20_hin.sub",
+                                    "subtitle_37_slo.sub",
+                                    "subtitle_9_hrv.sub",
+                                    "subtitle_32_por.sub",
+                                    "subtitle_28_lit.sub",
+                                    "subtitle_43_tur.sub",
+                                    "subtitle_26_kor.sub",
+                                    "subtitle_34_rum.sub",
+                                    "subtitle_22_ice.sub",
+                                    "subtitle_36_srp.sub",
+                                    "subtitle_16_fre.sub",
+                                    "subtitle_31_pol.sub",
+                                    "subtitle_42_tha.sub",
+                                    "subtitle_33_por.sub",
+                                    "subtitle_40_spa.sub",
+                                    "subtitle_30_nor.sub"
+                                ]
+                            }
                         },
                         "Captain America The Winter Soldier (2014) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
@@ -529,7 +587,8 @@
                                 "_files": [
                                     "subtitle_1_eng.srt",
                                     "subtitle_1_eng.srt_v0.vtt",
-                                    "subtitle_1_eng.srt_v0.vtt_v1.vtt"
+                                    "subtitle_1_eng.srt_v0.vtt_v1.vtt",
+                                    "subtitle_1_eng.srt_v0.vtt_v1.vtt_v2.vtt"
                                 ]
                             }
                         },
@@ -629,7 +688,17 @@
                                 "YIFYStatus.com.txt",
                                 "synopsis.txt",
                                 "poster.jpg"
-                            ]
+                            ],
+                            "subtitles": {
+                                "_files": [
+                                    "subtitle_1_eng.sub",
+                                    "subtitle_2_eng.sub",
+                                    "subtitle_1_eng.sub_v0.vtt",
+                                    "subtitle_2_eng.sub_v1.vtt",
+                                    "subtitle_1_eng.sub_v0.vtt_v2.vtt",
+                                    "subtitle_2_eng.sub_v1.vtt_v3.vtt"
+                                ]
+                            }
                         },
                         "Thor (2011) [REPACK] [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
@@ -663,7 +732,10 @@
                             "WWW.YTS.TO.jpg",
                             "synopsis.txt",
                             "poster.jpg"
-                        ]
+                        ],
+                        "subtitles": {
+                            "_files": []
+                        }
                     },
                     "Nightcrawler (2014) [1080p]": {
                         "_files": [
@@ -680,7 +752,10 @@
                             "YTSProxies.com.txt",
                             "www.YTS.MX.jpg",
                             "poster.jpg"
-                        ]
+                        ],
+                        "subtitles": {
+                            "_files": []
+                        }
                     },
                     "Gladiator II (2024) [1080p] [WEBRip] [5.1] [YTS.MX]": {
                         "_files": [
@@ -1478,7 +1553,10 @@
                                 "._poster.jpg",
                                 "synopsis.txt",
                                 "._synopsis.txt"
-                            ]
+                            ],
+                            "subtitles": {
+                                "_files": []
+                            }
                         }
                     },
                     "Continuum Seasons 1 to 4 Mp4 1080p": {
