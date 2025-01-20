@@ -419,7 +419,12 @@
                                 "www.YTS.MX.jpg",
                                 "synopsis.txt",
                                 "poster.jpg"
-                            ]
+                            ],
+                            "subtitles": {
+                                "_files": [
+                                    "subtitle_1_eng.srt"
+                                ]
+                            }
                         },
                         "Captain America Civil War (2016) [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
@@ -562,7 +567,34 @@
                                     "subtitle_2_eng.srt",
                                     "subtitle_15_ita.srt",
                                     "subtitle_16_kor.srt",
-                                    "subtitle_19_por.srt"
+                                    "subtitle_19_por.srt",
+                                    "subtitle_4_chi.srt_v0.vtt",
+                                    "subtitle_10_fre.srt_v1.vtt",
+                                    "subtitle_22_slo.srt_v2.vtt",
+                                    "subtitle_23_spa.srt_v3.vtt",
+                                    "subtitle_11_ger.srt_v4.vtt",
+                                    "subtitle_9_fin.srt_v5.vtt",
+                                    "subtitle_8_dut.srt_v6.vtt",
+                                    "subtitle_12_gre.srt_v7.vtt",
+                                    "subtitle_1_eng.srt_v8.vtt",
+                                    "subtitle_3_eng.srt_v9.vtt",
+                                    "subtitle_25_swe.srt_v10.vtt",
+                                    "subtitle_24_spa.srt_v11.vtt",
+                                    "subtitle_5_chi.srt_v12.vtt",
+                                    "subtitle_26_tur.srt_v13.vtt",
+                                    "subtitle_13_hun.srt_v14.vtt",
+                                    "subtitle_14_ice.srt_v15.vtt",
+                                    "subtitle_6_cze.srt_v16.vtt",
+                                    "subtitle_21_rum.srt_v17.vtt",
+                                    "subtitle_27_chi.srt_v18.vtt",
+                                    "subtitle_18_pol.srt_v19.vtt",
+                                    "subtitle_17_nor.srt_v20.vtt",
+                                    "subtitle_7_dan.srt_v21.vtt",
+                                    "subtitle_20_por.srt_v22.vtt",
+                                    "subtitle_2_eng.srt_v23.vtt",
+                                    "subtitle_15_ita.srt_v24.vtt",
+                                    "subtitle_16_kor.srt_v25.vtt",
+                                    "subtitle_19_por.srt_v26.vtt"
                                 ]
                             }
                         },
@@ -573,7 +605,13 @@
                                 "YTSProxies.com.txt",
                                 "synopsis.txt",
                                 "poster.jpg"
-                            ]
+                            ],
+                            "subtitles": {
+                                "_files": [
+                                    "subtitle_1_eng.srt",
+                                    "subtitle_1_eng.srt_v0.vtt"
+                                ]
+                            }
                         },
                         "Iron Man Three (2013) [REPACK] [2160p] [4K] [BluRay] [5.1] [YTS.MX]": {
                             "_files": [
@@ -696,7 +734,19 @@
                                     "subtitle_1_eng.sub_v0.vtt",
                                     "subtitle_2_eng.sub_v1.vtt",
                                     "subtitle_1_eng.sub_v0.vtt_v2.vtt",
-                                    "subtitle_2_eng.sub_v1.vtt_v3.vtt"
+                                    "subtitle_2_eng.sub_v1.vtt_v3.vtt",
+                                    "subtitle_1_eng.sub_v0.vtt_v2.vtt_v4.vtt",
+                                    "subtitle_2_eng.sub_v1.vtt_v3.vtt_v5.vtt",
+                                    "subtitle_1_eng.sub_v0.vtt_v2.vtt_v4.vtt_v6.vtt",
+                                    "subtitle_2_eng.sub_v1.vtt_v3.vtt_v5.vtt_v7.vtt",
+                                    "subtitle_1_eng.sub_v0.vtt_v2.vtt_v4.vtt_v6.vtt_v8.vtt",
+                                    "subtitle_2_eng.sub_v1.vtt_v3.vtt_v5.vtt_v7.vtt_v9.vtt",
+                                    "subtitle_1_eng.sub_v0.vtt_v2.vtt_v4.vtt_v6.vtt_v8.vtt_v10.vtt",
+                                    "subtitle_2_eng.sub_v1.vtt_v3.vtt_v5.vtt_v7.vtt_v9.vtt_v11.vtt",
+                                    "subtitle_1_eng.sub_v0.vtt_v2.vtt_v4.vtt_v6.vtt_v8.vtt_v10.vtt_v12.vtt",
+                                    "subtitle_2_eng.sub_v1.vtt_v3.vtt_v5.vtt_v7.vtt_v9.vtt_v11.vtt_v13.vtt",
+                                    "subtitle_1_eng.sub_v0.vtt_v2.vtt_v4.vtt_v6.vtt_v8.vtt_v10.vtt_v12.vtt_v14.vtt",
+                                    "subtitle_2_eng.sub_v1.vtt_v3.vtt_v5.vtt_v7.vtt_v9.vtt_v11.vtt_v13.vtt_v15.vtt"
                                 ]
                             }
                         },

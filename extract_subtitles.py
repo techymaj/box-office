@@ -86,7 +86,7 @@ def extract_subtitles(input_file, parent_directory):
                 print(f"Extracting subtitle {i + 1}: {stream_id} ({language}) -> {output_file}")
                 subprocess.Popen(extract_command, stderr=subprocess.PIPE, stdout=subprocess.PIPE)
         else:
-            return "Subtitles found. Extracting...Reload in a few seconds to load extracted subtitles"
+            return "Subtitles found. Extracting...Reload in about 30 seconds to load extracted subtitles."
     
     except Exception as e:
         print(f"An error occurred: {e}")
