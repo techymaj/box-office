@@ -24,12 +24,36 @@
         font-family:'Courier New', Courier, monospace;
     }
 
-    input {
+    div {
+        position: relative;
         width: 15rem;
+    }
+
+    #search-toggle {
+        display: none;
+
+        &:checked + #search {
+            width: 15rem;
+            visibility: visible;
+            border-color: #121010;
+        }
+    }
+
+    input {
+        width: 0;
+        visibility: hidden;
         height: 2.5rem;
         border-radius: 2rem;
-        border-color: #121010;
+        border-color: transparent;
         border-width: 1px;
         background-color: transparent;
+        transition: all .3s;
+    }
+
+    svg {
+        position: absolute;
+        top: 5px;
+        right: 1rem;
+        cursor: pointer;
     }
 }
