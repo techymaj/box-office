@@ -65,24 +65,65 @@ This Flask application serves a media library where users can browse, stream, an
 
 ## Running the Application
 
-1. Know your IP Address
+1. Install nginx
+   ```bash
+   sudo apt update
+   sudo apt install nginx -y
+   ```
+
+2. Start and enable nginx
+   ```bash
+   sudo systemctl start nginx
+   sudo systemctl enable nginx
+   ```
+
+3. Add the server block to ```/etc/nginx/nginx.conf``` inside the **http** block. The app knows it is behind a proxy, so you must add the server block for nginx to do its magic.
+   ```
+   server {
+    listen 80;
+    server_name _;
+
+    location / {
+        proxy_pass http://127.0.0.1:8000/;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+        proxy_set_header X-Forwarded-Host $host;
+        proxy_set_header X-Forwarded-Prefix /;
+    }
+}
+```
+
+4. Test your configuration
+   ```bash
+   sudo nginx -t
+   ```
+   You should see.
+   ```bash
+   nginx: configuration file /etc/nginx/nginx.conf test is successful
+   ```
+
+5. Reload **nginx** to apply the changes
+   ```bash
+   sudo systemctl reload nginx
+   ```
+
+6. Know your IP Address
    ```bash
    ip add
    ```
 
-2. Start the gunicorn server with 4 workers
+7. Start the gunicorn server with 4 workers.
    Adjust the number of workers depending on the cores available in your CPU
    ```bash
    gunicorn -w 4 app:app
    ```
 
-3. Access the application in your browser
+8. Access the application in your browser.
    Use the IP Address obtained from step 1 (Running the Application)
    ```
    http://<IP_ADDRESS>
    ```
 
-4. For remote access, replace `localhost` with your server's IP.
 
 ## Endpoints
 
