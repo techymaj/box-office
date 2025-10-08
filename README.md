@@ -78,7 +78,7 @@ This Flask application serves a media library where users can browse, stream, an
    ```
 
 3. Add the server block to ```/etc/nginx/nginx.conf``` inside the **http** block. The app knows it is behind a proxy, so you must add the server block for nginx to do its magic.
-   ```
+   ```bash
    server {
     listen 80;
     server_name _;
