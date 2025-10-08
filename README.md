@@ -59,9 +59,15 @@ This Flask application serves a media library where users can browse, stream, an
    pip install -r requirements.txt
    ```
 
-5. Ensure the `tree.json` file exists or will be generated dynamically by the app.
+5. Install **FFmpeg**
+   ```bash
+   sudp apt install update
+   sudo apt install ffmpeg
+   ```
 
-6. (Optional) Place your media files in the root directory or update the `MEDIA_FOLDER` configuration.
+6. Ensure the `tree.json` file exists or will be generated dynamically by the app.
+
+7. (Optional) Place your media files in the root directory or update the `MEDIA_FOLDER` configuration.
 
 ## Running the Application
 

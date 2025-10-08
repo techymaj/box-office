@@ -2,7 +2,7 @@ import json
 import os
 import hashlib
 
-directory = "/media/kali"
+directory = "/mnt"
 
 tree = {}
 hashes = {}
