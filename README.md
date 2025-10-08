@@ -123,7 +123,7 @@ inside the **http** block. The app knows it is behind a proxy, so you must add t
    ```
 
 8. Access the application in your browser.
-   Use the IP Address obtained from step 1 (Running the Application)
+   Use the IP Address obtained from step 6 (Running the Application)
    ```
    http://<IP_ADDRESS>
    ```
