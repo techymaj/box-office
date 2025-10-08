@@ -33,6 +33,8 @@ This Flask application serves a media library where users can browse, stream, an
 
 - Python 3.x
 - Flask
+- FFmpeg
+- NGINX
 
 ## Installation
 
@@ -44,7 +46,7 @@ This Flask application serves a media library where users can browse, stream, an
 
 2. Install dependencies:
    ```bash
-   pip install flask
+   pip install -r requirements.txt
    ```
 
 3. Ensure the `tree.json` file exists or will be generated dynamically by the app.
