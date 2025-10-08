@@ -89,18 +89,18 @@ This Flask application serves a media library where users can browse, stream, an
    ``` 
 inside the **http** block. The app knows it is behind a proxy, so you must add the server block for nginx to do its magic.
    ```bash
-   server {
-    listen 80;
-    server_name _;
-
-    location / {
-        proxy_pass http://127.0.0.1:8000/;
-        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-        proxy_set_header X-Forwarded-Proto $scheme;
-        proxy_set_header X-Forwarded-Host $host;
-        proxy_set_header X-Forwarded-Prefix /;
-    }
-}
+	   server {
+	    listen 80;
+	    server_name _;
+	
+	    location / {
+	        proxy_pass http://127.0.0.1:8000/;
+	        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+	        proxy_set_header X-Forwarded-Proto $scheme;
+	        proxy_set_header X-Forwarded-Host $host;
+	        proxy_set_header X-Forwarded-Prefix /;
+	    }
+	}
 ```
 
 4. Test your configuration
@@ -142,9 +142,11 @@ Redirects to the library view.
 
 ### 2. `/library`
 Displays a list of available media files with links to play them.
+![library](https://github.com/user-attachments/assets/b3479195-a33d-4add-aa9a-076431508ba0)
 
 ### 3. `/library/<hash>`
 Streams the selected media file and provides its size and download link.
+![now-playing](https://github.com/user-attachments/assets/cf2b02be-974e-49a4-b8bc-36d8822a41f4)
 
 ### 4. `/<path:filename>`
 Serves media files directly for streaming or downloading.
