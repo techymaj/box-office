@@ -65,17 +65,24 @@ This Flask application serves a media library where users can browse, stream, an
 
 ## Running the Application
 
-1. Start the Flask server:
+1. Know your IP Address
    ```bash
-   python app.py
+   ip add
    ```
 
-2. Access the application in your browser:
-   ```
-   http://localhost:8080
+2. Start the gunicorn server with 4 workers
+   Adjust the number of workers depending on the cores available in your CPU
+   ```bash
+   gunicorn -w 4 app:app
    ```
 
-3. For remote access, replace `localhost` with your server's IP.
+3. Access the application in your browser
+   Use the IP Address obtained from step 1 (Running the Application)
+   ```
+   http://<IP_ADDRESS>
+   ```
+
+4. For remote access, replace `localhost` with your server's IP.
 
 ## Endpoints
 
