@@ -44,14 +44,24 @@ This Flask application serves a media library where users can browse, stream, an
    cd box-office
    ```
 
-2. Install dependencies:
+2. Create a virtual environment
+   ```bash
+   python3 -m venv bo-env
+   ```
+
+3. Activate virtual environment
+    ```bash
+    source bo-env/bin/activate
+    ```
+
+4. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Ensure the `tree.json` file exists or will be generated dynamically by the app.
+5. Ensure the `tree.json` file exists or will be generated dynamically by the app.
 
-4. (Optional) Place your media files in the root directory or update the `MEDIA_FOLDER` configuration.
+6. (Optional) Place your media files in the root directory or update the `MEDIA_FOLDER` configuration.
 
 ## Running the Application
 
